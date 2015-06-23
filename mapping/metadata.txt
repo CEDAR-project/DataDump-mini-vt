@@ -40,11 +40,18 @@ predicate = http://bit.ly/cedar#residenceStatus
 prefix = http://bit.ly/cedar-residenceStatus#
 mapping_type = uri
 
-[GapFiller]
-file = GapFiller.xls
+[Kom]
+file = Kom.xls
 author = Ashkan
-predicate = http://bit.ly/cedar#gapFiller
-prefix = http://bit.ly/cedar-gapFiller#
+predicate = http://bit.ly/cedar#Kom
+prefix = http://bit.ly/cedar-Kom#
+mapping_type = uri
+
+[Wijken]
+file = Wijken.xls
+author = Ashkan
+predicate = http://bit.ly/cedar#Wijken
+prefix = http://bit.ly/cedar-Wijken#
 mapping_type = uri
 
 [Sex]
