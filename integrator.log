@@ -1,715 +1,692 @@
-2015-06-26 10:50:53,717 Main         INFO     [VT_1859_01_H1] Calling tablinker
-2015-06-26 10:50:53,717 Main         INFO     [VT_1879_01_H1] Calling tablinker
-2015-06-26 10:50:53,717 Main         INFO     [VT_1879_05_H1] Calling tablinker
-2015-06-26 10:50:53,717 Main         INFO     [VT_1879_07_H1] Calling tablinker
-2015-06-26 10:50:53,717 Main         INFO     [VT_1879_09_H1] Calling tablinker
-2015-06-26 10:50:53,718 Main         INFO     [VT_1879_11_H1] Calling tablinker
-2015-06-26 10:50:53,718 Main         INFO     [VT_1889_04_H1] Calling tablinker
-2015-06-26 10:50:53,720 TabLink      INFO     [VT_1879_11_H1] Loading DataDump/source-data/VT_1879_11_H1.ods
-2015-06-26 10:50:53,720 TabLink      INFO     [VT_1879_07_H1] Loading DataDump/source-data/VT_1879_07_H1.ods
-2015-06-26 10:50:53,720 TabLink      INFO     [VT_1879_01_H1] Loading DataDump/source-data/VT_1879_01_H1.ods
-2015-06-26 10:50:53,720 TabLink      INFO     [VT_1879_09_H1] Loading DataDump/source-data/VT_1879_09_H1.ods
-2015-06-26 10:50:53,721 TabLink      INFO     [VT_1859_01_H1] Loading DataDump/source-data/VT_1859_01_H1.ods
-2015-06-26 10:50:53,721 TabLink      INFO     [VT_1889_04_H1] Loading DataDump/source-data/VT_1889_04_H1.ods
-2015-06-26 10:50:53,721 Main         INFO     [VT_1879_03_H1] Calling tablinker
-2015-06-26 10:50:53,724 TabLink      INFO     [VT_1879_05_H1] Loading DataDump/source-data/VT_1879_05_H1.ods
-2015-06-26 10:50:53,732 TabLink      INFO     [VT_1879_03_H1] Loading DataDump/source-data/VT_1879_03_H1.ods
-2015-06-26 10:51:00,195 TabLink      INFO     [VT_1879_07_H1] Found 1 sheets to process
-2015-06-26 10:51:06,862 TabLink      INFO     [VT_1879_03_H1] Found 1 sheets to process
-2015-06-26 10:51:07,124 TabLink      INFO     [VT_1879_05_H1] Found 1 sheets to process
-2015-06-26 10:51:08,006 TabLink      INFO     [VT_1879_09_H1] Found 1 sheets to process
-2015-06-26 10:51:08,103 TabLink      INFO     [VT_1879_01_H1] Found 1 sheets to process
-2015-06-26 10:51:08,438 TabLink      INFO     [VT_1879_11_H1] Found 1 sheets to process
-2015-06-26 10:51:11,440 TabLink      INFO     [VT_1889_04_H1] Found 1 sheets to process
-2015-06-26 10:51:12,956 TabLink      INFO     [VT_1879_07_H1] Saving 69812 data triples
-2015-06-26 10:51:32,613 TabLink      INFO     [VT_1879_03_H1] Saving 129429 data triples
-2015-06-26 10:51:33,407 TabLink      INFO     [VT_1879_05_H1] Saving 133726 data triples
-2015-06-26 10:51:36,352 TabLink      INFO     [VT_1879_01_H1] Saving 150978 data triples
-2015-06-26 10:51:38,259 TabLink      INFO     [VT_1859_01_H1] Found 12 sheets to process
-2015-06-26 10:51:39,015 Main         INFO     [VT_1879_08_H1] Calling tablinker
-2015-06-26 10:51:39,016 TabLink      INFO     [VT_1879_08_H1] Loading DataDump/source-data/VT_1879_08_H1.ods
-2015-06-26 10:51:44,544 TabLink      INFO     [VT_1889_04_H1] Saving 144090 data triples
-2015-06-26 10:51:52,273 TabLink      INFO     [VT_1879_11_H1] Saving 174851 data triples
-2015-06-26 10:51:57,276 TabLink      INFO     [VT_1879_08_H1] Found 1 sheets to process
-2015-06-26 10:52:20,275 Main         INFO     [VT_1879_04_H1] Calling tablinker
-2015-06-26 10:52:20,277 TabLink      INFO     [VT_1879_04_H1] Loading DataDump/source-data/VT_1879_04_H1.ods
-2015-06-26 10:52:23,221 Main         INFO     [VT_1879_06_H1] Calling tablinker
-2015-06-26 10:52:23,223 TabLink      INFO     [VT_1879_06_H1] Loading DataDump/source-data/VT_1879_06_H1.ods
-2015-06-26 10:52:27,288 TabLink      INFO     [VT_1879_04_H1] Found 1 sheets to process
-2015-06-26 10:52:32,300 Main         INFO     [VT_1879_02_H1] Calling tablinker
-2015-06-26 10:52:32,301 TabLink      INFO     [VT_1879_02_H1] Loading DataDump/source-data/VT_1879_02_H1.ods
-2015-06-26 10:52:32,427 TabLink      INFO     [VT_1879_06_H1] Found 1 sheets to process
-2015-06-26 10:52:37,267 TabLink      INFO     [VT_1879_08_H1] Saving 226003 data triples
-2015-06-26 10:52:38,805 TabLink      INFO     [VT_1879_02_H1] Found 1 sheets to process
-2015-06-26 10:52:39,610 Main         INFO     [VT_1889_05_H1] Calling tablinker
-2015-06-26 10:52:39,611 TabLink      INFO     [VT_1889_05_H1] Loading DataDump/source-data/VT_1889_05_H1.ods
-2015-06-26 10:52:40,993 TabLink      INFO     [VT_1879_04_H1] Saving 65607 data triples
-2015-06-26 10:52:46,111 TabLink      INFO     [VT_1889_05_H1] Found 1 sheets to process
-2015-06-26 10:52:51,732 TabLink      INFO     [VT_1879_06_H1] Saving 102538 data triples
-2015-06-26 10:52:52,034 TabLink      INFO     [VT_1879_02_H1] Saving 73358 data triples
-2015-06-26 10:52:57,163 Main         INFO     [VT_1889_03_H1] Calling tablinker
-2015-06-26 10:52:57,165 TabLink      INFO     [VT_1889_03_H1] Loading DataDump/source-data/VT_1889_03_H1.ods
-2015-06-26 10:52:57,364 TabLink      INFO     [VT_1889_05_H1] Saving 49276 data triples
-2015-06-26 10:53:05,646 Main         INFO     [VT_1889_06_H1] Calling tablinker
-2015-06-26 10:53:05,648 TabLink      INFO     [VT_1889_06_H1] Loading DataDump/source-data/VT_1889_06_H1.ods
-2015-06-26 10:53:09,494 TabLink      INFO     [VT_1889_03_H1] Found 1 sheets to process
-2015-06-26 10:53:12,392 TabLink      INFO     [VT_1889_06_H1] Found 1 sheets to process
-2015-06-26 10:53:16,106 Main         INFO     [VT_1889_08_H1] Calling tablinker
-2015-06-26 10:53:16,107 TabLink      INFO     [VT_1889_08_H1] Loading DataDump/source-data/VT_1889_08_H1.ods
-2015-06-26 10:53:17,457 TabLink      INFO     [VT_1879_09_H1] Saving 173062 data triples
-2015-06-26 10:53:19,330 Main         INFO     [VT_1889_10_H1] Calling tablinker
-2015-06-26 10:53:19,331 TabLink      INFO     [VT_1889_10_H1] Loading DataDump/source-data/VT_1889_10_H1.ods
-2015-06-26 10:53:25,496 TabLink      INFO     [VT_1889_06_H1] Saving 63493 data triples
-2015-06-26 10:53:27,364 TabLink      INFO     [VT_1859_01_H1] Saving 607036 data triples
-2015-06-26 10:53:28,493 TabLink      INFO     [VT_1889_10_H1] Found 1 sheets to process
-2015-06-26 10:53:30,928 Main         INFO     [VT_1889_12_H1] Calling tablinker
-2015-06-26 10:53:30,930 TabLink      INFO     [VT_1889_12_H1] Loading DataDump/source-data/VT_1889_12_H1.ods
-2015-06-26 10:53:31,096 TabLink      INFO     [VT_1889_08_H1] Found 1 sheets to process
-2015-06-26 10:53:32,932 TabLink      INFO     [VT_1889_03_H1] Saving 103813 data triples
-2015-06-26 10:53:46,812 TabLink      INFO     [VT_1889_10_H1] Saving 87507 data triples
-2015-06-26 10:53:47,432 TabLink      INFO     [VT_1889_12_H1] Found 1 sheets to process
-2015-06-26 10:53:49,240 Main         INFO     [VT_1889_07_H1] Calling tablinker
-2015-06-26 10:53:49,241 TabLink      INFO     [VT_1889_07_H1] Loading DataDump/source-data/VT_1889_07_H1.ods
-2015-06-26 10:54:00,538 Main         INFO     [VT_1899_01_H1] Calling tablinker
-2015-06-26 10:54:00,539 TabLink      INFO     [VT_1899_01_H1] Loading DataDump/source-data/VT_1899_01_H1.ods
-2015-06-26 10:54:01,507 TabLink      INFO     [VT_1889_08_H1] Saving 144552 data triples
-2015-06-26 10:54:02,334 TabLink      INFO     [VT_1889_07_H1] Found 1 sheets to process
-2015-06-26 10:54:11,591 Main         INFO     [VT_1899_03_H1] Calling tablinker
-2015-06-26 10:54:11,593 TabLink      INFO     [VT_1899_03_H1] Loading DataDump/source-data/VT_1899_03_H1.ods
-2015-06-26 10:54:18,408 TabLink      INFO     [VT_1899_01_H1] Found 1 sheets to process
-2015-06-26 10:54:19,823 Main         INFO     [VT_1889_11_H1] Calling tablinker
-2015-06-26 10:54:19,825 TabLink      INFO     [VT_1889_11_H1] Loading DataDump/source-data/VT_1889_11_H1.ods
-2015-06-26 10:54:19,972 TabLink      INFO     [VT_1889_12_H1] Saving 150697 data triples
-2015-06-26 10:54:21,770 Main         INFO     [VT_1879_10_H1] Calling tablinker
-2015-06-26 10:54:21,771 TabLink      INFO     [VT_1879_10_H1] Loading DataDump/source-data/VT_1879_10_H1.ods
-2015-06-26 10:54:25,653 TabLink      INFO     [VT_1889_11_H1] Found 1 sheets to process
-2015-06-26 10:54:28,145 TabLink      INFO     [VT_1899_03_H1] Found 1 sheets to process
-2015-06-26 10:54:28,839 TabLink      INFO     [VT_1889_07_H1] Saving 127051 data triples
-2015-06-26 10:54:36,789 TabLink      INFO     [VT_1879_10_H1] Found 1 sheets to process
-2015-06-26 10:54:37,237 TabLink      INFO     [VT_1889_11_H1] Saving 57124 data triples
-2015-06-26 10:54:55,840 Main         INFO     [VT_1889_09_H1] Calling tablinker
-2015-06-26 10:54:55,841 TabLink      INFO     [VT_1889_09_H1] Loading DataDump/source-data/VT_1889_09_H1.ods
-2015-06-26 10:54:57,379 TabLink      INFO     [VT_1899_01_H1] Saving 206596 data triples
-2015-06-26 10:54:58,576 Main         INFO     [VT_1899_05_H1] Calling tablinker
-2015-06-26 10:54:58,578 TabLink      INFO     [VT_1899_05_H1] Loading DataDump/source-data/VT_1899_05_H1.ods
-2015-06-26 10:55:04,369 TabLink      INFO     [VT_1899_03_H1] Saving 194216 data triples
-2015-06-26 10:55:06,475 TabLink      INFO     [VT_1899_05_H1] Found 1 sheets to process
-2015-06-26 10:55:09,472 TabLink      INFO     [VT_1879_10_H1] Saving 181005 data triples
-2015-06-26 10:55:16,615 TabLink      INFO     [VT_1889_09_H1] Found 1 sheets to process
-2015-06-26 10:55:17,063 Main         INFO     [VT_1889_13_H1] Calling tablinker
-2015-06-26 10:55:17,064 TabLink      INFO     [VT_1889_13_H1] Loading DataDump/source-data/VT_1889_13_H1.ods
-2015-06-26 10:55:17,183 Main         INFO     [VT_1899_07_H1] Calling tablinker
-2015-06-26 10:55:17,184 TabLink      INFO     [VT_1899_07_H1] Loading DataDump/source-data/VT_1899_07_H1.ods
-2015-06-26 10:55:24,202 TabLink      INFO     [VT_1899_05_H1] Saving 94433 data triples
-2015-06-26 10:55:26,655 TabLink      INFO     [VT_1889_13_H1] Found 1 sheets to process
-2015-06-26 10:55:28,706 TabLink      INFO     [VT_1899_07_H1] Found 1 sheets to process
-2015-06-26 10:55:50,429 TabLink      INFO     [VT_1889_13_H1] Saving 119539 data triples
-2015-06-26 10:55:53,033 TabLink      INFO     [VT_1899_07_H1] Saving 124976 data triples
-2015-06-26 10:55:57,436 TabLink      INFO     [VT_1889_09_H1] Saving 194322 data triples
-2015-06-26 10:55:59,628 Main         INFO     [VT_1899_06_H1] Calling tablinker
-2015-06-26 10:55:59,630 TabLink      INFO     [VT_1899_06_H1] Loading DataDump/source-data/VT_1899_06_H1.ods
-2015-06-26 10:56:04,969 TabLink      INFO     [VT_1899_06_H1] Found 1 sheets to process
-2015-06-26 10:56:15,598 Main         INFO     [VT_1899_02_H1] Calling tablinker
-2015-06-26 10:56:15,599 TabLink      INFO     [VT_1899_02_H1] Loading DataDump/source-data/VT_1899_02_H1.ods
-2015-06-26 10:56:16,512 TabLink      INFO     [VT_1899_06_H1] Saving 60890 data triples
-2015-06-26 10:56:17,342 Main         INFO     [VT_1899_09_H1] Calling tablinker
-2015-06-26 10:56:17,343 TabLink      INFO     [VT_1899_09_H1] Loading DataDump/source-data/VT_1899_09_H1.ods
-2015-06-26 10:56:18,258 Main         INFO     [VT_1899_04_H1] Calling tablinker
-2015-06-26 10:56:18,259 TabLink      INFO     [VT_1899_04_H1] Loading DataDump/source-data/VT_1899_04_H1.ods
-2015-06-26 10:56:27,201 TabLink      INFO     [VT_1899_09_H1] Found 1 sheets to process
-2015-06-26 10:56:27,759 TabLink      INFO     [VT_1899_02_H1] Found 1 sheets to process
-2015-06-26 10:56:32,459 TabLink      INFO     [VT_1899_04_H1] Found 1 sheets to process
-2015-06-26 10:56:36,226 Main         INFO     [VT_1899_11_H1] Calling tablinker
-2015-06-26 10:56:36,228 TabLink      INFO     [VT_1899_11_H1] Loading DataDump/source-data/VT_1899_11_H1.ods
-2015-06-26 10:56:40,005 Main         INFO     [VT_1909_01_T] Calling tablinker
-2015-06-26 10:56:40,007 TabLink      INFO     [VT_1909_01_T] Loading DataDump/source-data/VT_1909_01_T.ods
-2015-06-26 10:56:40,197 Main         INFO     [VT_1899_08_H1] Calling tablinker
-2015-06-26 10:56:40,199 TabLink      INFO     [VT_1899_08_H1] Loading DataDump/source-data/VT_1899_08_H1.ods
-2015-06-26 10:56:47,360 TabLink      INFO     [VT_1899_08_H1] Found 1 sheets to process
-2015-06-26 10:56:47,493 TabLink      INFO     [VT_1899_11_H1] Found 1 sheets to process
-2015-06-26 10:56:48,273 TabLink      INFO     [VT_1899_09_H1] Saving 109828 data triples
-2015-06-26 10:56:54,145 TabLink      INFO     [VT_1899_02_H1] Saving 139568 data triples
-2015-06-26 10:57:02,751 TabLink      INFO     [VT_1899_08_H1] Saving 81160 data triples
-2015-06-26 10:57:03,416 TabLink      INFO     [VT_1899_04_H1] Saving 162336 data triples
-2015-06-26 10:57:11,824 TabLink      INFO     [VT_1899_11_H1] Saving 125816 data triples
-2015-06-26 10:57:16,504 Main         INFO     [VT_1869_01_H1] Calling tablinker
-2015-06-26 10:57:16,505 TabLink      INFO     [VT_1869_01_H1] Loading DataDump/source-data/VT_1869_01_H1.ods
-2015-06-26 10:57:29,917 Main         INFO     [VT_1899_10_H1] Calling tablinker
-2015-06-26 10:57:29,918 TabLink      INFO     [VT_1899_10_H1] Loading DataDump/source-data/VT_1899_10_H1.ods
-2015-06-26 10:57:35,468 TabLink      INFO     [VT_1899_10_H1] Found 1 sheets to process
-2015-06-26 10:57:41,575 TabLink      INFO     [VT_1909_01_T] Found 1 sheets to process
-2015-06-26 10:57:47,194 TabLink      INFO     [VT_1899_10_H1] Saving 59986 data triples
-2015-06-26 10:57:53,281 Main         INFO     [VT_1899_12_H1] Calling tablinker
-2015-06-26 10:57:53,282 TabLink      INFO     [VT_1899_12_H1] Loading DataDump/source-data/VT_1899_12_H1.ods
-2015-06-26 10:57:53,939 TabLink      INFO     [VT_1899_12_H1] Found 1 sheets to process
-2015-06-26 10:57:55,028 TabLink      INFO     [VT_1899_12_H1] Saving 9657 data triples
-2015-06-26 10:58:04,043 TabLink      INFO     [VT_1869_01_H1] Found 12 sheets to process
-2015-06-26 10:58:52,967 TabLink      INFO     [VT_1909_01_T] Saving 639686 data triples
-2015-06-26 10:59:20,930 TabLink      INFO     [VT_1869_01_H1] Saving 895286 data triples
-2015-06-26 11:00:52,339 Main         INFO     [VT_1920_01_T] Calling tablinker
-2015-06-26 11:00:52,340 TabLink      INFO     [VT_1920_01_T] Loading DataDump/source-data/VT_1920_01_T.ods
-2015-06-26 11:01:42,936 TabLink      INFO     [VT_1920_01_T] Found 3 sheets to process
-2015-06-26 11:03:25,884 TabLink      INFO     [VT_1920_01_T] Saving 813789 data triples
-2015-06-26 11:05:54,693 Main         INFO     Clean urn:graph:cedar-mini:raw-data
-2015-06-26 11:06:23,768 Main         INFO     Push the content of DataDump/raw-rdf//*
-2015-06-26 11:06:23,768 Main         INFO     Push DataDump/raw-rdf/VT_1859_01_H1.ttl.bz2
-2015-06-26 11:07:01,264 Main         INFO     Push DataDump/raw-rdf/VT_1869_01_H1.ttl.bz2
-2015-06-26 11:07:57,320 Main         INFO     Push DataDump/raw-rdf/VT_1879_01_H1.ttl.bz2
-2015-06-26 11:08:07,236 Main         INFO     Push DataDump/raw-rdf/VT_1879_02_H1.ttl.bz2
-2015-06-26 11:08:12,243 Main         INFO     Push DataDump/raw-rdf/VT_1879_03_H1.ttl.bz2
-2015-06-26 11:08:21,006 Main         INFO     Push DataDump/raw-rdf/VT_1879_04_H1.ttl.bz2
-2015-06-26 11:08:25,415 Main         INFO     Push DataDump/raw-rdf/VT_1879_05_H1.ttl.bz2
-2015-06-26 11:08:34,313 Main         INFO     Push DataDump/raw-rdf/VT_1879_06_H1.ttl.bz2
-2015-06-26 11:08:41,224 Main         INFO     Push DataDump/raw-rdf/VT_1879_07_H1.ttl.bz2
-2015-06-26 11:08:45,685 Main         INFO     Push DataDump/raw-rdf/VT_1879_08_H1.ttl.bz2
-2015-06-26 11:09:00,672 Main         INFO     Push DataDump/raw-rdf/VT_1879_09_H1.ttl.bz2
-2015-06-26 11:09:11,865 Main         INFO     Push DataDump/raw-rdf/VT_1879_10_H1.ttl.bz2
-2015-06-26 11:09:23,735 Main         INFO     Push DataDump/raw-rdf/VT_1879_11_H1.ttl.bz2
-2015-06-26 11:09:35,261 Main         INFO     Push DataDump/raw-rdf/VT_1889_03_H1.ttl.bz2
-2015-06-26 11:09:42,363 Main         INFO     Push DataDump/raw-rdf/VT_1889_04_H1.ttl.bz2
-2015-06-26 11:09:51,896 Main         INFO     Push DataDump/raw-rdf/VT_1889_05_H1.ttl.bz2
-2015-06-26 11:09:55,332 Main         INFO     Push DataDump/raw-rdf/VT_1889_06_H1.ttl.bz2
-2015-06-26 11:09:59,476 Main         INFO     Push DataDump/raw-rdf/VT_1889_07_H1.ttl.bz2
-2015-06-26 11:10:07,729 Main         INFO     Push DataDump/raw-rdf/VT_1889_08_H1.ttl.bz2
-2015-06-26 11:10:21,979 Main         INFO     Push DataDump/raw-rdf/VT_1889_09_H1.ttl.bz2
-2015-06-26 11:10:34,957 Main         INFO     Push DataDump/raw-rdf/VT_1889_10_H1.ttl.bz2
-2015-06-26 11:10:40,705 Main         INFO     Push DataDump/raw-rdf/VT_1889_11_H1.ttl.bz2
-2015-06-26 11:10:44,557 Main         INFO     Push DataDump/raw-rdf/VT_1889_12_H1.ttl.bz2
-2015-06-26 11:10:54,867 Main         INFO     Push DataDump/raw-rdf/VT_1889_13_H1.ttl.bz2
-2015-06-26 11:11:02,622 Main         INFO     Push DataDump/raw-rdf/VT_1899_01_H1.ttl.bz2
-2015-06-26 11:11:16,452 Main         INFO     Push DataDump/raw-rdf/VT_1899_02_H1.ttl.bz2
-2015-06-26 11:11:25,828 Main         INFO     Push DataDump/raw-rdf/VT_1899_03_H1.ttl.bz2
-2015-06-26 11:11:38,735 Main         INFO     Push DataDump/raw-rdf/VT_1899_04_H1.ttl.bz2
-2015-06-26 11:11:49,627 Main         INFO     Push DataDump/raw-rdf/VT_1899_05_H1.ttl.bz2
-2015-06-26 11:11:55,810 Main         INFO     Push DataDump/raw-rdf/VT_1899_06_H1.ttl.bz2
-2015-06-26 11:11:59,822 Main         INFO     Push DataDump/raw-rdf/VT_1899_07_H1.ttl.bz2
-2015-06-26 11:12:08,080 Main         INFO     Push DataDump/raw-rdf/VT_1899_08_H1.ttl.bz2
-2015-06-26 11:12:13,627 Main         INFO     Push DataDump/raw-rdf/VT_1899_09_H1.ttl.bz2
-2015-06-26 11:12:21,229 Main         INFO     Push DataDump/raw-rdf/VT_1899_10_H1.ttl.bz2
-2015-06-26 11:12:25,398 Main         INFO     Push DataDump/raw-rdf/VT_1899_11_H1.ttl.bz2
-2015-06-26 11:12:33,774 Main         INFO     Push DataDump/raw-rdf/VT_1899_12_H1.ttl.bz2
-2015-06-26 11:12:34,671 Main         INFO     Push DataDump/raw-rdf/VT_1909_01_T.ttl.bz2
-2015-06-26 11:13:15,310 Main         INFO     Push DataDump/raw-rdf/VT_1920_01_T.ttl.bz2
-2015-06-26 11:14:07,553 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0>
-2015-06-26 11:14:07,553 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2>
-2015-06-26 11:14:07,554 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0] Loading mappings
-2015-06-26 11:14:07,554 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2] Loading mappings
-2015-06-26 11:14:07,554 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6>
-2015-06-26 11:14:07,554 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0>
-2015-06-26 11:14:07,554 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0] Loading mappings
-2015-06-26 11:14:07,554 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6] Loading mappings
-2015-06-26 11:14:09,037 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2] Loading headers
-2015-06-26 11:14:09,053 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0] Loading headers
-2015-06-26 11:14:09,380 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6] Loading headers
-2015-06-26 11:14:09,498 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0] Loading headers
-2015-06-26 11:14:14,151 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6] => 3263 results
-2015-06-26 11:14:14,218 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2] => 3977 results
-2015-06-26 11:14:14,273 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0] => 1514 results
-2015-06-26 11:14:14,396 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0] => 4886 results
-2015-06-26 11:14:15,267 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6] Saving 12490 data triples.
-2015-06-26 11:14:15,786 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2] Saving 18349 data triples.
-2015-06-26 11:14:16,000 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0] Saving 17068 data triples.
-2015-06-26 11:14:16,195 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0] Saving 20509 data triples.
-2015-06-26 11:14:18,158 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7>
-2015-06-26 11:14:18,158 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7] Loading mappings
-2015-06-26 11:14:19,157 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:19,251 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1>
-2015-06-26 11:14:19,251 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1] Loading mappings
-2015-06-26 11:14:19,629 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7] Loading headers
-2015-06-26 11:14:19,760 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7] => 1970 results
-2015-06-26 11:14:20,115 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3>
-2015-06-26 11:14:20,116 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3] Loading mappings
-2015-06-26 11:14:20,475 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7] Saving 8149 data triples.
-2015-06-26 11:14:20,743 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1] Loading headers
-2015-06-26 11:14:20,838 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1] => 1356 results
-2015-06-26 11:14:20,992 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1>
-2015-06-26 11:14:20,992 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1] Loading mappings
-2015-06-26 11:14:21,594 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3] Loading headers
-2015-06-26 11:14:21,865 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3] => 3091 results
-2015-06-26 11:14:22,375 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8>
-2015-06-26 11:14:22,375 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8] Loading mappings
-2015-06-26 11:14:22,471 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1] Loading headers
-2015-06-26 11:14:22,483 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1] Saving 15227 data triples.
-2015-06-26 11:14:22,746 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1] => 3815 results
-2015-06-26 11:14:23,107 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3] Saving 14059 data triples.
-2015-06-26 11:14:23,862 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8] Loading headers
-2015-06-26 11:14:24,006 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8] => 2276 results
-2015-06-26 11:14:24,107 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1] Saving 15582 data triples.
-2015-06-26 11:14:25,281 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:25,333 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8] Saving 17002 data triples.
-2015-06-26 11:14:25,363 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10>
-2015-06-26 11:14:25,363 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10] Loading mappings
-2015-06-26 11:14:26,395 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4>
-2015-06-26 11:14:26,395 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4] Loading mappings
-2015-06-26 11:14:26,836 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10] Loading headers
-2015-06-26 11:14:26,970 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10] => 1468 results
-2015-06-26 11:14:27,723 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10>
-2015-06-26 11:14:27,723 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10] Loading mappings
-2015-06-26 11:14:27,866 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4] Loading headers
-2015-06-26 11:14:28,091 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4] => 2303 results
-2015-06-26 11:14:28,821 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10] Saving 17025 data triples.
-2015-06-26 11:14:29,182 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10] Loading headers
-2015-06-26 11:14:29,399 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10] => 3602 results
-2015-06-26 11:14:30,099 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4] Saving 18299 data triples.
-2015-06-26 11:14:30,860 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9>
-2015-06-26 11:14:30,860 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9] Loading mappings
-2015-06-26 11:14:31,258 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10] Saving 14959 data triples.
-2015-06-26 11:14:31,862 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:31,953 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11>
-2015-06-26 11:14:31,954 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11] Loading mappings
-2015-06-26 11:14:33,497 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11] Loading headers
-2015-06-26 11:14:33,509 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11] => 83 results
-2015-06-26 11:14:33,589 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11] Saving 768 data triples.
-2015-06-26 11:14:33,610 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9] Loading headers
-2015-06-26 11:14:33,724 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:33,737 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2>
-2015-06-26 11:14:33,737 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2] Loading mappings
-2015-06-26 11:14:33,762 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9] => 1463 results
-2015-06-26 11:14:34,313 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9] Saving 5839 data triples.
-2015-06-26 11:14:34,843 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11>
-2015-06-26 11:14:34,843 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11] Loading mappings
-2015-06-26 11:14:35,216 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2] Loading headers
-2015-06-26 11:14:35,336 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2] => 1187 results
-2015-06-26 11:14:35,666 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6>
-2015-06-26 11:14:35,667 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6] Loading mappings
-2015-06-26 11:14:35,978 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5>
-2015-06-26 11:14:35,979 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5] Loading mappings
-2015-06-26 11:14:36,335 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11] Loading headers
-2015-06-26 11:14:36,385 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11] => 338 results
-2015-06-26 11:14:36,553 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11] Saving 732 data triples.
-2015-06-26 11:14:36,685 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2] Saving 13425 data triples.
-2015-06-26 11:14:36,887 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0>
-2015-06-26 11:14:36,888 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0] Loading mappings
-2015-06-26 11:14:37,111 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6] Loading headers
-2015-06-26 11:14:37,163 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6] => 712 results
-2015-06-26 11:14:37,997 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6] Saving 7721 data triples.
-2015-06-26 11:14:38,446 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5] Loading headers
-2015-06-26 11:14:38,586 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5] => 1376 results
-2015-06-26 11:14:39,104 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0] Loading headers
-2015-06-26 11:14:39,408 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:39,429 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0] => 4130 results
-2015-06-26 11:14:39,448 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7>
-2015-06-26 11:14:39,448 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7] Loading mappings
-2015-06-26 11:14:39,604 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:39,653 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5] Saving 10779 data triples.
-2015-06-26 11:14:39,679 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3>
-2015-06-26 11:14:39,679 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3] Loading mappings
-2015-06-26 11:14:40,905 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7] Loading headers
-2015-06-26 11:14:40,940 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7] => 390 results
-2015-06-26 11:14:41,145 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3] Loading headers
-2015-06-26 11:14:41,284 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3] => 1375 results
-2015-06-26 11:14:41,374 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7] Saving 4185 data triples.
-2015-06-26 11:14:42,132 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0>
-2015-06-26 11:14:42,132 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0] Loading mappings
-2015-06-26 11:14:42,136 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:42,162 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8>
-2015-06-26 11:14:42,163 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8] Loading mappings
-2015-06-26 11:14:42,990 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0] Saving 35416 data triples.
-2015-06-26 11:14:43,589 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0] Loading headers
-2015-06-26 11:14:43,613 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8] Loading headers
-2015-06-26 11:14:43,672 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8] => 779 results
-2015-06-26 11:14:43,932 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0] => 3545 results
-2015-06-26 11:14:44,347 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3] Saving 15642 data triples.
-2015-06-26 11:14:44,572 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8] Saving 8802 data triples.
-2015-06-26 11:14:46,141 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:46,188 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9>
-2015-06-26 11:14:46,188 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9] Loading mappings
-2015-06-26 11:14:47,632 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9] Loading headers
-2015-06-26 11:14:47,696 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9] => 621 results
-2015-06-26 11:14:48,536 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0] Saving 32732 data triples.
-2015-06-26 11:14:48,608 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9] Saving 7041 data triples.
-2015-06-26 11:14:49,854 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:49,891 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0>
-2015-06-26 11:14:49,891 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0] Loading mappings
-2015-06-26 11:14:50,030 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:50,156 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4>
-2015-06-26 11:14:50,157 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4] Loading mappings
-2015-06-26 11:14:51,342 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0] Loading headers
-2015-06-26 11:14:51,732 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0] => 4058 results
-2015-06-26 11:14:51,758 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0>
-2015-06-26 11:14:51,758 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0] Loading mappings
-2015-06-26 11:14:52,911 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4] Loading headers
-2015-06-26 11:14:52,982 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4] => 644 results
-2015-06-26 11:14:53,244 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0] Loading headers
-2015-06-26 11:14:53,357 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0] => 1790 results
-2015-06-26 11:14:54,291 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0] Saving 34808 data triples.
-2015-06-26 11:14:54,383 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4] Saving 7194 data triples.
-2015-06-26 11:14:54,440 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0] Saving 14734 data triples.
-2015-06-26 11:14:57,004 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:14:57,067 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5>
-2015-06-26 11:14:57,067 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5] Loading mappings
-2015-06-26 11:14:57,796 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0>
-2015-06-26 11:14:57,797 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0] Loading mappings
-2015-06-26 11:14:59,263 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0] Loading headers
-2015-06-26 11:14:59,490 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0] => 3769 results
-2015-06-26 11:14:59,871 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5] Loading headers
-2015-06-26 11:14:59,905 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5] => 403 results
-2015-06-26 11:15:00,341 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5] Saving 4359 data triples.
-2015-06-26 11:15:01,152 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:15:01,180 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0>
-2015-06-26 11:15:01,181 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0] Loading mappings
-2015-06-26 11:15:01,814 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0>
-2015-06-26 11:15:01,814 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0] Loading mappings
-2015-06-26 11:15:01,962 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0] Saving 33272 data triples.
-2015-06-26 11:15:02,302 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0>
-2015-06-26 11:15:02,302 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0] Loading mappings
-2015-06-26 11:15:02,665 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0] Loading headers
-2015-06-26 11:15:02,819 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0] => 2324 results
-2015-06-26 11:15:03,329 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0] Loading headers
-2015-06-26 11:15:03,547 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0] => 2516 results
-2015-06-26 11:15:03,711 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0] Saving 9194 data triples.
-2015-06-26 11:15:03,803 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0] Loading headers
-2015-06-26 11:15:04,089 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0] => 4295 results
-2015-06-26 11:15:06,405 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0] Saving 22382 data triples.
-2015-06-26 11:15:06,839 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0] Saving 37734 data triples.
-2015-06-26 11:15:07,832 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0>
-2015-06-26 11:15:07,832 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0] Loading mappings
-2015-06-26 11:15:09,602 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0>
-2015-06-26 11:15:09,603 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0] Loading mappings
-2015-06-26 11:15:10,568 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0] Loading headers
-2015-06-26 11:15:10,608 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0] => 456 results
-2015-06-26 11:15:10,811 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0] Saving 2423 data triples.
-2015-06-26 11:15:11,090 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0] Loading headers
-2015-06-26 11:15:11,252 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0] => 1845 results
-2015-06-26 11:15:11,426 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0>
-2015-06-26 11:15:11,426 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0] Loading mappings
-2015-06-26 11:15:12,512 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0] Saving 17310 data triples.
-2015-06-26 11:15:13,078 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0] Loading headers
-2015-06-26 11:15:13,129 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0] => 655 results
-2015-06-26 11:15:13,436 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0] Saving 3783 data triples.
-2015-06-26 11:15:13,753 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0>
-2015-06-26 11:15:13,753 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0] Loading mappings
-2015-06-26 11:15:14,305 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0>
-2015-06-26 11:15:14,306 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0] Loading mappings
-2015-06-26 11:15:15,245 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0] Loading headers
-2015-06-26 11:15:15,402 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0] => 1769 results
-2015-06-26 11:15:15,556 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0>
-2015-06-26 11:15:15,557 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0] Loading mappings
-2015-06-26 11:15:15,843 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0] Loading headers
-2015-06-26 11:15:15,935 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0] => 1289 results
-2015-06-26 11:15:16,541 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0] Saving 14624 data triples.
-2015-06-26 11:15:16,545 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0] Saving 7583 data triples.
-2015-06-26 11:15:16,741 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0>
-2015-06-26 11:15:16,741 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0] Loading mappings
-2015-06-26 11:15:17,063 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0] Loading headers
-2015-06-26 11:15:17,323 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0] => 4192 results
-2015-06-26 11:15:18,232 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0] Loading headers
-2015-06-26 11:15:18,287 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0>
-2015-06-26 11:15:18,287 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0] Loading mappings
-2015-06-26 11:15:18,411 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0] => 1479 results
-2015-06-26 11:15:19,768 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0] Loading headers
-2015-06-26 11:15:19,772 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0] Saving 8834 data triples.
-2015-06-26 11:15:19,919 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0>
-2015-06-26 11:15:19,919 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0] Loading mappings
-2015-06-26 11:15:19,948 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0] => 1812 results
-2015-06-26 11:15:21,363 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0] Loading headers
-2015-06-26 11:15:21,625 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0] Saving 11021 data triples.
-2015-06-26 11:15:21,709 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0] Saving 36260 data triples.
-2015-06-26 11:15:21,731 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0] => 5339 results
-2015-06-26 11:15:21,801 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0>
-2015-06-26 11:15:21,802 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0] Loading mappings
-2015-06-26 11:15:23,254 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0] Loading headers
-2015-06-26 11:15:23,406 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0] => 2303 results
-2015-06-26 11:15:24,362 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0] Saving 11920 data triples.
-2015-06-26 11:15:25,086 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0] Saving 45114 data triples.
-2015-06-26 11:15:26,508 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0>
-2015-06-26 11:15:26,508 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0] Loading mappings
-2015-06-26 11:15:27,087 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0>
-2015-06-26 11:15:27,088 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0] Loading mappings
-2015-06-26 11:15:28,530 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0] Loading headers
-2015-06-26 11:15:28,605 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0] => 1045 results
-2015-06-26 11:15:29,142 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0] Saving 7008 data triples.
-2015-06-26 11:15:29,302 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0] Loading headers
-2015-06-26 11:15:29,382 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0] => 1075 results
-2015-06-26 11:15:29,973 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0] Saving 7798 data triples.
-2015-06-26 11:15:30,744 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0>
-2015-06-26 11:15:30,744 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0] Loading mappings
-2015-06-26 11:15:31,766 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0>
-2015-06-26 11:15:31,767 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0] Loading mappings
-2015-06-26 11:15:32,216 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0] Loading headers
-2015-06-26 11:15:32,285 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0] => 691 results
-2015-06-26 11:15:32,630 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0] Saving 4323 data triples.
-2015-06-26 11:15:33,273 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0] Loading headers
-2015-06-26 11:15:33,623 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0>
-2015-06-26 11:15:33,623 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0] Loading mappings
-2015-06-26 11:15:33,846 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0] => 9634 results
-2015-06-26 11:15:34,007 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0>
-2015-06-26 11:15:34,007 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0] Loading mappings
-2015-06-26 11:15:35,110 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0] Loading headers
-2015-06-26 11:15:35,506 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0] Loading headers
-2015-06-26 11:15:35,576 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0>
-2015-06-26 11:15:35,576 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0] Loading mappings
-2015-06-26 11:15:35,603 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0] => 1039 results
-2015-06-26 11:15:35,816 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0] => 8366 results
-2015-06-26 11:15:35,968 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0] Saving 3983 data triples.
-2015-06-26 11:15:36,889 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0>
-2015-06-26 11:15:36,889 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0] Loading mappings
-2015-06-26 11:15:37,101 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0] Loading headers
-2015-06-26 11:15:37,434 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0] => 5648 results
-2015-06-26 11:15:38,383 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0] Loading headers
-2015-06-26 11:15:38,788 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0] => 5822 results
-2015-06-26 11:15:40,806 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0] Saving 64122 data triples.
-2015-06-26 11:15:41,131 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0] Saving 74132 data triples.
-2015-06-26 11:15:42,226 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0] Saving 44994 data triples.
-2015-06-26 11:15:42,620 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0] Saving 40488 data triples.
-2015-06-26 11:15:52,045 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:15:52,123 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0>
-2015-06-26 11:15:52,123 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0] Loading mappings
-2015-06-26 11:15:53,585 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0] Loading headers
-2015-06-26 11:15:53,606 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0] => 222 results
-2015-06-26 11:15:53,678 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0] Saving 830 data triples.
-2015-06-26 11:15:53,876 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0>
-2015-06-26 11:15:53,876 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0] Loading mappings
-2015-06-26 11:15:54,772 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:15:54,862 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0>
-2015-06-26 11:15:54,863 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0] Loading mappings
-2015-06-26 11:15:55,338 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0] Loading headers
-2015-06-26 11:15:56,356 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0] Loading headers
-2015-06-26 11:15:56,472 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0] => 15323 results
-2015-06-26 11:15:56,995 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0] => 7083 results
-2015-06-26 11:16:00,202 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:16:00,288 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0>
-2015-06-26 11:16:00,288 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0] Loading mappings
-2015-06-26 11:16:01,214 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0] Saving 54276 data triples.
-2015-06-26 11:16:03,178 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0] Loading headers
-2015-06-26 11:16:03,401 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0] => 3469 results
-2015-06-26 11:16:05,312 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0] Saving 24421 data triples.
-2015-06-26 11:16:07,158 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0] Saving 134696 data triples.
-2015-06-26 11:16:08,439 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:16:08,460 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0>
-2015-06-26 11:16:08,460 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0] Loading mappings
-2015-06-26 11:16:09,979 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0] Loading headers
-2015-06-26 11:16:10,364 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0] => 5921 results
-2015-06-26 11:16:10,786 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:16:10,839 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0>
-2015-06-26 11:16:10,840 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0] Loading mappings
-2015-06-26 11:16:12,321 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0] Loading headers
-2015-06-26 11:16:12,667 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0] => 5245 results
-2015-06-26 11:16:13,354 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:16:13,371 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0>
-2015-06-26 11:16:13,371 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0] Loading mappings
-2015-06-26 11:16:13,895 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0] Saving 46076 data triples.
-2015-06-26 11:16:14,913 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0] Loading headers
-2015-06-26 11:16:15,242 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0] => 4080 results
-2015-06-26 11:16:15,939 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0] Saving 41236 data triples.
-2015-06-26 11:16:17,788 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0] Saving 33151 data triples.
-2015-06-26 11:16:24,121 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:16:24,206 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1>
-2015-06-26 11:16:24,206 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1] Loading mappings
-2015-06-26 11:16:25,058 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:16:25,163 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0>
-2015-06-26 11:16:25,163 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0] Loading mappings
-2015-06-26 11:16:25,183 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:16:25,232 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0>
-2015-06-26 11:16:25,233 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0] Loading mappings
-2015-06-26 11:16:25,700 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1] Loading headers
-2015-06-26 11:16:25,720 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1] => 92 results
-2015-06-26 11:16:25,753 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1] Saving 79 data triples.
-2015-06-26 11:16:25,810 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2>
-2015-06-26 11:16:25,811 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2] Loading mappings
-2015-06-26 11:16:26,638 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0] Loading headers
-2015-06-26 11:16:26,829 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0] => 2541 results
-2015-06-26 11:16:27,638 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0] Loading headers
-2015-06-26 11:16:27,964 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0] => 2913 results
-2015-06-26 11:16:28,142 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2] Loading headers
-2015-06-26 11:16:28,159 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2] => 188 results
-2015-06-26 11:16:28,295 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2] Saving 1906 data triples.
-2015-06-26 11:16:28,347 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0] Saving 19968 data triples.
-2015-06-26 11:16:31,269 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0] Saving 22522 data triples.
-2015-06-26 11:16:32,523 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:16:40,167 RuleMaker    ERROR    [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0] Something bad happened: <type 'exceptions.AttributeError'>
-2015-06-26 11:16:44,100 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0>
-2015-06-26 11:16:44,100 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0] Loading mappings
-2015-06-26 11:16:45,599 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0] Loading headers
-2015-06-26 11:16:46,821 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0] => 19131 results
-2015-06-26 11:16:50,076 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0] Saving 20800 data triples.
-2015-06-26 11:16:54,719 Main         INFO     Clean urn:graph:cedar-mini:rules
-2015-06-26 11:17:00,841 Main         INFO     Push the content of DataDump/rules//*
-2015-06-26 11:17:00,841 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S0.ttl.bz2
-2015-06-26 11:17:02,433 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S1.ttl.bz2
-2015-06-26 11:17:03,572 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S10.ttl.bz2
-2015-06-26 11:17:04,774 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S11.ttl.bz2
-2015-06-26 11:17:05,002 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S2.ttl.bz2
-2015-06-26 11:17:06,423 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S3.ttl.bz2
-2015-06-26 11:17:07,577 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S4.ttl.bz2
-2015-06-26 11:17:08,941 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S5.ttl.bz2
-2015-06-26 11:17:09,817 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S6.ttl.bz2
-2015-06-26 11:17:10,951 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S7.ttl.bz2
-2015-06-26 11:17:11,640 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S8.ttl.bz2
-2015-06-26 11:17:13,000 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S9.ttl.bz2
-2015-06-26 11:17:13,559 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S0.ttl.bz2
-2015-06-26 11:17:14,477 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S1.ttl.bz2
-2015-06-26 11:17:15,477 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S10.ttl.bz2
-2015-06-26 11:17:16,492 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S11.ttl.bz2
-2015-06-26 11:17:16,718 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S2.ttl.bz2
-2015-06-26 11:17:17,630 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S3.ttl.bz2
-2015-06-26 11:17:18,552 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S4.ttl.bz2
-2015-06-26 11:17:19,007 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S5.ttl.bz2
-2015-06-26 11:17:19,342 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S6.ttl.bz2
-2015-06-26 11:17:19,802 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S7.ttl.bz2
-2015-06-26 11:17:20,137 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S8.ttl.bz2
-2015-06-26 11:17:20,712 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S9.ttl.bz2
-2015-06-26 11:17:21,157 Main         INFO     Push DataDump/rules/VT_1879_01_H1-S0.ttl.bz2
-2015-06-26 11:17:23,675 Main         INFO     Push DataDump/rules/VT_1879_02_H1-S0.ttl.bz2
-2015-06-26 11:17:24,797 Main         INFO     Push DataDump/rules/VT_1879_03_H1-S0.ttl.bz2
-2015-06-26 11:17:27,158 Main         INFO     Push DataDump/rules/VT_1879_04_H1-S0.ttl.bz2
-2015-06-26 11:17:28,576 Main         INFO     Push DataDump/rules/VT_1879_05_H1-S0.ttl.bz2
-2015-06-26 11:17:30,864 Main         INFO     Push DataDump/rules/VT_1879_06_H1-S0.ttl.bz2
-2015-06-26 11:17:32,452 Main         INFO     Push DataDump/rules/VT_1879_07_H1-S0.ttl.bz2
-2015-06-26 11:17:33,550 Main         INFO     Push DataDump/rules/VT_1879_08_H1-S0.ttl.bz2
-2015-06-26 11:17:36,666 Main         INFO     Push DataDump/rules/VT_1879_09_H1-S0.ttl.bz2
-2015-06-26 11:17:39,252 Main         INFO     Push DataDump/rules/VT_1879_10_H1-S0.ttl.bz2
-2015-06-26 11:17:41,881 Main         INFO     Push DataDump/rules/VT_1879_11_H1-S0.ttl.bz2
-2015-06-26 11:17:44,559 Main         INFO     Push DataDump/rules/VT_1889_03_H1-S0.ttl.bz2
-2015-06-26 11:17:44,917 Main         INFO     Push DataDump/rules/VT_1889_04_H1-S0.ttl.bz2
-2015-06-26 11:17:45,689 Main         INFO     Push DataDump/rules/VT_1889_05_H1-S0.ttl.bz2
-2015-06-26 11:17:46,026 Main         INFO     Push DataDump/rules/VT_1889_06_H1-S0.ttl.bz2
-2015-06-26 11:17:46,381 Main         INFO     Push DataDump/rules/VT_1889_07_H1-S0.ttl.bz2
-2015-06-26 11:17:46,961 Main         INFO     Push DataDump/rules/VT_1889_08_H1-S0.ttl.bz2
-2015-06-26 11:17:47,726 Main         INFO     Push DataDump/rules/VT_1889_09_H1-S0.ttl.bz2
-2015-06-26 11:17:48,712 Main         INFO     Push DataDump/rules/VT_1889_10_H1-S0.ttl.bz2
-2015-06-26 11:17:49,293 Main         INFO     Push DataDump/rules/VT_1889_11_H1-S0.ttl.bz2
-2015-06-26 11:17:49,733 Main         INFO     Push DataDump/rules/VT_1889_12_H1-S0.ttl.bz2
-2015-06-26 11:17:50,654 Main         INFO     Push DataDump/rules/VT_1889_13_H1-S0.ttl.bz2
-2015-06-26 11:17:51,241 Main         INFO     Push DataDump/rules/VT_1899_01_H1-S0.ttl.bz2
-2015-06-26 11:17:55,558 Main         INFO     Push DataDump/rules/VT_1899_02_H1-S0.ttl.bz2
-2015-06-26 11:17:58,534 Main         INFO     Push DataDump/rules/VT_1899_03_H1-S0.ttl.bz2
-2015-06-26 11:18:02,336 Main         INFO     Push DataDump/rules/VT_1899_04_H1-S0.ttl.bz2
-2015-06-26 11:18:05,982 Main         INFO     Push DataDump/rules/VT_1899_05_H1-S0.ttl.bz2
-2015-06-26 11:18:08,163 Main         INFO     Push DataDump/rules/VT_1899_06_H1-S0.ttl.bz2
-2015-06-26 11:18:09,634 Main         INFO     Push DataDump/rules/VT_1899_07_H1-S0.ttl.bz2
-2015-06-26 11:18:12,304 Main         INFO     Push DataDump/rules/VT_1899_08_H1-S0.ttl.bz2
-2015-06-26 11:18:14,017 Main         INFO     Push DataDump/rules/VT_1899_09_H1-S0.ttl.bz2
-2015-06-26 11:18:16,605 Main         INFO     Push DataDump/rules/VT_1899_10_H1-S0.ttl.bz2
-2015-06-26 11:18:18,148 Main         INFO     Push DataDump/rules/VT_1899_11_H1-S0.ttl.bz2
-2015-06-26 11:18:21,067 Main         INFO     Push DataDump/rules/VT_1899_12_H1-S0.ttl.bz2
-2015-06-26 11:18:21,289 Main         INFO     Push DataDump/rules/VT_1909_01_T-S0.ttl.bz2
-2015-06-26 11:18:29,884 Main         INFO     Push DataDump/rules/VT_1920_01_T-S0.ttl.bz2
-2015-06-26 11:18:31,459 Main         INFO     Push DataDump/rules/VT_1920_01_T-S1.ttl.bz2
-2015-06-26 11:18:31,577 Main         INFO     Push DataDump/rules/VT_1920_01_T-S2.ttl.bz2
-2015-06-26 11:18:32,031 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0>
-2015-06-26 11:18:32,031 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2>
-2015-06-26 11:18:32,031 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6>
-2015-06-26 11:18:32,032 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0>
-2015-06-26 11:18:36,549 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7>
-2015-06-26 11:18:37,381 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3>
-2015-06-26 11:18:37,742 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1>
-2015-06-26 11:18:38,060 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8>
-2015-06-26 11:18:38,233 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1>
-2015-06-26 11:18:39,600 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4>
-2015-06-26 11:18:40,095 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9>
-2015-06-26 11:18:40,494 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10>
-2015-06-26 11:18:41,304 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2>
-2015-06-26 11:18:41,731 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10>
-2015-06-26 11:18:41,738 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5>
-2015-06-26 11:18:43,036 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11>
-2015-06-26 11:18:43,255 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6>
-2015-06-26 11:18:43,344 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0>
-2015-06-26 11:18:44,682 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3>
-2015-06-26 11:18:45,676 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11>
-2015-06-26 11:18:45,814 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0>
-2015-06-26 11:18:46,173 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7>
-2015-06-26 11:18:48,560 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4>
-2015-06-26 11:18:48,680 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8>
-2015-06-26 11:18:50,689 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9>
-2015-06-26 11:18:51,537 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5>
-2015-06-26 11:18:52,120 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0>
-2015-06-26 11:18:52,587 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0>
-2015-06-26 11:18:53,068 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0>
-2015-06-26 11:18:55,973 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0>
-2015-06-26 11:18:56,848 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0>
-2015-06-26 11:19:02,291 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0>
-2015-06-26 11:19:02,430 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0>
-2015-06-26 11:19:02,726 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0>
-2015-06-26 11:19:04,889 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0>
-2015-06-26 11:19:05,925 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0>
-2015-06-26 11:19:07,662 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0>
-2015-06-26 11:19:08,774 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0>
-2015-06-26 11:19:09,811 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0>
-2015-06-26 11:19:14,045 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0>
-2015-06-26 11:19:17,446 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0>
-2015-06-26 11:19:18,381 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0>
-2015-06-26 11:19:20,859 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0>
-2015-06-26 11:19:24,781 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0>
-2015-06-26 11:19:26,975 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0>
-2015-06-26 11:19:28,673 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0>
-2015-06-26 11:19:30,771 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0>
-2015-06-26 11:19:31,231 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0>
-2015-06-26 11:19:34,644 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0>
-2015-06-26 11:19:35,573 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0>
-2015-06-26 11:19:36,629 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0>
-2015-06-26 11:19:37,213 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0>
-2015-06-26 11:19:38,946 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0>
-2015-06-26 11:19:39,904 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0>
-2015-06-26 11:19:40,675 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0>
-2015-06-26 11:19:41,451 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1>
-2015-06-26 11:19:41,472 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2>
-2015-06-26 11:19:42,237 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0>
-2015-06-26 11:19:43,715 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0>
-2015-06-26 11:19:44,927 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0>
-2015-06-26 11:19:45,451 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0>
-2015-06-26 11:20:19,085 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0>
-2015-06-26 11:20:53,368 Main         INFO     Clean urn:graph:cedar-mini:release
-2015-06-26 11:21:49,205 Main         INFO     Push the content of DataDump/release//*
-2015-06-26 11:21:49,206 Main         INFO     Push DataDump/release/VT_1859_01_H1-S0.ttl.bz2
-2015-06-26 11:21:58,235 Main         INFO     Push DataDump/release/VT_1859_01_H1-S1.ttl.bz2
-2015-06-26 11:22:04,997 Main         INFO     Push DataDump/release/VT_1859_01_H1-S10.ttl.bz2
-2015-06-26 11:22:11,036 Main         INFO     Push DataDump/release/VT_1859_01_H1-S11.ttl.bz2
-2015-06-26 11:22:11,694 Main         INFO     Push DataDump/release/VT_1859_01_H1-S2.ttl.bz2
-2015-06-26 11:22:18,313 Main         INFO     Push DataDump/release/VT_1859_01_H1-S3.ttl.bz2
-2015-06-26 11:22:23,981 Main         INFO     Push DataDump/release/VT_1859_01_H1-S4.ttl.bz2
-2015-06-26 11:22:28,909 Main         INFO     Push DataDump/release/VT_1859_01_H1-S5.ttl.bz2
-2015-06-26 11:22:32,359 Main         INFO     Push DataDump/release/VT_1859_01_H1-S6.ttl.bz2
-2015-06-26 11:22:37,872 Main         INFO     Push DataDump/release/VT_1859_01_H1-S7.ttl.bz2
-2015-06-26 11:22:41,886 Main         INFO     Push DataDump/release/VT_1859_01_H1-S8.ttl.bz2
-2015-06-26 11:22:46,806 Main         INFO     Push DataDump/release/VT_1859_01_H1-S9.ttl.bz2
-2015-06-26 11:22:49,353 Main         INFO     Push DataDump/release/VT_1869_01_H1-S0.ttl.bz2
-2015-06-26 11:23:01,823 Main         INFO     Push DataDump/release/VT_1869_01_H1-S1.ttl.bz2
-2015-06-26 11:23:12,424 Main         INFO     Push DataDump/release/VT_1869_01_H1-S10.ttl.bz2
-2015-06-26 11:23:21,989 Main         INFO     Push DataDump/release/VT_1869_01_H1-S11.ttl.bz2
-2015-06-26 11:23:22,325 Main         INFO     Push DataDump/release/VT_1869_01_H1-S2.ttl.bz2
-2015-06-26 11:23:32,018 Main         INFO     Push DataDump/release/VT_1869_01_H1-S3.ttl.bz2
-2015-06-26 11:23:42,453 Main         INFO     Push DataDump/release/VT_1869_01_H1-S4.ttl.bz2
-2015-06-26 11:23:49,066 Main         INFO     Push DataDump/release/VT_1869_01_H1-S5.ttl.bz2
-2015-06-26 11:23:53,557 Main         INFO     Push DataDump/release/VT_1869_01_H1-S6.ttl.bz2
-2015-06-26 11:24:00,194 Main         INFO     Push DataDump/release/VT_1869_01_H1-S7.ttl.bz2
-2015-06-26 11:24:05,077 Main         INFO     Push DataDump/release/VT_1869_01_H1-S8.ttl.bz2
-2015-06-26 11:24:11,057 Main         INFO     Push DataDump/release/VT_1869_01_H1-S9.ttl.bz2
-2015-06-26 11:24:15,363 Main         INFO     Push DataDump/release/VT_1879_01_H1-S0.ttl.bz2
-2015-06-26 11:24:31,134 Main         INFO     Push DataDump/release/VT_1879_02_H1-S0.ttl.bz2
-2015-06-26 11:24:39,308 Main         INFO     Push DataDump/release/VT_1879_03_H1-S0.ttl.bz2
-2015-06-26 11:24:53,171 Main         INFO     Push DataDump/release/VT_1879_04_H1-S0.ttl.bz2
-2015-06-26 11:25:00,661 Main         INFO     Push DataDump/release/VT_1879_05_H1-S0.ttl.bz2
-2015-06-26 11:25:15,599 Main         INFO     Push DataDump/release/VT_1879_06_H1-S0.ttl.bz2
-2015-06-26 11:25:27,166 Main         INFO     Push DataDump/release/VT_1879_07_H1-S0.ttl.bz2
-2015-06-26 11:25:35,067 Main         INFO     Push DataDump/release/VT_1879_08_H1-S0.ttl.bz2
-2015-06-26 11:25:59,034 Main         INFO     Push DataDump/release/VT_1879_09_H1-S0.ttl.bz2
-2015-06-26 11:26:17,211 Main         INFO     Push DataDump/release/VT_1879_10_H1-S0.ttl.bz2
-2015-06-26 11:26:36,624 Main         INFO     Push DataDump/release/VT_1879_11_H1-S0.ttl.bz2
-2015-06-26 11:26:54,518 Main         INFO     Push DataDump/release/VT_1889_03_H1-S0.ttl.bz2
-2015-06-26 11:27:07,290 Main         INFO     Push DataDump/release/VT_1889_04_H1-S0.ttl.bz2
-2015-06-26 11:27:25,279 Main         INFO     Push DataDump/release/VT_1889_05_H1-S0.ttl.bz2
-2015-06-26 11:27:31,843 Main         INFO     Push DataDump/release/VT_1889_06_H1-S0.ttl.bz2
-2015-06-26 11:27:40,559 Main         INFO     Push DataDump/release/VT_1889_07_H1-S0.ttl.bz2
-2015-06-26 11:27:56,848 Main         INFO     Push DataDump/release/VT_1889_08_H1-S0.ttl.bz2
-2015-06-26 11:28:16,092 Main         INFO     Push DataDump/release/VT_1889_09_H1-S0.ttl.bz2
-2015-06-26 11:28:38,411 Main         INFO     Push DataDump/release/VT_1889_10_H1-S0.ttl.bz2
-2015-06-26 11:28:48,945 Main         INFO     Push DataDump/release/VT_1889_11_H1-S0.ttl.bz2
-2015-06-26 11:28:56,651 Main         INFO     Push DataDump/release/VT_1889_12_H1-S0.ttl.bz2
-2015-06-26 11:29:14,443 Main         INFO     Push DataDump/release/VT_1889_13_H1-S0.ttl.bz2
-2015-06-26 11:29:28,172 Main         INFO     Push DataDump/release/VT_1899_01_H1-S0.ttl.bz2
-2015-06-26 11:29:45,196 Main         INFO     Push DataDump/release/VT_1899_02_H1-S0.ttl.bz2
-2015-06-26 11:29:56,323 Main         INFO     Push DataDump/release/VT_1899_03_H1-S0.ttl.bz2
-2015-06-26 11:30:11,526 Main         INFO     Push DataDump/release/VT_1899_04_H1-S0.ttl.bz2
-2015-06-26 11:30:24,108 Main         INFO     Push DataDump/release/VT_1899_05_H1-S0.ttl.bz2
-2015-06-26 11:30:31,617 Main         INFO     Push DataDump/release/VT_1899_06_H1-S0.ttl.bz2
-2015-06-26 11:30:36,779 Main         INFO     Push DataDump/release/VT_1899_07_H1-S0.ttl.bz2
-2015-06-26 11:30:46,686 Main         INFO     Push DataDump/release/VT_1899_08_H1-S0.ttl.bz2
-2015-06-26 11:30:52,949 Main         INFO     Push DataDump/release/VT_1899_09_H1-S0.ttl.bz2
-2015-06-26 11:31:01,449 Main         INFO     Push DataDump/release/VT_1899_10_H1-S0.ttl.bz2
-2015-06-26 11:31:06,006 Main         INFO     Push DataDump/release/VT_1899_11_H1-S0.ttl.bz2
-2015-06-26 11:31:16,119 Main         INFO     Push DataDump/release/VT_1899_12_H1-S0.ttl.bz2
-2015-06-26 11:31:17,475 Main         INFO     Push DataDump/release/VT_1909_01_T-S0.ttl.bz2
-2015-06-26 11:32:39,465 Main         INFO     Push DataDump/release/VT_1920_01_T-S0.ttl.bz2
-2015-06-26 11:34:08,158 Main         INFO     Push DataDump/release/VT_1920_01_T-S1.ttl.bz2
-2015-06-26 11:34:08,316 Main         INFO     Push DataDump/release/VT_1920_01_T-S2.ttl.bz2
+2015-06-29 11:58:00,583 Main         INFO     [VT_1859_01_H1] Calling tablinker
+2015-06-29 11:58:00,583 Main         INFO     [VT_1879_01_H1] Calling tablinker
+2015-06-29 11:58:00,583 Main         INFO     [VT_1879_03_H1] Calling tablinker
+2015-06-29 11:58:00,583 Main         INFO     [VT_1879_05_H1] Calling tablinker
+2015-06-29 11:58:00,583 Main         INFO     [VT_1879_07_H1] Calling tablinker
+2015-06-29 11:58:00,583 Main         INFO     [VT_1879_09_H1] Calling tablinker
+2015-06-29 11:58:00,585 TabLink      INFO     [VT_1859_01_H1] Loading DataDump/source-data/VT_1859_01_H1.ods
+2015-06-29 11:58:00,585 Main         INFO     [VT_1879_11_H1] Calling tablinker
+2015-06-29 11:58:00,586 TabLink      INFO     [VT_1879_03_H1] Loading DataDump/source-data/VT_1879_03_H1.ods
+2015-06-29 11:58:00,586 TabLink      INFO     [VT_1879_01_H1] Loading DataDump/source-data/VT_1879_01_H1.ods
+2015-06-29 11:58:00,586 TabLink      INFO     [VT_1879_07_H1] Loading DataDump/source-data/VT_1879_07_H1.ods
+2015-06-29 11:58:00,586 TabLink      INFO     [VT_1879_09_H1] Loading DataDump/source-data/VT_1879_09_H1.ods
+2015-06-29 11:58:00,589 TabLink      INFO     [VT_1879_11_H1] Loading DataDump/source-data/VT_1879_11_H1.ods
+2015-06-29 11:58:00,589 TabLink      INFO     [VT_1879_05_H1] Loading DataDump/source-data/VT_1879_05_H1.ods
+2015-06-29 11:58:00,601 Main         INFO     [VT_1889_04_H1] Calling tablinker
+2015-06-29 11:58:00,604 TabLink      INFO     [VT_1889_04_H1] Loading DataDump/source-data/VT_1889_04_H1.ods
+2015-06-29 11:58:07,362 TabLink      INFO     [VT_1879_07_H1] Found 1 sheets to process
+2015-06-29 11:58:13,854 TabLink      INFO     [VT_1879_05_H1] Found 1 sheets to process
+2015-06-29 11:58:13,915 TabLink      INFO     [VT_1879_03_H1] Found 1 sheets to process
+2015-06-29 11:58:14,725 TabLink      INFO     [VT_1879_01_H1] Found 1 sheets to process
+2015-06-29 11:58:15,196 TabLink      INFO     [VT_1879_11_H1] Found 1 sheets to process
+2015-06-29 11:58:15,498 TabLink      INFO     [VT_1879_09_H1] Found 1 sheets to process
+2015-06-29 11:58:17,927 TabLink      INFO     [VT_1889_04_H1] Found 1 sheets to process
+2015-06-29 11:58:20,070 TabLink      INFO     [VT_1879_07_H1] Saving 69812 data triples
+2015-06-29 11:58:39,554 TabLink      INFO     [VT_1879_03_H1] Saving 129429 data triples
+2015-06-29 11:58:40,101 TabLink      INFO     [VT_1879_05_H1] Saving 133726 data triples
+2015-06-29 11:58:43,071 TabLink      INFO     [VT_1879_01_H1] Saving 150978 data triples
+2015-06-29 11:58:44,696 TabLink      INFO     [VT_1859_01_H1] Found 12 sheets to process
+2015-06-29 11:58:45,729 Main         INFO     [VT_1879_08_H1] Calling tablinker
+2015-06-29 11:58:45,730 TabLink      INFO     [VT_1879_08_H1] Loading DataDump/source-data/VT_1879_08_H1.ods
+2015-06-29 11:58:51,139 TabLink      INFO     [VT_1889_04_H1] Saving 144090 data triples
+2015-06-29 11:58:59,165 TabLink      INFO     [VT_1879_11_H1] Saving 174851 data triples
+2015-06-29 11:59:03,570 TabLink      INFO     [VT_1879_08_H1] Found 1 sheets to process
+2015-06-29 11:59:27,131 Main         INFO     [VT_1879_04_H1] Calling tablinker
+2015-06-29 11:59:27,133 TabLink      INFO     [VT_1879_04_H1] Loading DataDump/source-data/VT_1879_04_H1.ods
+2015-06-29 11:59:29,460 Main         INFO     [VT_1879_06_H1] Calling tablinker
+2015-06-29 11:59:29,462 TabLink      INFO     [VT_1879_06_H1] Loading DataDump/source-data/VT_1879_06_H1.ods
+2015-06-29 11:59:33,941 TabLink      INFO     [VT_1879_04_H1] Found 1 sheets to process
+2015-06-29 11:59:38,428 TabLink      INFO     [VT_1879_06_H1] Found 1 sheets to process
+2015-06-29 11:59:38,496 Main         INFO     [VT_1879_02_H1] Calling tablinker
+2015-06-29 11:59:38,497 TabLink      INFO     [VT_1879_02_H1] Loading DataDump/source-data/VT_1879_02_H1.ods
+2015-06-29 11:59:43,333 TabLink      INFO     [VT_1879_08_H1] Saving 226003 data triples
+2015-06-29 11:59:45,224 TabLink      INFO     [VT_1879_02_H1] Found 1 sheets to process
+2015-06-29 11:59:45,498 Main         INFO     [VT_1889_05_H1] Calling tablinker
+2015-06-29 11:59:45,500 TabLink      INFO     [VT_1889_05_H1] Loading DataDump/source-data/VT_1889_05_H1.ods
+2015-06-29 11:59:47,308 TabLink      INFO     [VT_1879_04_H1] Saving 65607 data triples
+2015-06-29 11:59:52,060 TabLink      INFO     [VT_1889_05_H1] Found 1 sheets to process
+2015-06-29 11:59:57,205 TabLink      INFO     [VT_1879_06_H1] Saving 102538 data triples
+2015-06-29 11:59:58,917 TabLink      INFO     [VT_1879_02_H1] Saving 73358 data triples
+2015-06-29 12:00:03,138 TabLink      INFO     [VT_1889_05_H1] Saving 49276 data triples
+2015-06-29 12:00:03,994 Main         INFO     [VT_1889_03_H1] Calling tablinker
+2015-06-29 12:00:03,995 TabLink      INFO     [VT_1889_03_H1] Loading DataDump/source-data/VT_1889_03_H1.ods
+2015-06-29 12:00:11,802 Main         INFO     [VT_1889_06_H1] Calling tablinker
+2015-06-29 12:00:11,803 TabLink      INFO     [VT_1889_06_H1] Loading DataDump/source-data/VT_1889_06_H1.ods
+2015-06-29 12:00:16,406 TabLink      INFO     [VT_1889_03_H1] Found 1 sheets to process
+2015-06-29 12:00:18,459 TabLink      INFO     [VT_1889_06_H1] Found 1 sheets to process
+2015-06-29 12:00:21,752 Main         INFO     [VT_1889_08_H1] Calling tablinker
+2015-06-29 12:00:21,754 TabLink      INFO     [VT_1889_08_H1] Loading DataDump/source-data/VT_1889_08_H1.ods
+2015-06-29 12:00:24,454 TabLink      INFO     [VT_1879_09_H1] Saving 173062 data triples
+2015-06-29 12:00:26,535 Main         INFO     [VT_1889_10_H1] Calling tablinker
+2015-06-29 12:00:26,537 TabLink      INFO     [VT_1889_10_H1] Loading DataDump/source-data/VT_1889_10_H1.ods
+2015-06-29 12:00:31,720 TabLink      INFO     [VT_1889_06_H1] Saving 63493 data triples
+2015-06-29 12:00:35,009 TabLink      INFO     [VT_1859_01_H1] Saving 607036 data triples
+2015-06-29 12:00:35,609 TabLink      INFO     [VT_1889_10_H1] Found 1 sheets to process
+2015-06-29 12:00:36,154 Main         INFO     [VT_1889_12_H1] Calling tablinker
+2015-06-29 12:00:36,155 TabLink      INFO     [VT_1889_12_H1] Loading DataDump/source-data/VT_1889_12_H1.ods
+2015-06-29 12:00:36,698 TabLink      INFO     [VT_1889_08_H1] Found 1 sheets to process
+2015-06-29 12:00:39,818 TabLink      INFO     [VT_1889_03_H1] Saving 103813 data triples
+2015-06-29 12:00:52,792 TabLink      INFO     [VT_1889_12_H1] Found 1 sheets to process
+2015-06-29 12:00:53,621 TabLink      INFO     [VT_1889_10_H1] Saving 87507 data triples
+2015-06-29 12:00:55,604 Main         INFO     [VT_1889_07_H1] Calling tablinker
+2015-06-29 12:00:55,605 TabLink      INFO     [VT_1889_07_H1] Loading DataDump/source-data/VT_1889_07_H1.ods
+2015-06-29 12:01:05,988 Main         INFO     [VT_1899_01_H1] Calling tablinker
+2015-06-29 12:01:05,989 TabLink      INFO     [VT_1899_01_H1] Loading DataDump/source-data/VT_1899_01_H1.ods
+2015-06-29 12:01:06,558 TabLink      INFO     [VT_1889_08_H1] Saving 144552 data triples
+2015-06-29 12:01:08,718 TabLink      INFO     [VT_1889_07_H1] Found 1 sheets to process
+2015-06-29 12:01:18,593 Main         INFO     [VT_1899_03_H1] Calling tablinker
+2015-06-29 12:01:18,594 TabLink      INFO     [VT_1899_03_H1] Loading DataDump/source-data/VT_1899_03_H1.ods
+2015-06-29 12:01:24,275 TabLink      INFO     [VT_1899_01_H1] Found 1 sheets to process
+2015-06-29 12:01:24,806 TabLink      INFO     [VT_1889_12_H1] Saving 150697 data triples
+2015-06-29 12:01:26,331 Main         INFO     [VT_1889_11_H1] Calling tablinker
+2015-06-29 12:01:26,333 TabLink      INFO     [VT_1889_11_H1] Loading DataDump/source-data/VT_1889_11_H1.ods
+2015-06-29 12:01:29,575 Main         INFO     [VT_1879_10_H1] Calling tablinker
+2015-06-29 12:01:29,577 TabLink      INFO     [VT_1879_10_H1] Loading DataDump/source-data/VT_1879_10_H1.ods
+2015-06-29 12:01:32,058 TabLink      INFO     [VT_1889_11_H1] Found 1 sheets to process
+2015-06-29 12:01:35,021 TabLink      INFO     [VT_1889_07_H1] Saving 127051 data triples
+2015-06-29 12:01:35,109 TabLink      INFO     [VT_1899_03_H1] Found 1 sheets to process
+2015-06-29 12:01:44,060 TabLink      INFO     [VT_1889_11_H1] Saving 57124 data triples
+2015-06-29 12:01:44,988 TabLink      INFO     [VT_1879_10_H1] Found 1 sheets to process
+2015-06-29 12:02:00,900 Main         INFO     [VT_1889_09_H1] Calling tablinker
+2015-06-29 12:02:00,901 TabLink      INFO     [VT_1889_09_H1] Loading DataDump/source-data/VT_1889_09_H1.ods
+2015-06-29 12:02:03,865 TabLink      INFO     [VT_1899_01_H1] Saving 206596 data triples
+2015-06-29 12:02:05,266 Main         INFO     [VT_1899_05_H1] Calling tablinker
+2015-06-29 12:02:05,267 TabLink      INFO     [VT_1899_05_H1] Loading DataDump/source-data/VT_1899_05_H1.ods
+2015-06-29 12:02:12,274 TabLink      INFO     [VT_1899_03_H1] Saving 194216 data triples
+2015-06-29 12:02:12,944 TabLink      INFO     [VT_1899_05_H1] Found 1 sheets to process
+2015-06-29 12:02:17,500 TabLink      INFO     [VT_1879_10_H1] Saving 181005 data triples
+2015-06-29 12:02:21,159 TabLink      INFO     [VT_1889_09_H1] Found 1 sheets to process
+2015-06-29 12:02:21,317 Main         INFO     [VT_1889_13_H1] Calling tablinker
+2015-06-29 12:02:21,318 TabLink      INFO     [VT_1889_13_H1] Loading DataDump/source-data/VT_1889_13_H1.ods
+2015-06-29 12:02:23,111 Main         INFO     [VT_1899_07_H1] Calling tablinker
+2015-06-29 12:02:23,113 TabLink      INFO     [VT_1899_07_H1] Loading DataDump/source-data/VT_1899_07_H1.ods
+2015-06-29 12:02:30,494 TabLink      INFO     [VT_1899_05_H1] Saving 94433 data triples
+2015-06-29 12:02:30,794 TabLink      INFO     [VT_1889_13_H1] Found 1 sheets to process
+2015-06-29 12:02:34,522 TabLink      INFO     [VT_1899_07_H1] Found 1 sheets to process
+2015-06-29 12:02:54,314 TabLink      INFO     [VT_1889_13_H1] Saving 119539 data triples
+2015-06-29 12:02:59,066 TabLink      INFO     [VT_1899_07_H1] Saving 124976 data triples
+2015-06-29 12:03:02,365 TabLink      INFO     [VT_1889_09_H1] Saving 194322 data triples
+2015-06-29 12:03:06,433 Main         INFO     [VT_1899_06_H1] Calling tablinker
+2015-06-29 12:03:06,434 TabLink      INFO     [VT_1899_06_H1] Loading DataDump/source-data/VT_1899_06_H1.ods
+2015-06-29 12:03:11,785 TabLink      INFO     [VT_1899_06_H1] Found 1 sheets to process
+2015-06-29 12:03:22,329 Main         INFO     [VT_1899_02_H1] Calling tablinker
+2015-06-29 12:03:22,331 TabLink      INFO     [VT_1899_02_H1] Loading DataDump/source-data/VT_1899_02_H1.ods
+2015-06-29 12:03:23,314 TabLink      INFO     [VT_1899_06_H1] Saving 60890 data triples
+2015-06-29 12:03:24,595 Main         INFO     [VT_1899_09_H1] Calling tablinker
+2015-06-29 12:03:24,596 TabLink      INFO     [VT_1899_09_H1] Loading DataDump/source-data/VT_1899_09_H1.ods
+2015-06-29 12:03:25,583 Main         INFO     [VT_1899_04_H1] Calling tablinker
+2015-06-29 12:03:25,584 TabLink      INFO     [VT_1899_04_H1] Loading DataDump/source-data/VT_1899_04_H1.ods
+2015-06-29 12:03:34,020 TabLink      INFO     [VT_1899_09_H1] Found 1 sheets to process
+2015-06-29 12:03:34,177 TabLink      INFO     [VT_1899_02_H1] Found 1 sheets to process
+2015-06-29 12:03:38,740 Main         INFO     [VT_1899_11_H1] Calling tablinker
+2015-06-29 12:03:38,742 TabLink      INFO     [VT_1899_11_H1] Loading DataDump/source-data/VT_1899_11_H1.ods
+2015-06-29 12:03:39,597 TabLink      INFO     [VT_1899_04_H1] Found 1 sheets to process
+2015-06-29 12:03:46,745 Main         INFO     [VT_1909_01_T] Calling tablinker
+2015-06-29 12:03:46,746 TabLink      INFO     [VT_1909_01_T] Loading DataDump/source-data/VT_1909_01_T.ods
+2015-06-29 12:03:46,807 Main         INFO     [VT_1899_08_H1] Calling tablinker
+2015-06-29 12:03:46,809 TabLink      INFO     [VT_1899_08_H1] Loading DataDump/source-data/VT_1899_08_H1.ods
+2015-06-29 12:03:50,078 TabLink      INFO     [VT_1899_11_H1] Found 1 sheets to process
+2015-06-29 12:03:53,778 TabLink      INFO     [VT_1899_08_H1] Found 1 sheets to process
+2015-06-29 12:03:54,655 TabLink      INFO     [VT_1899_09_H1] Saving 109828 data triples
+2015-06-29 12:03:59,992 TabLink      INFO     [VT_1899_02_H1] Saving 139568 data triples
+2015-06-29 12:04:08,802 TabLink      INFO     [VT_1899_08_H1] Saving 81160 data triples
+2015-06-29 12:04:10,713 TabLink      INFO     [VT_1899_04_H1] Saving 162336 data triples
+2015-06-29 12:04:14,600 TabLink      INFO     [VT_1899_11_H1] Saving 125816 data triples
+2015-06-29 12:04:27,543 Main         INFO     [VT_1869_01_H1] Calling tablinker
+2015-06-29 12:04:27,545 TabLink      INFO     [VT_1869_01_H1] Loading DataDump/source-data/VT_1869_01_H1.ods
+2015-06-29 12:04:34,018 Main         INFO     [VT_1899_10_H1] Calling tablinker
+2015-06-29 12:04:34,019 TabLink      INFO     [VT_1899_10_H1] Loading DataDump/source-data/VT_1899_10_H1.ods
+2015-06-29 12:04:37,048 TabLink      INFO     [VT_1899_10_H1] Found 1 sheets to process
+2015-06-29 12:04:45,249 TabLink      INFO     [VT_1899_10_H1] Saving 59986 data triples
+2015-06-29 12:04:47,148 TabLink      INFO     [VT_1909_01_T] Found 1 sheets to process
+2015-06-29 12:04:50,165 Main         INFO     [VT_1899_12_H1] Calling tablinker
+2015-06-29 12:04:50,166 TabLink      INFO     [VT_1899_12_H1] Loading DataDump/source-data/VT_1899_12_H1.ods
+2015-06-29 12:04:50,823 TabLink      INFO     [VT_1899_12_H1] Found 1 sheets to process
+2015-06-29 12:04:51,910 TabLink      INFO     [VT_1899_12_H1] Saving 9657 data triples
+2015-06-29 12:05:21,222 TabLink      INFO     [VT_1869_01_H1] Found 12 sheets to process
+2015-06-29 12:05:59,851 TabLink      INFO     [VT_1909_01_T] Saving 639686 data triples
+2015-06-29 12:06:38,180 TabLink      INFO     [VT_1869_01_H1] Saving 895286 data triples
+2015-06-29 12:07:58,934 Main         INFO     [VT_1920_01_T] Calling tablinker
+2015-06-29 12:07:58,935 TabLink      INFO     [VT_1920_01_T] Loading DataDump/source-data/VT_1920_01_T.ods
+2015-06-29 12:08:49,634 TabLink      INFO     [VT_1920_01_T] Found 3 sheets to process
+2015-06-29 12:10:32,712 TabLink      INFO     [VT_1920_01_T] Saving 813789 data triples
+2015-06-29 12:13:00,758 Main         INFO     Clean urn:graph:cedar-mini:raw-data
+2015-06-29 12:13:27,721 Main         INFO     Push the content of DataDump/raw-rdf//*
+2015-06-29 12:13:27,722 Main         INFO     Push DataDump/raw-rdf/VT_1859_01_H1.ttl.bz2
+2015-06-29 12:14:09,857 Main         INFO     Push DataDump/raw-rdf/VT_1869_01_H1.ttl.bz2
+2015-06-29 12:15:05,785 Main         INFO     Push DataDump/raw-rdf/VT_1879_01_H1.ttl.bz2
+2015-06-29 12:15:15,678 Main         INFO     Push DataDump/raw-rdf/VT_1879_02_H1.ttl.bz2
+2015-06-29 12:15:22,250 Main         INFO     Push DataDump/raw-rdf/VT_1879_03_H1.ttl.bz2
+2015-06-29 12:15:30,930 Main         INFO     Push DataDump/raw-rdf/VT_1879_04_H1.ttl.bz2
+2015-06-29 12:15:35,314 Main         INFO     Push DataDump/raw-rdf/VT_1879_05_H1.ttl.bz2
+2015-06-29 12:15:44,641 Main         INFO     Push DataDump/raw-rdf/VT_1879_06_H1.ttl.bz2
+2015-06-29 12:15:51,545 Main         INFO     Push DataDump/raw-rdf/VT_1879_07_H1.ttl.bz2
+2015-06-29 12:15:56,007 Main         INFO     Push DataDump/raw-rdf/VT_1879_08_H1.ttl.bz2
+2015-06-29 12:16:11,562 Main         INFO     Push DataDump/raw-rdf/VT_1879_09_H1.ttl.bz2
+2015-06-29 12:16:22,879 Main         INFO     Push DataDump/raw-rdf/VT_1879_10_H1.ttl.bz2
+2015-06-29 12:16:34,710 Main         INFO     Push DataDump/raw-rdf/VT_1879_11_H1.ttl.bz2
+2015-06-29 12:16:46,028 Main         INFO     Push DataDump/raw-rdf/VT_1889_03_H1.ttl.bz2
+2015-06-29 12:16:53,083 Main         INFO     Push DataDump/raw-rdf/VT_1889_04_H1.ttl.bz2
+2015-06-29 12:17:02,614 Main         INFO     Push DataDump/raw-rdf/VT_1889_05_H1.ttl.bz2
+2015-06-29 12:17:06,000 Main         INFO     Push DataDump/raw-rdf/VT_1889_06_H1.ttl.bz2
+2015-06-29 12:17:10,246 Main         INFO     Push DataDump/raw-rdf/VT_1889_07_H1.ttl.bz2
+2015-06-29 12:17:18,391 Main         INFO     Push DataDump/raw-rdf/VT_1889_08_H1.ttl.bz2
+2015-06-29 12:17:28,071 Main         INFO     Push DataDump/raw-rdf/VT_1889_09_H1.ttl.bz2
+2015-06-29 12:17:41,342 Main         INFO     Push DataDump/raw-rdf/VT_1889_10_H1.ttl.bz2
+2015-06-29 12:17:47,210 Main         INFO     Push DataDump/raw-rdf/VT_1889_11_H1.ttl.bz2
+2015-06-29 12:17:51,163 Main         INFO     Push DataDump/raw-rdf/VT_1889_12_H1.ttl.bz2
+2015-06-29 12:18:01,091 Main         INFO     Push DataDump/raw-rdf/VT_1889_13_H1.ttl.bz2
+2015-06-29 12:18:09,152 Main         INFO     Push DataDump/raw-rdf/VT_1899_01_H1.ttl.bz2
+2015-06-29 12:18:22,707 Main         INFO     Push DataDump/raw-rdf/VT_1899_02_H1.ttl.bz2
+2015-06-29 12:18:32,246 Main         INFO     Push DataDump/raw-rdf/VT_1899_03_H1.ttl.bz2
+2015-06-29 12:18:45,247 Main         INFO     Push DataDump/raw-rdf/VT_1899_04_H1.ttl.bz2
+2015-06-29 12:19:01,315 Main         INFO     Push DataDump/raw-rdf/VT_1899_05_H1.ttl.bz2
+2015-06-29 12:19:07,570 Main         INFO     Push DataDump/raw-rdf/VT_1899_06_H1.ttl.bz2
+2015-06-29 12:19:11,705 Main         INFO     Push DataDump/raw-rdf/VT_1899_07_H1.ttl.bz2
+2015-06-29 12:19:19,882 Main         INFO     Push DataDump/raw-rdf/VT_1899_08_H1.ttl.bz2
+2015-06-29 12:19:25,395 Main         INFO     Push DataDump/raw-rdf/VT_1899_09_H1.ttl.bz2
+2015-06-29 12:19:32,952 Main         INFO     Push DataDump/raw-rdf/VT_1899_10_H1.ttl.bz2
+2015-06-29 12:19:37,064 Main         INFO     Push DataDump/raw-rdf/VT_1899_11_H1.ttl.bz2
+2015-06-29 12:19:45,430 Main         INFO     Push DataDump/raw-rdf/VT_1899_12_H1.ttl.bz2
+2015-06-29 12:19:46,329 Main         INFO     Push DataDump/raw-rdf/VT_1909_01_T.ttl.bz2
+2015-06-29 12:20:26,989 Main         INFO     Push DataDump/raw-rdf/VT_1920_01_T.ttl.bz2
+2015-06-29 12:21:19,314 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0>
+2015-06-29 12:21:19,314 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2>
+2015-06-29 12:21:19,315 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0] Loading mappings
+2015-06-29 12:21:19,315 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2] Loading mappings
+2015-06-29 12:21:19,315 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6>
+2015-06-29 12:21:19,315 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0>
+2015-06-29 12:21:19,315 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0] Loading mappings
+2015-06-29 12:21:19,315 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6] Loading mappings
+2015-06-29 12:21:20,756 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0] Loading headers
+2015-06-29 12:21:20,759 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0] Loading headers
+2015-06-29 12:21:21,959 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2] Loading headers
+2015-06-29 12:21:21,963 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6] Loading headers
+2015-06-29 12:21:25,230 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0] => 1514 results
+2015-06-29 12:21:25,279 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0] => 4886 results
+2015-06-29 12:21:25,295 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6] => 3263 results
+2015-06-29 12:21:25,479 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2] => 3977 results
+2015-06-29 12:21:25,712 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0] Saving 5870 data triples.
+2015-06-29 12:21:26,306 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6] Saving 12442 data triples.
+2015-06-29 12:21:26,835 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2] Saving 17102 data triples.
+2015-06-29 12:21:26,896 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0] Saving 20352 data triples.
+2015-06-29 12:21:27,048 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1>
+2015-06-29 12:21:27,048 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1] Loading mappings
+2015-06-29 12:21:28,522 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1] Loading headers
+2015-06-29 12:21:28,658 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1] => 1356 results
+2015-06-29 12:21:29,012 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1] Saving 4080 data triples.
+2015-06-29 12:21:29,185 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7>
+2015-06-29 12:21:29,185 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7] Loading mappings
+2015-06-29 12:21:29,946 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10>
+2015-06-29 12:21:29,946 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10] Loading mappings
+2015-06-29 12:21:30,647 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7] Loading headers
+2015-06-29 12:21:30,812 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7] => 1970 results
+2015-06-29 12:21:30,893 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3>
+2015-06-29 12:21:30,893 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3] Loading mappings
+2015-06-29 12:21:31,426 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10] Loading headers
+2015-06-29 12:21:31,458 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7] Saving 8042 data triples.
+2015-06-29 12:21:31,565 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10] => 1468 results
+2015-06-29 12:21:31,648 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1>
+2015-06-29 12:21:31,649 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1] Loading mappings
+2015-06-29 12:21:31,933 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10] Saving 4140 data triples.
+2015-06-29 12:21:32,399 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3] Loading headers
+2015-06-29 12:21:32,590 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3] => 3091 results
+2015-06-29 12:21:32,886 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11>
+2015-06-29 12:21:32,886 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11] Loading mappings
+2015-06-29 12:21:33,102 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1] Loading headers
+2015-06-29 12:21:33,321 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8>
+2015-06-29 12:21:33,321 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8] Loading mappings
+2015-06-29 12:21:33,381 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1] => 3815 results
+2015-06-29 12:21:33,661 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3] Saving 13072 data triples.
+2015-06-29 12:21:34,352 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11] Loading headers
+2015-06-29 12:21:34,365 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11] => 83 results
+2015-06-29 12:21:34,394 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11] Saving 350 data triples.
+2015-06-29 12:21:34,487 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2>
+2015-06-29 12:21:34,487 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2] Loading mappings
+2015-06-29 12:21:34,626 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1] Saving 15582 data triples.
+2015-06-29 12:21:34,824 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8] Loading headers
+2015-06-29 12:21:35,022 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8] => 2276 results
+2015-06-29 12:21:36,010 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2] Loading headers
+2015-06-29 12:21:36,092 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2] => 1187 results
+2015-06-29 12:21:36,230 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8] Saving 17002 data triples.
+2015-06-29 12:21:36,499 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2] Saving 5190 data triples.
+2015-06-29 12:21:36,682 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4>
+2015-06-29 12:21:36,682 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4] Loading mappings
+2015-06-29 12:21:37,686 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3>
+2015-06-29 12:21:37,687 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3] Loading mappings
+2015-06-29 12:21:38,127 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4] Loading headers
+2015-06-29 12:21:38,322 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10>
+2015-06-29 12:21:38,323 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10] Loading mappings
+2015-06-29 12:21:38,368 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4] => 2303 results
+2015-06-29 12:21:39,584 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4] Saving 17702 data triples.
+2015-06-29 12:21:39,778 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10] Loading headers
+2015-06-29 12:21:39,994 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10] => 3602 results
+2015-06-29 12:21:40,086 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3] Loading headers
+2015-06-29 12:21:40,179 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3] => 1375 results
+2015-06-29 12:21:40,571 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3] Saving 4680 data triples.
+2015-06-29 12:21:41,137 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9>
+2015-06-29 12:21:41,138 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9] Loading mappings
+2015-06-29 12:21:41,157 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10] Saving 14602 data triples.
+2015-06-29 12:21:41,643 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4>
+2015-06-29 12:21:41,643 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4] Loading mappings
+2015-06-29 12:21:42,594 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9] Loading headers
+2015-06-29 12:21:42,688 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9] => 1463 results
+2015-06-29 12:21:43,113 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4] Loading headers
+2015-06-29 12:21:43,153 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9] Saving 5822 data triples.
+2015-06-29 12:21:43,161 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4] => 644 results
+2015-06-29 12:21:43,445 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4] Saving 3550 data triples.
+2015-06-29 12:21:43,696 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5>
+2015-06-29 12:21:43,696 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5] Loading mappings
+2015-06-29 12:21:44,261 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5>
+2015-06-29 12:21:44,261 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5] Loading mappings
+2015-06-29 12:21:44,540 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11>
+2015-06-29 12:21:44,540 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11] Loading mappings
+2015-06-29 12:21:44,547 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6>
+2015-06-29 12:21:44,548 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6] Loading mappings
+2015-06-29 12:21:45,169 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5] Loading headers
+2015-06-29 12:21:45,259 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5] => 1376 results
+2015-06-29 12:21:45,743 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5] Loading headers
+2015-06-29 12:21:45,777 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5] => 403 results
+2015-06-29 12:21:45,948 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5] Saving 2270 data triples.
+2015-06-29 12:21:45,997 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6] Loading headers
+2015-06-29 12:21:46,003 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5] Saving 10582 data triples.
+2015-06-29 12:21:46,014 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11] Loading headers
+2015-06-29 12:21:46,050 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11] => 338 results
+2015-06-29 12:21:46,056 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6] => 712 results
+2015-06-29 12:21:46,123 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11] Saving 732 data triples.
+2015-06-29 12:21:46,225 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6] Saving 1870 data triples.
+2015-06-29 12:21:46,301 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0>
+2015-06-29 12:21:46,301 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0] Loading mappings
+2015-06-29 12:21:46,475 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0>
+2015-06-29 12:21:46,475 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0] Loading mappings
+2015-06-29 12:21:46,658 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7>
+2015-06-29 12:21:46,658 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7] Loading mappings
+2015-06-29 12:21:47,775 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0] Loading headers
+2015-06-29 12:21:47,951 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0] Loading headers
+2015-06-29 12:21:48,048 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0] => 4130 results
+2015-06-29 12:21:48,123 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7] Loading headers
+2015-06-29 12:21:48,158 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7] => 390 results
+2015-06-29 12:21:48,226 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0] => 3545 results
+2015-06-29 12:21:48,307 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7] Saving 1950 data triples.
+2015-06-29 12:21:48,468 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0>
+2015-06-29 12:21:48,468 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0] Loading mappings
+2015-06-29 12:21:48,760 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8>
+2015-06-29 12:21:48,760 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8] Loading mappings
+2015-06-29 12:21:49,602 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0] Saving 19912 data triples.
+2015-06-29 12:21:49,747 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0] Saving 20291 data triples.
+2015-06-29 12:21:49,942 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0] Loading headers
+2015-06-29 12:21:50,203 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0] => 4058 results
+2015-06-29 12:21:50,229 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8] Loading headers
+2015-06-29 12:21:50,286 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8] => 779 results
+2015-06-29 12:21:50,479 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8] Saving 2180 data triples.
+2015-06-29 12:21:51,022 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9>
+2015-06-29 12:21:51,022 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9] Loading mappings
+2015-06-29 12:21:51,907 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0] Saving 22379 data triples.
+2015-06-29 12:21:52,572 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9] Loading headers
+2015-06-29 12:21:52,661 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9] => 621 results
+2015-06-29 12:21:52,802 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9] Saving 1350 data triples.
+2015-06-29 12:21:53,119 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0>
+2015-06-29 12:21:53,119 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0] Loading mappings
+2015-06-29 12:21:54,260 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0>
+2015-06-29 12:21:54,261 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0] Loading mappings
+2015-06-29 12:21:54,528 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0>
+2015-06-29 12:21:54,528 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0] Loading mappings
+2015-06-29 12:21:54,563 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0] Loading headers
+2015-06-29 12:21:54,805 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0] => 2324 results
+2015-06-29 12:21:55,504 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0] Saving 2472 data triples.
+2015-06-29 12:21:55,716 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0] Loading headers
+2015-06-29 12:21:55,832 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0] => 1790 results
+2015-06-29 12:21:56,593 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0] Saving 10301 data triples.
+2015-06-29 12:21:56,627 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0>
+2015-06-29 12:21:56,628 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0] Loading mappings
+2015-06-29 12:21:57,129 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0>
+2015-06-29 12:21:57,129 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0] Loading mappings
+2015-06-29 12:21:57,217 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0] Loading headers
+2015-06-29 12:21:57,471 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0] => 2516 results
+2015-06-29 12:21:58,550 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0] Loading headers
+2015-06-29 12:21:58,856 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0] => 4295 results
+2015-06-29 12:21:58,975 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0>
+2015-06-29 12:21:58,976 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0] Loading mappings
+2015-06-29 12:21:59,339 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0] Loading headers
+2015-06-29 12:21:59,394 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0] => 456 results
+2015-06-29 12:21:59,649 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0] Saving 15112 data triples.
+2015-06-29 12:21:59,662 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0] Saving 1751 data triples.
+2015-06-29 12:22:00,070 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0>
+2015-06-29 12:22:00,071 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0] Loading mappings
+2015-06-29 12:22:00,405 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0] Loading headers
+2015-06-29 12:22:00,639 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0] => 3769 results
+2015-06-29 12:22:00,684 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0] Saving 24696 data triples.
+2015-06-29 12:22:01,545 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0] Loading headers
+2015-06-29 12:22:01,618 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0] => 655 results
+2015-06-29 12:22:01,986 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0] Saving 2761 data triples.
+2015-06-29 12:22:02,318 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0] Saving 19520 data triples.
+2015-06-29 12:22:02,619 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0>
+2015-06-29 12:22:02,619 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0] Loading mappings
+2015-06-29 12:22:03,339 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0>
+2015-06-29 12:22:03,339 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0] Loading mappings
+2015-06-29 12:22:04,097 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0] Loading headers
+2015-06-29 12:22:04,189 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0] => 1289 results
+2015-06-29 12:22:04,624 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0] Saving 5461 data triples.
+2015-06-29 12:22:04,809 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0] Loading headers
+2015-06-29 12:22:04,924 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0] => 1769 results
+2015-06-29 12:22:05,677 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0] Saving 9931 data triples.
+2015-06-29 12:22:05,867 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0>
+2015-06-29 12:22:05,867 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0] Loading mappings
+2015-06-29 12:22:06,405 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0>
+2015-06-29 12:22:06,405 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0] Loading mappings
+2015-06-29 12:22:06,877 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0>
+2015-06-29 12:22:06,877 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0] Loading mappings
+2015-06-29 12:22:07,356 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0] Loading headers
+2015-06-29 12:22:07,482 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0] => 1479 results
+2015-06-29 12:22:07,970 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0] Saving 6241 data triples.
+2015-06-29 12:22:08,324 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0] Loading headers
+2015-06-29 12:22:08,334 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0] Loading headers
+2015-06-29 12:22:08,494 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0] => 1845 results
+2015-06-29 12:22:08,515 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0>
+2015-06-29 12:22:08,515 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0] Loading mappings
+2015-06-29 12:22:08,625 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0] => 4192 results
+2015-06-29 12:22:09,259 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0] Saving 10064 data triples.
+2015-06-29 12:22:09,387 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0>
+2015-06-29 12:22:09,387 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0] Loading mappings
+2015-06-29 12:22:09,967 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0] Loading headers
+2015-06-29 12:22:10,360 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0] => 5339 results
+2015-06-29 12:22:10,416 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0] Saving 22617 data triples.
+2015-06-29 12:22:10,852 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0] Loading headers
+2015-06-29 12:22:11,044 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0] => 2303 results
+2015-06-29 12:22:11,603 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0>
+2015-06-29 12:22:11,603 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0] Loading mappings
+2015-06-29 12:22:11,740 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0] Saving 8393 data triples.
+2015-06-29 12:22:12,696 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0] Saving 30678 data triples.
+2015-06-29 12:22:13,079 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0] Loading headers
+2015-06-29 12:22:13,264 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0] => 1812 results
+2015-06-29 12:22:13,674 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0>
+2015-06-29 12:22:13,675 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0] Loading mappings
+2015-06-29 12:22:13,992 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0] Saving 7561 data triples.
+2015-06-29 12:22:15,158 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0] Loading headers
+2015-06-29 12:22:15,272 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0] => 1045 results
+2015-06-29 12:22:15,652 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0] Saving 4828 data triples.
+2015-06-29 12:22:15,709 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0>
+2015-06-29 12:22:15,710 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0] Loading mappings
+2015-06-29 12:22:15,912 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0>
+2015-06-29 12:22:15,912 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0] Loading mappings
+2015-06-29 12:22:16,756 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0>
+2015-06-29 12:22:16,756 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0] Loading mappings
+2015-06-29 12:22:17,193 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0] Loading headers
+2015-06-29 12:22:17,305 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0] => 1075 results
+2015-06-29 12:22:17,368 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0] Loading headers
+2015-06-29 12:22:17,449 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0] => 1039 results
+2015-06-29 12:22:17,740 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0] Saving 2821 data triples.
+2015-06-29 12:22:18,023 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0] Saving 5351 data triples.
+2015-06-29 12:22:18,376 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0>
+2015-06-29 12:22:18,376 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0] Loading mappings
+2015-06-29 12:22:18,997 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0] Loading headers
+2015-06-29 12:22:19,075 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0] => 691 results
+2015-06-29 12:22:19,560 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0] Saving 3191 data triples.
+2015-06-29 12:22:19,802 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0] Loading headers
+2015-06-29 12:22:19,858 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0>
+2015-06-29 12:22:19,859 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0] Loading mappings
+2015-06-29 12:22:20,184 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0>
+2015-06-29 12:22:20,185 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0] Loading mappings
+2015-06-29 12:22:20,364 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0] => 8366 results
+2015-06-29 12:22:20,591 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0>
+2015-06-29 12:22:20,592 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0] Loading mappings
+2015-06-29 12:22:21,491 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0] Loading headers
+2015-06-29 12:22:21,677 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0] Loading headers
+2015-06-29 12:22:22,009 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0] => 5648 results
+2015-06-29 12:22:22,040 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0] Loading headers
+2015-06-29 12:22:22,441 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0] => 9634 results
+2015-06-29 12:22:22,475 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0] => 5822 results
+2015-06-29 12:22:23,177 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0] Saving 30070 data triples.
+2015-06-29 12:22:23,677 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0] Saving 19280 data triples.
+2015-06-29 12:22:24,190 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0] Saving 20630 data triples.
+2015-06-29 12:22:24,999 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0] Saving 28970 data triples.
+2015-06-29 12:22:28,213 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0>
+2015-06-29 12:22:28,213 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0] Loading mappings
+2015-06-29 12:22:28,970 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0>
+2015-06-29 12:22:28,970 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0] Loading mappings
+2015-06-29 12:22:29,707 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0] Loading headers
+2015-06-29 12:22:29,931 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0] => 3469 results
+2015-06-29 12:22:30,429 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0] Loading headers
+2015-06-29 12:22:30,452 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0] => 222 results
+2015-06-29 12:22:30,495 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0] Saving 403 data triples.
+2015-06-29 12:22:30,599 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0>
+2015-06-29 12:22:30,599 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0] Loading mappings
+2015-06-29 12:22:30,679 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0>
+2015-06-29 12:22:30,679 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0] Loading mappings
+2015-06-29 12:22:30,909 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0] Saving 11790 data triples.
+2015-06-29 12:22:32,024 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0] Loading headers
+2015-06-29 12:22:32,966 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0>
+2015-06-29 12:22:32,966 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0] Loading mappings
+2015-06-29 12:22:33,234 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0] Loading headers
+2015-06-29 12:22:33,405 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0] => 15323 results
+2015-06-29 12:22:33,607 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0>
+2015-06-29 12:22:33,608 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0] Loading mappings
+2015-06-29 12:22:33,779 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0] => 7083 results
+2015-06-29 12:22:34,448 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0] Loading headers
+2015-06-29 12:22:34,880 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0] => 5921 results
+2015-06-29 12:22:35,082 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0] Loading headers
+2015-06-29 12:22:35,382 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0] => 5245 results
+2015-06-29 12:22:36,569 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0] Saving 20830 data triples.
+2015-06-29 12:22:36,782 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0] Saving 16700 data triples.
+2015-06-29 12:22:37,238 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0] Saving 24890 data triples.
+2015-06-29 12:22:40,656 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0>
+2015-06-29 12:22:40,656 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0] Loading mappings
+2015-06-29 12:22:42,081 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0] Loading headers
+2015-06-29 12:22:42,316 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1>
+2015-06-29 12:22:42,317 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1] Loading mappings
+2015-06-29 12:22:42,348 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0] => 2913 results
+2015-06-29 12:22:43,185 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0] Saving 9550 data triples.
+2015-06-29 12:22:44,618 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0>
+2015-06-29 12:22:44,619 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0] Loading mappings
+2015-06-29 12:22:45,102 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1] Loading headers
+2015-06-29 12:22:45,123 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1] => 92 results
+2015-06-29 12:22:45,150 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1] Saving 79 data triples.
+2015-06-29 12:22:45,204 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2>
+2015-06-29 12:22:45,204 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2] Loading mappings
+2015-06-29 12:22:46,887 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0] Loading headers
+2015-06-29 12:22:47,138 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0] => 4080 results
+2015-06-29 12:22:47,442 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2] Loading headers
+2015-06-29 12:22:47,459 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2] => 188 results
+2015-06-29 12:22:47,588 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2] Saving 1906 data triples.
+2015-06-29 12:22:48,386 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0] Saving 15100 data triples.
+2015-06-29 12:22:48,425 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0] Saving 134696 data triples.
+2015-06-29 12:22:51,701 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0>
+2015-06-29 12:22:51,702 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0] Loading mappings
+2015-06-29 12:22:53,086 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0] Loading headers
+2015-06-29 12:22:53,234 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0] => 2541 results
+2015-06-29 12:22:54,024 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0] Saving 9720 data triples.
+2015-06-29 12:23:19,043 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0>
+2015-06-29 12:23:19,043 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0] Loading mappings
+2015-06-29 12:23:20,537 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0] Loading headers
+2015-06-29 12:23:21,756 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0] => 19131 results
+2015-06-29 12:23:24,514 RuleMaker    INFO     [http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0] Saving 20800 data triples.
+2015-06-29 12:23:29,118 Main         INFO     Clean urn:graph:cedar-mini:rules
+2015-06-29 12:23:35,586 Main         INFO     Push the content of DataDump/rules//*
+2015-06-29 12:23:35,587 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S0.ttl.bz2
+2015-06-29 12:23:37,133 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S1.ttl.bz2
+2015-06-29 12:23:38,400 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S10.ttl.bz2
+2015-06-29 12:23:39,560 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S11.ttl.bz2
+2015-06-29 12:23:39,784 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S2.ttl.bz2
+2015-06-29 12:23:41,131 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S3.ttl.bz2
+2015-06-29 12:23:42,220 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S4.ttl.bz2
+2015-06-29 12:23:43,675 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S5.ttl.bz2
+2015-06-29 12:23:44,591 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S6.ttl.bz2
+2015-06-29 12:23:45,626 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S7.ttl.bz2
+2015-06-29 12:23:46,301 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S8.ttl.bz2
+2015-06-29 12:23:47,611 Main         INFO     Push DataDump/rules/VT_1859_01_H1-S9.ttl.bz2
+2015-06-29 12:23:48,186 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S0.ttl.bz2
+2015-06-29 12:23:48,756 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S1.ttl.bz2
+2015-06-29 12:23:49,115 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S10.ttl.bz2
+2015-06-29 12:23:49,554 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S11.ttl.bz2
+2015-06-29 12:23:49,675 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S2.ttl.bz2
+2015-06-29 12:23:50,235 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S3.ttl.bz2
+2015-06-29 12:23:50,700 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S4.ttl.bz2
+2015-06-29 12:23:51,160 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S5.ttl.bz2
+2015-06-29 12:23:51,503 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S6.ttl.bz2
+2015-06-29 12:23:51,837 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S7.ttl.bz2
+2015-06-29 12:23:52,176 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S8.ttl.bz2
+2015-06-29 12:23:52,517 Main         INFO     Push DataDump/rules/VT_1869_01_H1-S9.ttl.bz2
+2015-06-29 12:23:52,857 Main         INFO     Push DataDump/rules/VT_1879_01_H1-S0.ttl.bz2
+2015-06-29 12:23:54,397 Main         INFO     Push DataDump/rules/VT_1879_02_H1-S0.ttl.bz2
+2015-06-29 12:23:55,304 Main         INFO     Push DataDump/rules/VT_1879_03_H1-S0.ttl.bz2
+2015-06-29 12:23:56,792 Main         INFO     Push DataDump/rules/VT_1879_04_H1-S0.ttl.bz2
+2015-06-29 12:23:57,694 Main         INFO     Push DataDump/rules/VT_1879_05_H1-S0.ttl.bz2
+2015-06-29 12:23:59,124 Main         INFO     Push DataDump/rules/VT_1879_06_H1-S0.ttl.bz2
+2015-06-29 12:24:00,255 Main         INFO     Push DataDump/rules/VT_1879_07_H1-S0.ttl.bz2
+2015-06-29 12:24:01,131 Main         INFO     Push DataDump/rules/VT_1879_08_H1-S0.ttl.bz2
+2015-06-29 12:24:03,295 Main         INFO     Push DataDump/rules/VT_1879_09_H1-S0.ttl.bz2
+2015-06-29 12:24:04,836 Main         INFO     Push DataDump/rules/VT_1879_10_H1-S0.ttl.bz2
+2015-06-29 12:24:06,630 Main         INFO     Push DataDump/rules/VT_1879_11_H1-S0.ttl.bz2
+2015-06-29 12:24:08,336 Main         INFO     Push DataDump/rules/VT_1889_03_H1-S0.ttl.bz2
+2015-06-29 12:24:08,777 Main         INFO     Push DataDump/rules/VT_1889_04_H1-S0.ttl.bz2
+2015-06-29 12:24:09,121 Main         INFO     Push DataDump/rules/VT_1889_05_H1-S0.ttl.bz2
+2015-06-29 12:24:09,468 Main         INFO     Push DataDump/rules/VT_1889_06_H1-S0.ttl.bz2
+2015-06-29 12:24:09,920 Main         INFO     Push DataDump/rules/VT_1889_07_H1-S0.ttl.bz2
+2015-06-29 12:24:10,388 Main         INFO     Push DataDump/rules/VT_1889_08_H1-S0.ttl.bz2
+2015-06-29 12:24:10,958 Main         INFO     Push DataDump/rules/VT_1889_09_H1-S0.ttl.bz2
+2015-06-29 12:24:11,641 Main         INFO     Push DataDump/rules/VT_1889_10_H1-S0.ttl.bz2
+2015-06-29 12:24:12,093 Main         INFO     Push DataDump/rules/VT_1889_11_H1-S0.ttl.bz2
+2015-06-29 12:24:12,547 Main         INFO     Push DataDump/rules/VT_1889_12_H1-S0.ttl.bz2
+2015-06-29 12:24:13,140 Main         INFO     Push DataDump/rules/VT_1889_13_H1-S0.ttl.bz2
+2015-06-29 12:24:13,684 Main         INFO     Push DataDump/rules/VT_1899_01_H1-S0.ttl.bz2
+2015-06-29 12:24:15,705 Main         INFO     Push DataDump/rules/VT_1899_02_H1-S0.ttl.bz2
+2015-06-29 12:24:17,200 Main         INFO     Push DataDump/rules/VT_1899_03_H1-S0.ttl.bz2
+2015-06-29 12:24:19,344 Main         INFO     Push DataDump/rules/VT_1899_04_H1-S0.ttl.bz2
+2015-06-29 12:24:21,158 Main         INFO     Push DataDump/rules/VT_1899_05_H1-S0.ttl.bz2
+2015-06-29 12:24:22,260 Main         INFO     Push DataDump/rules/VT_1899_06_H1-S0.ttl.bz2
+2015-06-29 12:24:23,140 Main         INFO     Push DataDump/rules/VT_1899_07_H1-S0.ttl.bz2
+2015-06-29 12:24:24,632 Main         INFO     Push DataDump/rules/VT_1899_08_H1-S0.ttl.bz2
+2015-06-29 12:24:25,713 Main         INFO     Push DataDump/rules/VT_1899_09_H1-S0.ttl.bz2
+2015-06-29 12:24:26,970 Main         INFO     Push DataDump/rules/VT_1899_10_H1-S0.ttl.bz2
+2015-06-29 12:24:27,791 Main         INFO     Push DataDump/rules/VT_1899_11_H1-S0.ttl.bz2
+2015-06-29 12:24:29,272 Main         INFO     Push DataDump/rules/VT_1899_12_H1-S0.ttl.bz2
+2015-06-29 12:24:29,391 Main         INFO     Push DataDump/rules/VT_1909_01_T-S0.ttl.bz2
+2015-06-29 12:24:38,021 Main         INFO     Push DataDump/rules/VT_1920_01_T-S0.ttl.bz2
+2015-06-29 12:24:39,499 Main         INFO     Push DataDump/rules/VT_1920_01_T-S1.ttl.bz2
+2015-06-29 12:24:39,620 Main         INFO     Push DataDump/rules/VT_1920_01_T-S2.ttl.bz2
+2015-06-29 12:24:39,978 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S0>
+2015-06-29 12:24:39,978 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S2>
+2015-06-29 12:24:39,979 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S6>
+2015-06-29 12:24:39,979 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S0>
+2015-06-29 12:24:44,976 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S3>
+2015-06-29 12:24:45,465 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S7>
+2015-06-29 12:24:47,228 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S4>
+2015-06-29 12:24:47,368 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S1>
+2015-06-29 12:24:47,427 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S8>
+2015-06-29 12:24:48,504 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S1>
+2015-06-29 12:24:49,325 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S5>
+2015-06-29 12:24:49,448 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S9>
+2015-06-29 12:24:49,868 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S10>
+2015-06-29 12:24:50,543 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S2>
+2015-06-29 12:24:50,932 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S6>
+2015-06-29 12:24:52,547 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1859_01_H1-S11>
+2015-06-29 12:24:52,761 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_01_H1-S0>
+2015-06-29 12:24:54,528 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S10>
+2015-06-29 12:24:55,042 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S7>
+2015-06-29 12:24:57,464 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S3>
+2015-06-29 12:24:57,817 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S8>
+2015-06-29 12:25:00,367 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S11>
+2015-06-29 12:25:00,727 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_05_H1-S0>
+2015-06-29 12:25:00,977 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_02_H1-S0>
+2015-06-29 12:25:02,557 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S9>
+2015-06-29 12:25:03,649 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S4>
+2015-06-29 12:25:04,580 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_03_H1-S0>
+2015-06-29 12:25:04,763 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_09_H1-S0>
+2015-06-29 12:25:09,242 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_06_H1-S0>
+2015-06-29 12:25:09,313 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1869_01_H1-S5>
+2015-06-29 12:25:10,876 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_04_H1-S0>
+2015-06-29 12:25:11,914 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_04_H1-S0>
+2015-06-29 12:25:12,493 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_10_H1-S0>
+2015-06-29 12:25:15,611 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_08_H1-S0>
+2015-06-29 12:25:15,983 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_07_H1-S0>
+2015-06-29 12:25:20,835 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_05_H1-S0>
+2015-06-29 12:25:21,059 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_11_H1-S0>
+2015-06-29 12:25:21,234 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1879_08_H1-S0>
+2015-06-29 12:25:24,969 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_06_H1-S0>
+2015-06-29 12:25:25,464 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_09_H1-S0>
+2015-06-29 12:25:28,884 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_03_H1-S0>
+2015-06-29 12:25:29,988 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_07_H1-S0>
+2015-06-29 12:25:32,285 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_12_H1-S0>
+2015-06-29 12:25:34,831 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_03_H1-S0>
+2015-06-29 12:25:37,637 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_10_H1-S0>
+2015-06-29 12:25:37,937 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_07_H1-S0>
+2015-06-29 12:25:40,866 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_13_H1-S0>
+2015-06-29 12:25:43,031 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1889_11_H1-S0>
+2015-06-29 12:25:44,070 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_04_H1-S0>
+2015-06-29 12:25:44,190 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_08_H1-S0>
+2015-06-29 12:25:47,364 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_09_H1-S0>
+2015-06-29 12:25:47,599 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_11_H1-S0>
+2015-06-29 12:25:47,722 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_01_H1-S0>
+2015-06-29 12:25:51,576 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_05_H1-S0>
+2015-06-29 12:25:52,142 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_10_H1-S0>
+2015-06-29 12:25:52,665 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_12_H1-S0>
+2015-06-29 12:25:53,249 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1909_01_T-S0>
+2015-06-29 12:25:54,509 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S1>
+2015-06-29 12:25:54,536 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S2>
+2015-06-29 12:25:55,438 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_06_H1-S0>
+2015-06-29 12:25:55,765 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1899_02_H1-S0>
+2015-06-29 12:26:27,354 Main         INFO     Process <http://lod.cedar-project.nl:8888/cedar/resource/VT_1920_01_T-S0>
+2015-06-29 12:27:02,017 Main         INFO     Clean urn:graph:cedar-mini:release
+2015-06-29 12:27:57,130 Main         INFO     Push the content of DataDump/release//*
+2015-06-29 12:27:57,130 Main         INFO     Push DataDump/release/VT_1859_01_H1-S0.ttl.bz2
+2015-06-29 12:28:06,048 Main         INFO     Push DataDump/release/VT_1859_01_H1-S1.ttl.bz2
+2015-06-29 12:28:12,825 Main         INFO     Push DataDump/release/VT_1859_01_H1-S10.ttl.bz2
+2015-06-29 12:28:18,907 Main         INFO     Push DataDump/release/VT_1859_01_H1-S11.ttl.bz2
+2015-06-29 12:28:19,588 Main         INFO     Push DataDump/release/VT_1859_01_H1-S2.ttl.bz2
+2015-06-29 12:28:25,739 Main         INFO     Push DataDump/release/VT_1859_01_H1-S3.ttl.bz2
+2015-06-29 12:28:31,504 Main         INFO     Push DataDump/release/VT_1859_01_H1-S4.ttl.bz2
+2015-06-29 12:28:36,162 Main         INFO     Push DataDump/release/VT_1859_01_H1-S5.ttl.bz2
+2015-06-29 12:28:39,339 Main         INFO     Push DataDump/release/VT_1859_01_H1-S6.ttl.bz2
+2015-06-29 12:28:44,537 Main         INFO     Push DataDump/release/VT_1859_01_H1-S7.ttl.bz2
+2015-06-29 12:28:48,132 Main         INFO     Push DataDump/release/VT_1859_01_H1-S8.ttl.bz2
+2015-06-29 12:28:52,698 Main         INFO     Push DataDump/release/VT_1859_01_H1-S9.ttl.bz2
+2015-06-29 12:28:55,174 Main         INFO     Push DataDump/release/VT_1869_01_H1-S0.ttl.bz2
+2015-06-29 12:29:08,404 Main         INFO     Push DataDump/release/VT_1869_01_H1-S1.ttl.bz2
+2015-06-29 12:29:21,926 Main         INFO     Push DataDump/release/VT_1869_01_H1-S10.ttl.bz2
+2015-06-29 12:29:34,357 Main         INFO     Push DataDump/release/VT_1869_01_H1-S11.ttl.bz2
+2015-06-29 12:29:34,948 Main         INFO     Push DataDump/release/VT_1869_01_H1-S2.ttl.bz2
+2015-06-29 12:29:46,774 Main         INFO     Push DataDump/release/VT_1869_01_H1-S3.ttl.bz2
+2015-06-29 12:30:02,644 Main         INFO     Push DataDump/release/VT_1869_01_H1-S4.ttl.bz2
+2015-06-29 12:30:11,239 Main         INFO     Push DataDump/release/VT_1869_01_H1-S5.ttl.bz2
+2015-06-29 12:30:17,244 Main         INFO     Push DataDump/release/VT_1869_01_H1-S6.ttl.bz2
+2015-06-29 12:30:26,094 Main         INFO     Push DataDump/release/VT_1869_01_H1-S7.ttl.bz2
+2015-06-29 12:30:32,496 Main         INFO     Push DataDump/release/VT_1869_01_H1-S8.ttl.bz2
+2015-06-29 12:30:39,845 Main         INFO     Push DataDump/release/VT_1869_01_H1-S9.ttl.bz2
+2015-06-29 12:30:45,740 Main         INFO     Push DataDump/release/VT_1879_01_H1-S0.ttl.bz2
+2015-06-29 12:30:59,662 Main         INFO     Push DataDump/release/VT_1879_02_H1-S0.ttl.bz2
+2015-06-29 12:31:07,212 Main         INFO     Push DataDump/release/VT_1879_03_H1-S0.ttl.bz2
+2015-06-29 12:31:19,622 Main         INFO     Push DataDump/release/VT_1879_04_H1-S0.ttl.bz2
+2015-06-29 12:31:26,160 Main         INFO     Push DataDump/release/VT_1879_05_H1-S0.ttl.bz2
+2015-06-29 12:31:39,562 Main         INFO     Push DataDump/release/VT_1879_06_H1-S0.ttl.bz2
+2015-06-29 12:31:50,084 Main         INFO     Push DataDump/release/VT_1879_07_H1-S0.ttl.bz2
+2015-06-29 12:31:57,126 Main         INFO     Push DataDump/release/VT_1879_08_H1-S0.ttl.bz2
+2015-06-29 12:32:18,307 Main         INFO     Push DataDump/release/VT_1879_09_H1-S0.ttl.bz2
+2015-06-29 12:32:34,191 Main         INFO     Push DataDump/release/VT_1879_10_H1-S0.ttl.bz2
+2015-06-29 12:32:51,244 Main         INFO     Push DataDump/release/VT_1879_11_H1-S0.ttl.bz2
+2015-06-29 12:33:07,338 Main         INFO     Push DataDump/release/VT_1889_03_H1-S0.ttl.bz2
+2015-06-29 12:33:18,990 Main         INFO     Push DataDump/release/VT_1889_04_H1-S0.ttl.bz2
+2015-06-29 12:33:35,156 Main         INFO     Push DataDump/release/VT_1889_05_H1-S0.ttl.bz2
+2015-06-29 12:33:41,898 Main         INFO     Push DataDump/release/VT_1889_06_H1-S0.ttl.bz2
+2015-06-29 12:33:49,913 Main         INFO     Push DataDump/release/VT_1889_07_H1-S0.ttl.bz2
+2015-06-29 12:34:04,531 Main         INFO     Push DataDump/release/VT_1889_08_H1-S0.ttl.bz2
+2015-06-29 12:34:22,747 Main         INFO     Push DataDump/release/VT_1889_09_H1-S0.ttl.bz2
+2015-06-29 12:34:44,721 Main         INFO     Push DataDump/release/VT_1889_10_H1-S0.ttl.bz2
+2015-06-29 12:34:54,871 Main         INFO     Push DataDump/release/VT_1889_11_H1-S0.ttl.bz2
+2015-06-29 12:35:02,052 Main         INFO     Push DataDump/release/VT_1889_12_H1-S0.ttl.bz2
+2015-06-29 12:35:18,714 Main         INFO     Push DataDump/release/VT_1889_13_H1-S0.ttl.bz2
+2015-06-29 12:35:32,898 Main         INFO     Push DataDump/release/VT_1899_01_H1-S0.ttl.bz2
+2015-06-29 12:35:50,309 Main         INFO     Push DataDump/release/VT_1899_02_H1-S0.ttl.bz2
+2015-06-29 12:36:02,532 Main         INFO     Push DataDump/release/VT_1899_03_H1-S0.ttl.bz2
+2015-06-29 12:36:19,087 Main         INFO     Push DataDump/release/VT_1899_04_H1-S0.ttl.bz2
+2015-06-29 12:36:32,928 Main         INFO     Push DataDump/release/VT_1899_05_H1-S0.ttl.bz2
+2015-06-29 12:36:41,212 Main         INFO     Push DataDump/release/VT_1899_06_H1-S0.ttl.bz2
+2015-06-29 12:36:46,802 Main         INFO     Push DataDump/release/VT_1899_07_H1-S0.ttl.bz2
+2015-06-29 12:36:57,588 Main         INFO     Push DataDump/release/VT_1899_08_H1-S0.ttl.bz2
+2015-06-29 12:37:04,792 Main         INFO     Push DataDump/release/VT_1899_09_H1-S0.ttl.bz2
+2015-06-29 12:37:13,826 Main         INFO     Push DataDump/release/VT_1899_10_H1-S0.ttl.bz2
+2015-06-29 12:37:18,910 Main         INFO     Push DataDump/release/VT_1899_11_H1-S0.ttl.bz2
+2015-06-29 12:37:29,680 Main         INFO     Push DataDump/release/VT_1899_12_H1-S0.ttl.bz2
+2015-06-29 12:37:31,001 Main         INFO     Push DataDump/release/VT_1909_01_T-S0.ttl.bz2
+2015-06-29 12:38:53,282 Main         INFO     Push DataDump/release/VT_1920_01_T-S0.ttl.bz2
+2015-06-29 12:40:24,396 Main         INFO     Push DataDump/release/VT_1920_01_T-S1.ttl.bz2
+2015-06-29 12:40:24,535 Main         INFO     Push DataDump/release/VT_1920_01_T-S2.ttl.bz2
