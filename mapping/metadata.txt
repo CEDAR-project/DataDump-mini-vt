@@ -40,12 +40,12 @@ predicate = http://bit.ly/cedar#residenceStatus
 prefix = http://bit.ly/cedar-residenceStatus#
 mapping_type = uri
 
-;; [Kom]
-;; file = Kom.xls
-;; author = Ashkan
-;; predicate = http://bit.ly/cedar#Kom
-;; prefix = http://bit.ly/cedar-Kom#
-;; mapping_type = uri
+[Kom]
+file = Kom.xls
+author = Ashkan
+predicate = http://bit.ly/cedar#Kom
+prefix = http://bit.ly/cedar-Kom#
+mapping_type = uri
 
 ;; [Wijken]
 ;; file = Wijken.xls
