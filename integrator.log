@@ -1,750 +1,750 @@
-2015-07-10 15:30:05,591 integrat     INFO     [VT_1859_01_H1] Calling TabLinker
-2015-07-10 15:30:05,591 integrat     INFO     [VT_1879_01_H1] Calling TabLinker
-2015-07-10 15:30:05,591 integrat     INFO     [VT_1879_03_H1] Calling TabLinker
-2015-07-10 15:30:05,591 integrat     INFO     [VT_1879_05_H1] Calling TabLinker
-2015-07-10 15:30:05,592 integrat     INFO     [VT_1879_07_H1] Calling TabLinker
-2015-07-10 15:30:05,593 modules.tablinker.tablinker INFO     [VT_1859_01_H1] Loading source-data/VT_1859_01_H1.ods
-2015-07-10 15:30:05,593 modules.tablinker.tablinker INFO     [VT_1879_01_H1] Loading source-data/VT_1879_01_H1.ods
-2015-07-10 15:30:05,593 modules.tablinker.tablinker INFO     [VT_1879_03_H1] Loading source-data/VT_1879_03_H1.ods
-2015-07-10 15:30:05,593 modules.tablinker.tablinker INFO     [VT_1879_05_H1] Loading source-data/VT_1879_05_H1.ods
-2015-07-10 15:30:05,594 modules.tablinker.tablinker INFO     [VT_1879_07_H1] Loading source-data/VT_1879_07_H1.ods
-2015-07-10 15:30:05,609 integrat     INFO     [VT_1879_11_H1] Calling TabLinker
-2015-07-10 15:30:05,609 integrat     INFO     [VT_1879_09_H1] Calling TabLinker
-2015-07-10 15:30:05,609 integrat     INFO     [VT_1889_04_H1] Calling TabLinker
-2015-07-10 15:30:05,611 modules.tablinker.tablinker INFO     [VT_1889_04_H1] Loading source-data/VT_1889_04_H1.ods
-2015-07-10 15:30:05,611 modules.tablinker.tablinker INFO     [VT_1879_11_H1] Loading source-data/VT_1879_11_H1.ods
-2015-07-10 15:30:05,611 modules.tablinker.tablinker INFO     [VT_1879_09_H1] Loading source-data/VT_1879_09_H1.ods
-2015-07-10 15:30:12,845 modules.tablinker.tablinker INFO     [VT_1879_07_H1] Found 1 sheets to process
-2015-07-10 15:30:18,845 modules.tablinker.tablinker INFO     [VT_1879_05_H1] Found 1 sheets to process
-2015-07-10 15:30:19,249 modules.tablinker.tablinker INFO     [VT_1879_03_H1] Found 1 sheets to process
-2015-07-10 15:30:20,017 modules.tablinker.tablinker INFO     [VT_1879_01_H1] Found 1 sheets to process
-2015-07-10 15:30:20,383 modules.tablinker.tablinker INFO     [VT_1879_09_H1] Found 1 sheets to process
-2015-07-10 15:30:20,547 modules.tablinker.tablinker INFO     [VT_1879_11_H1] Found 1 sheets to process
-2015-07-10 15:30:23,047 modules.tablinker.tablinker INFO     [VT_1889_04_H1] Found 1 sheets to process
-2015-07-10 15:30:25,745 modules.tablinker.tablinker INFO     [VT_1879_07_H1] Saving 69813 data triples
-2015-07-10 15:30:45,220 modules.tablinker.tablinker INFO     [VT_1879_03_H1] Saving 129430 data triples
-2015-07-10 15:30:45,844 modules.tablinker.tablinker INFO     [VT_1879_05_H1] Saving 133727 data triples
-2015-07-10 15:30:48,849 modules.tablinker.tablinker INFO     [VT_1879_01_H1] Saving 150979 data triples
-2015-07-10 15:30:49,066 modules.tablinker.tablinker INFO     [VT_1859_01_H1] Found 12 sheets to process
-2015-07-10 15:30:51,857 integrat     INFO     [VT_1879_08_H1] Calling TabLinker
-2015-07-10 15:30:51,858 modules.tablinker.tablinker INFO     [VT_1879_08_H1] Loading source-data/VT_1879_08_H1.ods
-2015-07-10 15:30:56,136 modules.tablinker.tablinker INFO     [VT_1889_04_H1] Saving 144091 data triples
-2015-07-10 15:31:04,601 modules.tablinker.tablinker INFO     [VT_1879_11_H1] Saving 174852 data triples
-2015-07-10 15:31:10,121 modules.tablinker.tablinker INFO     [VT_1879_08_H1] Found 1 sheets to process
-2015-07-10 15:31:33,443 integrat     INFO     [VT_1879_04_H1] Calling TabLinker
-2015-07-10 15:31:33,444 modules.tablinker.tablinker INFO     [VT_1879_04_H1] Loading source-data/VT_1879_04_H1.ods
-2015-07-10 15:31:36,680 integrat     INFO     [VT_1879_06_H1] Calling TabLinker
-2015-07-10 15:31:36,681 modules.tablinker.tablinker INFO     [VT_1879_06_H1] Loading source-data/VT_1879_06_H1.ods
-2015-07-10 15:31:40,446 modules.tablinker.tablinker INFO     [VT_1879_04_H1] Found 1 sheets to process
-2015-07-10 15:31:44,773 integrat     INFO     [VT_1879_02_H1] Calling TabLinker
-2015-07-10 15:31:44,774 modules.tablinker.tablinker INFO     [VT_1879_02_H1] Loading source-data/VT_1879_02_H1.ods
-2015-07-10 15:31:45,859 modules.tablinker.tablinker INFO     [VT_1879_06_H1] Found 1 sheets to process
-2015-07-10 15:31:49,740 integrat     INFO     [VT_1889_05_H1] Calling TabLinker
-2015-07-10 15:31:49,741 modules.tablinker.tablinker INFO     [VT_1889_05_H1] Loading source-data/VT_1889_05_H1.ods
-2015-07-10 15:31:51,531 modules.tablinker.tablinker INFO     [VT_1879_02_H1] Found 1 sheets to process
-2015-07-10 15:31:51,662 modules.tablinker.tablinker INFO     [VT_1879_08_H1] Saving 226004 data triples
-2015-07-10 15:31:54,378 modules.tablinker.tablinker INFO     [VT_1879_04_H1] Saving 65608 data triples
-2015-07-10 15:31:56,252 modules.tablinker.tablinker INFO     [VT_1889_05_H1] Found 1 sheets to process
-2015-07-10 15:32:04,886 modules.tablinker.tablinker INFO     [VT_1879_06_H1] Saving 102539 data triples
-2015-07-10 15:32:05,055 modules.tablinker.tablinker INFO     [VT_1879_02_H1] Saving 73359 data triples
-2015-07-10 15:32:07,384 modules.tablinker.tablinker INFO     [VT_1889_05_H1] Saving 49277 data triples
-2015-07-10 15:32:09,422 integrat     INFO     [VT_1889_03_H1] Calling TabLinker
-2015-07-10 15:32:09,423 modules.tablinker.tablinker INFO     [VT_1889_03_H1] Loading source-data/VT_1889_03_H1.ods
-2015-07-10 15:32:19,573 integrat     INFO     [VT_1889_06_H1] Calling TabLinker
-2015-07-10 15:32:19,574 modules.tablinker.tablinker INFO     [VT_1889_06_H1] Loading source-data/VT_1889_06_H1.ods
-2015-07-10 15:32:21,890 modules.tablinker.tablinker INFO     [VT_1889_03_H1] Found 1 sheets to process
-2015-07-10 15:32:25,591 integrat     INFO     [VT_1889_08_H1] Calling TabLinker
-2015-07-10 15:32:25,592 modules.tablinker.tablinker INFO     [VT_1889_08_H1] Loading source-data/VT_1889_08_H1.ods
-2015-07-10 15:32:26,247 modules.tablinker.tablinker INFO     [VT_1889_06_H1] Found 1 sheets to process
-2015-07-10 15:32:29,616 modules.tablinker.tablinker INFO     [VT_1879_09_H1] Saving 173063 data triples
-2015-07-10 15:32:32,553 integrat     INFO     [VT_1889_10_H1] Calling TabLinker
-2015-07-10 15:32:32,554 modules.tablinker.tablinker INFO     [VT_1889_10_H1] Loading source-data/VT_1889_10_H1.ods
-2015-07-10 15:32:37,149 modules.tablinker.tablinker INFO     [VT_1859_01_H1] Saving 607048 data triples
-2015-07-10 15:32:39,271 modules.tablinker.tablinker INFO     [VT_1889_06_H1] Saving 63494 data triples
-2015-07-10 15:32:40,612 modules.tablinker.tablinker INFO     [VT_1889_08_H1] Found 1 sheets to process
-2015-07-10 15:32:41,546 modules.tablinker.tablinker INFO     [VT_1889_10_H1] Found 1 sheets to process
-2015-07-10 15:32:43,248 integrat     INFO     [VT_1889_12_H1] Calling TabLinker
-2015-07-10 15:32:43,249 modules.tablinker.tablinker INFO     [VT_1889_12_H1] Loading source-data/VT_1889_12_H1.ods
-2015-07-10 15:32:44,968 modules.tablinker.tablinker INFO     [VT_1889_03_H1] Saving 103814 data triples
-2015-07-10 15:32:59,707 modules.tablinker.tablinker INFO     [VT_1889_10_H1] Saving 87508 data triples
-2015-07-10 15:33:00,246 modules.tablinker.tablinker INFO     [VT_1889_12_H1] Found 1 sheets to process
-2015-07-10 15:33:02,863 integrat     INFO     [VT_1889_07_H1] Calling TabLinker
-2015-07-10 15:33:02,864 modules.tablinker.tablinker INFO     [VT_1889_07_H1] Loading source-data/VT_1889_07_H1.ods
-2015-07-10 15:33:10,585 modules.tablinker.tablinker INFO     [VT_1889_08_H1] Saving 144553 data triples
-2015-07-10 15:33:15,958 integrat     INFO     [VT_1899_01_H1] Calling TabLinker
-2015-07-10 15:33:15,959 modules.tablinker.tablinker INFO     [VT_1899_01_H1] Loading source-data/VT_1899_01_H1.ods
-2015-07-10 15:33:16,368 modules.tablinker.tablinker INFO     [VT_1889_07_H1] Found 1 sheets to process
-2015-07-10 15:33:23,983 integrat     INFO     [VT_1899_03_H1] Calling TabLinker
-2015-07-10 15:33:23,984 modules.tablinker.tablinker INFO     [VT_1899_03_H1] Loading source-data/VT_1899_03_H1.ods
-2015-07-10 15:33:32,491 integrat     INFO     [VT_1889_11_H1] Calling TabLinker
-2015-07-10 15:33:32,492 modules.tablinker.tablinker INFO     [VT_1889_11_H1] Loading source-data/VT_1889_11_H1.ods
-2015-07-10 15:33:32,963 integrat     INFO     [VT_1879_10_H1] Calling TabLinker
-2015-07-10 15:33:32,964 modules.tablinker.tablinker INFO     [VT_1879_10_H1] Loading source-data/VT_1879_10_H1.ods
-2015-07-10 15:33:33,163 modules.tablinker.tablinker INFO     [VT_1889_12_H1] Saving 150698 data triples
-2015-07-10 15:33:33,971 modules.tablinker.tablinker INFO     [VT_1899_01_H1] Found 1 sheets to process
-2015-07-10 15:33:38,368 modules.tablinker.tablinker INFO     [VT_1889_11_H1] Found 1 sheets to process
-2015-07-10 15:33:40,457 modules.tablinker.tablinker INFO     [VT_1899_03_H1] Found 1 sheets to process
-2015-07-10 15:33:43,438 modules.tablinker.tablinker INFO     [VT_1889_07_H1] Saving 127052 data triples
-2015-07-10 15:33:48,085 modules.tablinker.tablinker INFO     [VT_1879_10_H1] Found 1 sheets to process
-2015-07-10 15:33:50,412 modules.tablinker.tablinker INFO     [VT_1889_11_H1] Saving 57125 data triples
-2015-07-10 15:34:04,974 integrat     INFO     [VT_1889_09_H1] Calling TabLinker
-2015-07-10 15:34:04,975 modules.tablinker.tablinker INFO     [VT_1889_09_H1] Loading source-data/VT_1889_09_H1.ods
-2015-07-10 15:34:12,223 integrat     INFO     [VT_1899_05_H1] Calling TabLinker
-2015-07-10 15:34:12,224 modules.tablinker.tablinker INFO     [VT_1899_05_H1] Loading source-data/VT_1899_05_H1.ods
-2015-07-10 15:34:13,609 modules.tablinker.tablinker INFO     [VT_1899_01_H1] Saving 206597 data triples
-2015-07-10 15:34:17,283 modules.tablinker.tablinker INFO     [VT_1899_03_H1] Saving 194217 data triples
-2015-07-10 15:34:19,859 modules.tablinker.tablinker INFO     [VT_1899_05_H1] Found 1 sheets to process
-2015-07-10 15:34:21,064 modules.tablinker.tablinker INFO     [VT_1879_10_H1] Saving 181006 data triples
-2015-07-10 15:34:25,274 modules.tablinker.tablinker INFO     [VT_1889_09_H1] Found 1 sheets to process
-2015-07-10 15:34:30,193 integrat     INFO     [VT_1889_13_H1] Calling TabLinker
-2015-07-10 15:34:30,193 modules.tablinker.tablinker INFO     [VT_1889_13_H1] Loading source-data/VT_1889_13_H1.ods
-2015-07-10 15:34:31,617 integrat     INFO     [VT_1899_07_H1] Calling TabLinker
-2015-07-10 15:34:31,618 modules.tablinker.tablinker INFO     [VT_1899_07_H1] Loading source-data/VT_1899_07_H1.ods
-2015-07-10 15:34:37,410 modules.tablinker.tablinker INFO     [VT_1899_05_H1] Saving 94434 data triples
-2015-07-10 15:34:39,864 modules.tablinker.tablinker INFO     [VT_1889_13_H1] Found 1 sheets to process
-2015-07-10 15:34:43,251 modules.tablinker.tablinker INFO     [VT_1899_07_H1] Found 1 sheets to process
-2015-07-10 15:35:04,073 modules.tablinker.tablinker INFO     [VT_1889_13_H1] Saving 119540 data triples
-2015-07-10 15:35:06,529 modules.tablinker.tablinker INFO     [VT_1889_09_H1] Saving 194323 data triples
-2015-07-10 15:35:08,456 modules.tablinker.tablinker INFO     [VT_1899_07_H1] Saving 124977 data triples
-2015-07-10 15:35:13,474 integrat     INFO     [VT_1899_06_H1] Calling TabLinker
-2015-07-10 15:35:13,475 modules.tablinker.tablinker INFO     [VT_1899_06_H1] Loading source-data/VT_1899_06_H1.ods
-2015-07-10 15:35:18,731 modules.tablinker.tablinker INFO     [VT_1899_06_H1] Found 1 sheets to process
-2015-07-10 15:35:28,904 integrat     INFO     [VT_1899_09_H1] Calling TabLinker
-2015-07-10 15:35:28,905 modules.tablinker.tablinker INFO     [VT_1899_09_H1] Loading source-data/VT_1899_09_H1.ods
-2015-07-10 15:35:30,046 modules.tablinker.tablinker INFO     [VT_1899_06_H1] Saving 60891 data triples
-2015-07-10 15:35:30,648 integrat     INFO     [VT_1899_04_H1] Calling TabLinker
-2015-07-10 15:35:30,649 modules.tablinker.tablinker INFO     [VT_1899_04_H1] Loading source-data/VT_1899_04_H1.ods
-2015-07-10 15:35:32,423 integrat     INFO     [VT_1899_02_H1] Calling TabLinker
-2015-07-10 15:35:32,423 modules.tablinker.tablinker INFO     [VT_1899_02_H1] Loading source-data/VT_1899_02_H1.ods
-2015-07-10 15:35:38,774 modules.tablinker.tablinker INFO     [VT_1899_09_H1] Found 1 sheets to process
-2015-07-10 15:35:44,877 modules.tablinker.tablinker INFO     [VT_1899_02_H1] Found 1 sheets to process
-2015-07-10 15:35:44,907 modules.tablinker.tablinker INFO     [VT_1899_04_H1] Found 1 sheets to process
-2015-07-10 15:35:49,746 integrat     INFO     [VT_1899_11_H1] Calling TabLinker
-2015-07-10 15:35:49,747 modules.tablinker.tablinker INFO     [VT_1899_11_H1] Loading source-data/VT_1899_11_H1.ods
-2015-07-10 15:35:53,213 integrat     INFO     [VT_1909_01_T] Calling TabLinker
-2015-07-10 15:35:53,214 modules.tablinker.tablinker INFO     [VT_1909_01_T] Loading source-data/VT_1909_01_T.ods
-2015-07-10 15:35:56,911 integrat     INFO     [VT_1899_08_H1] Calling TabLinker
-2015-07-10 15:35:56,912 modules.tablinker.tablinker INFO     [VT_1899_08_H1] Loading source-data/VT_1899_08_H1.ods
-2015-07-10 15:36:00,274 modules.tablinker.tablinker INFO     [VT_1899_09_H1] Saving 109829 data triples
-2015-07-10 15:36:01,115 modules.tablinker.tablinker INFO     [VT_1899_11_H1] Found 1 sheets to process
-2015-07-10 15:36:04,026 modules.tablinker.tablinker INFO     [VT_1899_08_H1] Found 1 sheets to process
-2015-07-10 15:36:11,090 modules.tablinker.tablinker INFO     [VT_1899_02_H1] Saving 139569 data triples
-2015-07-10 15:36:15,785 modules.tablinker.tablinker INFO     [VT_1899_04_H1] Saving 162337 data triples
-2015-07-10 15:36:19,158 modules.tablinker.tablinker INFO     [VT_1899_08_H1] Saving 81161 data triples
-2015-07-10 15:36:25,941 modules.tablinker.tablinker INFO     [VT_1899_11_H1] Saving 125817 data triples
-2015-07-10 15:36:28,044 integrat     INFO     [VT_1869_01_H1] Calling TabLinker
-2015-07-10 15:36:28,045 modules.tablinker.tablinker INFO     [VT_1869_01_H1] Loading source-data/VT_1869_01_H1.ods
-2015-07-10 15:36:40,347 integrat     INFO     [VT_1899_10_H1] Calling TabLinker
-2015-07-10 15:36:40,348 modules.tablinker.tablinker INFO     [VT_1899_10_H1] Loading source-data/VT_1899_10_H1.ods
-2015-07-10 15:36:45,818 modules.tablinker.tablinker INFO     [VT_1899_10_H1] Found 1 sheets to process
-2015-07-10 15:36:51,851 modules.tablinker.tablinker INFO     [VT_1899_10_H1] Saving 59987 data triples
-2015-07-10 15:36:58,307 modules.tablinker.tablinker INFO     [VT_1909_01_T] Found 1 sheets to process
-2015-07-10 15:37:11,526 integrat     INFO     [VT_1899_12_H1] Calling TabLinker
-2015-07-10 15:37:11,527 modules.tablinker.tablinker INFO     [VT_1899_12_H1] Loading source-data/VT_1899_12_H1.ods
-2015-07-10 15:37:12,692 modules.tablinker.tablinker INFO     [VT_1899_12_H1] Found 1 sheets to process
-2015-07-10 15:37:14,722 modules.tablinker.tablinker INFO     [VT_1899_12_H1] Saving 9658 data triples
-2015-07-10 15:37:32,394 modules.tablinker.tablinker INFO     [VT_1869_01_H1] Found 12 sheets to process
-2015-07-10 15:38:09,357 modules.tablinker.tablinker INFO     [VT_1909_01_T] Saving 639687 data triples
-2015-07-10 15:38:50,575 modules.tablinker.tablinker INFO     [VT_1869_01_H1] Saving 895298 data triples
-2015-07-10 15:40:08,442 integrat     INFO     [VT_1920_01_T] Calling TabLinker
-2015-07-10 15:40:08,443 modules.tablinker.tablinker INFO     [VT_1920_01_T] Loading source-data/VT_1920_01_T.ods
-2015-07-10 15:40:59,469 modules.tablinker.tablinker INFO     [VT_1920_01_T] Found 3 sheets to process
-2015-07-10 15:42:43,612 modules.tablinker.tablinker INFO     [VT_1920_01_T] Saving 813792 data triples
-2015-07-10 15:45:14,119 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Cleaning the content of the graph 
-2015-07-10 15:45:40,174 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading files in raw-data/
-2015-07-10 15:45:40,175 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1859_01_H1.ttl.bz2
-2015-07-10 15:46:17,396 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1869_01_H1.ttl.bz2
-2015-07-10 15:47:13,366 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_01_H1.ttl.bz2
-2015-07-10 15:47:23,153 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_02_H1.ttl.bz2
-2015-07-10 15:47:28,028 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_03_H1.ttl.bz2
-2015-07-10 15:47:36,721 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_04_H1.ttl.bz2
-2015-07-10 15:47:40,860 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_05_H1.ttl.bz2
-2015-07-10 15:47:49,618 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_06_H1.ttl.bz2
-2015-07-10 15:47:56,578 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_07_H1.ttl.bz2
-2015-07-10 15:48:01,242 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_08_H1.ttl.bz2
-2015-07-10 15:48:16,306 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_09_H1.ttl.bz2
-2015-07-10 15:48:27,759 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_10_H1.ttl.bz2
-2015-07-10 15:48:39,582 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_11_H1.ttl.bz2
-2015-07-10 15:48:51,262 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_03_H1.ttl.bz2
-2015-07-10 15:48:58,357 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_04_H1.ttl.bz2
-2015-07-10 15:49:07,962 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_05_H1.ttl.bz2
-2015-07-10 15:49:16,092 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_06_H1.ttl.bz2
-2015-07-10 15:49:20,288 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_07_H1.ttl.bz2
-2015-07-10 15:49:28,396 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_08_H1.ttl.bz2
-2015-07-10 15:49:37,989 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_09_H1.ttl.bz2
-2015-07-10 15:49:50,813 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_10_H1.ttl.bz2
-2015-07-10 15:49:56,547 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_11_H1.ttl.bz2
-2015-07-10 15:50:00,477 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_12_H1.ttl.bz2
-2015-07-10 15:50:10,441 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_13_H1.ttl.bz2
-2015-07-10 15:50:18,299 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_01_H1.ttl.bz2
-2015-07-10 15:50:31,862 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_02_H1.ttl.bz2
-2015-07-10 15:50:41,483 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_03_H1.ttl.bz2
-2015-07-10 15:50:54,577 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_04_H1.ttl.bz2
-2015-07-10 15:51:05,614 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_05_H1.ttl.bz2
-2015-07-10 15:51:11,878 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_06_H1.ttl.bz2
-2015-07-10 15:51:16,136 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_07_H1.ttl.bz2
-2015-07-10 15:51:24,412 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_08_H1.ttl.bz2
-2015-07-10 15:51:30,032 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_09_H1.ttl.bz2
-2015-07-10 15:51:37,541 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_10_H1.ttl.bz2
-2015-07-10 15:51:41,684 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_11_H1.ttl.bz2
-2015-07-10 15:51:50,004 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_12_H1.ttl.bz2
-2015-07-10 15:51:50,904 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1909_01_T.ttl.bz2
-2015-07-10 15:52:31,365 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1920_01_T.ttl.bz2
-2015-07-10 15:53:23,662 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Done loading data
-2015-07-10 15:53:25,372 integrat     INFO     [VT_1859_01_H1-S0] Calling RulesMaker
-2015-07-10 15:53:25,372 integrat     INFO     [VT_1859_01_H1-S2] Calling RulesMaker
-2015-07-10 15:53:25,372 integrat     INFO     [VT_1859_01_H1-S6] Calling RulesMaker
-2015-07-10 15:53:25,372 integrat     INFO     [VT_1869_01_H1-S0] Calling RulesMaker
-2015-07-10 15:53:25,374 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S0] Loading mappings
-2015-07-10 15:53:25,374 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S2] Loading mappings
-2015-07-10 15:53:25,374 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S6] Loading mappings
-2015-07-10 15:53:25,374 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S0] Loading mappings
-2015-07-10 15:53:27,692 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S0] Loaded 1514 headers
-2015-07-10 15:53:27,779 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S6] Loaded 3263 headers
-2015-07-10 15:53:28,153 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S0] Saving 4704 triples.
-2015-07-10 15:53:28,608 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S0] Loaded 4886 headers
-2015-07-10 15:53:28,608 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S2] Loaded 3977 headers
-2015-07-10 15:53:28,742 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S6] Saving 9964 triples.
-2015-07-10 15:53:29,246 integrat     INFO     [VT_1869_01_H1-S1] Calling RulesMaker
-2015-07-10 15:53:29,246 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S1] Loading mappings
-2015-07-10 15:53:29,887 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S2] Saving 13692 triples.
-2015-07-10 15:53:30,149 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S0] Saving 16292 triples.
-2015-07-10 15:53:30,386 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S1] Loaded 1356 headers
-2015-07-10 15:53:30,724 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S1] Saving 3272 triples.
-2015-07-10 15:53:31,063 integrat     INFO     [VT_1859_01_H1-S7] Calling RulesMaker
-2015-07-10 15:53:31,064 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S7] Loading mappings
-2015-07-10 15:53:31,484 integrat     INFO     [VT_1869_01_H1-S10] Calling RulesMaker
-2015-07-10 15:53:31,484 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S10] Loading mappings
-2015-07-10 15:53:32,187 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S7] Loaded 1970 headers
-2015-07-10 15:53:32,667 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S10] Loaded 1468 headers
-2015-07-10 15:53:32,925 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S7] Saving 6444 triples.
-2015-07-10 15:53:33,107 integrat     INFO     [VT_1859_01_H1-S3] Calling RulesMaker
-2015-07-10 15:53:33,107 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S3] Loading mappings
-2015-07-10 15:53:33,182 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S10] Saving 3320 triples.
-2015-07-10 15:53:33,953 integrat     INFO     [VT_1869_01_H1-S11] Calling RulesMaker
-2015-07-10 15:53:33,954 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S11] Loading mappings
-2015-07-10 15:53:34,208 integrat     INFO     [VT_1859_01_H1-S1] Calling RulesMaker
-2015-07-10 15:53:34,210 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S1] Loading mappings
-2015-07-10 15:53:34,293 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S3] Loaded 3091 headers
-2015-07-10 15:53:34,793 integrat     INFO     [VT_1859_01_H1-S8] Calling RulesMaker
-2015-07-10 15:53:34,794 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S8] Loading mappings
-2015-07-10 15:53:34,962 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S11] Loaded 83 headers
-2015-07-10 15:53:34,988 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S11] Saving 288 triples.
-2015-07-10 15:53:35,065 integrat     INFO     [VT_1869_01_H1-S2] Calling RulesMaker
-2015-07-10 15:53:35,066 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S2] Loading mappings
-2015-07-10 15:53:35,294 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S3] Saving 10470 triples.
-2015-07-10 15:53:36,120 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S2] Loaded 1187 headers
-2015-07-10 15:53:36,356 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S1] Loaded 3815 headers
-2015-07-10 15:53:36,508 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S2] Saving 4160 triples.
-2015-07-10 15:53:36,699 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S8] Loaded 2276 headers
-2015-07-10 15:53:37,560 integrat     INFO     [VT_1869_01_H1-S3] Calling RulesMaker
-2015-07-10 15:53:37,561 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S3] Loading mappings
-2015-07-10 15:53:37,566 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S1] Saving 12476 triples.
-2015-07-10 15:53:37,708 integrat     INFO     [VT_1859_01_H1-S4] Calling RulesMaker
-2015-07-10 15:53:37,709 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S4] Loading mappings
-2015-07-10 15:53:37,884 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S8] Saving 13612 triples.
-2015-07-10 15:53:38,656 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S3] Loaded 1375 headers
-2015-07-10 15:53:38,852 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S4] Loaded 2303 headers
-2015-07-10 15:53:39,162 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S3] Saving 3752 triples.
-2015-07-10 15:53:40,032 integrat     INFO     [VT_1869_01_H1-S4] Calling RulesMaker
-2015-07-10 15:53:40,032 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S4] Loading mappings
-2015-07-10 15:53:40,061 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S4] Saving 14172 triples.
-2015-07-10 15:53:40,486 integrat     INFO     [VT_1859_01_H1-S10] Calling RulesMaker
-2015-07-10 15:53:40,487 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S10] Loading mappings
-2015-07-10 15:53:41,179 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S4] Loaded 644 headers
-2015-07-10 15:53:41,215 integrat     INFO     [VT_1859_01_H1-S9] Calling RulesMaker
-2015-07-10 15:53:41,215 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S9] Loading mappings
-2015-07-10 15:53:41,433 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S4] Saving 2848 triples.
-2015-07-10 15:53:41,765 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S10] Loaded 3602 headers
-2015-07-10 15:53:42,291 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S9] Loaded 1463 headers
-2015-07-10 15:53:42,522 integrat     INFO     [VT_1869_01_H1-S5] Calling RulesMaker
-2015-07-10 15:53:42,523 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S5] Loading mappings
-2015-07-10 15:53:42,725 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S9] Saving 4668 triples.
-2015-07-10 15:53:43,349 integrat     INFO     [VT_1859_01_H1-S5] Calling RulesMaker
-2015-07-10 15:53:43,350 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S5] Loading mappings
-2015-07-10 15:53:43,781 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S10] Saving 11692 triples.
-2015-07-10 15:53:43,882 integrat     INFO     [VT_1869_01_H1-S6] Calling RulesMaker
-2015-07-10 15:53:43,883 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S6] Loading mappings
-2015-07-10 15:53:44,120 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S5] Loaded 403 headers
-2015-07-10 15:53:44,283 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S5] Saving 1824 triples.
-2015-07-10 15:53:44,476 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S5] Loaded 1376 headers
-2015-07-10 15:53:44,751 integrat     INFO     [VT_1879_01_H1-S0] Calling RulesMaker
-2015-07-10 15:53:44,751 modules.rules.rulesmaker INFO     [VT_1879_01_H1-S0] Loading mappings
-2015-07-10 15:53:44,959 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S6] Loaded 712 headers
-2015-07-10 15:53:45,116 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S6] Saving 1504 triples.
-2015-07-10 15:53:45,182 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S5] Saving 8476 triples.
-2015-07-10 15:53:45,461 integrat     INFO     [VT_1869_01_H1-S7] Calling RulesMaker
-2015-07-10 15:53:45,462 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S7] Loading mappings
-2015-07-10 15:53:46,499 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S7] Loaded 390 headers
-2015-07-10 15:53:46,641 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S7] Saving 1568 triples.
-2015-07-10 15:53:46,858 modules.rules.rulesmaker INFO     [VT_1879_01_H1-S0] Loaded 4130 headers
-2015-07-10 15:53:47,001 integrat     INFO     [VT_1869_01_H1-S8] Calling RulesMaker
-2015-07-10 15:53:47,002 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S8] Loading mappings
-2015-07-10 15:53:47,298 integrat     INFO     [VT_1859_01_H1-S11] Calling RulesMaker
-2015-07-10 15:53:47,298 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S11] Loading mappings
-2015-07-10 15:53:47,558 integrat     INFO     [VT_1879_05_H1-S0] Calling RulesMaker
-2015-07-10 15:53:47,559 modules.rules.rulesmaker INFO     [VT_1879_05_H1-S0] Loading mappings
-2015-07-10 15:53:48,058 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S8] Loaded 779 headers
-2015-07-10 15:53:48,239 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S8] Saving 1752 triples.
-2015-07-10 15:53:48,342 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S11] Loaded 338 headers
-2015-07-10 15:53:48,410 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S11] Saving 596 triples.
-2015-07-10 15:53:48,553 integrat     INFO     [VT_1879_09_H1-S0] Calling RulesMaker
-2015-07-10 15:53:48,554 modules.rules.rulesmaker INFO     [VT_1879_09_H1-S0] Loading mappings
-2015-07-10 15:53:48,652 integrat     INFO     [VT_1869_01_H1-S9] Calling RulesMaker
-2015-07-10 15:53:48,653 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S9] Loading mappings
-2015-07-10 15:53:49,568 modules.rules.rulesmaker INFO     [VT_1879_01_H1-S0] Saving 15781 triples.
-2015-07-10 15:53:49,792 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S9] Loaded 621 headers
-2015-07-10 15:53:49,794 modules.rules.rulesmaker INFO     [VT_1879_05_H1-S0] Loaded 3545 headers
-2015-07-10 15:53:49,808 modules.rules.rulesmaker INFO     [VT_1879_09_H1-S0] Loaded 4058 headers
-2015-07-10 15:53:49,918 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S9] Saving 1088 triples.
-2015-07-10 15:53:50,178 integrat     INFO     [VT_1889_04_H1-S0] Calling RulesMaker
-2015-07-10 15:53:50,178 modules.rules.rulesmaker INFO     [VT_1889_04_H1-S0] Loading mappings
-2015-07-10 15:53:51,220 modules.rules.rulesmaker INFO     [VT_1879_05_H1-S0] Saving 16254 triples.
-2015-07-10 15:53:51,335 modules.rules.rulesmaker INFO     [VT_1889_04_H1-S0] Loaded 2324 headers
-2015-07-10 15:53:51,409 modules.rules.rulesmaker INFO     [VT_1879_09_H1-S0] Saving 17982 triples.
-2015-07-10 15:53:51,662 modules.rules.rulesmaker INFO     [VT_1889_04_H1-S0] Saving 1986 triples.
-2015-07-10 15:53:52,123 integrat     INFO     [VT_1889_05_H1-S0] Calling RulesMaker
-2015-07-10 15:53:52,124 modules.rules.rulesmaker INFO     [VT_1889_05_H1-S0] Loading mappings
-2015-07-10 15:53:53,182 modules.rules.rulesmaker INFO     [VT_1889_05_H1-S0] Loaded 456 headers
-2015-07-10 15:53:53,357 integrat     INFO     [VT_1879_02_H1-S0] Calling RulesMaker
-2015-07-10 15:53:53,358 modules.rules.rulesmaker INFO     [VT_1879_02_H1-S0] Loading mappings
-2015-07-10 15:53:53,448 modules.rules.rulesmaker INFO     [VT_1889_05_H1-S0] Saving 1410 triples.
-2015-07-10 15:53:54,094 integrat     INFO     [VT_1889_06_H1-S0] Calling RulesMaker
-2015-07-10 15:53:54,095 modules.rules.rulesmaker INFO     [VT_1889_06_H1-S0] Loading mappings
-2015-07-10 15:53:54,485 modules.rules.rulesmaker INFO     [VT_1879_02_H1-S0] Loaded 1790 headers
-2015-07-10 15:53:55,227 modules.rules.rulesmaker INFO     [VT_1879_02_H1-S0] Saving 8299 triples.
-2015-07-10 15:53:55,351 modules.rules.rulesmaker INFO     [VT_1889_06_H1-S0] Loaded 655 headers
-2015-07-10 15:53:55,599 integrat     INFO     [VT_1879_10_H1-S0] Calling RulesMaker
-2015-07-10 15:53:55,600 modules.rules.rulesmaker INFO     [VT_1879_10_H1-S0] Loading mappings
-2015-07-10 15:53:55,753 modules.rules.rulesmaker INFO     [VT_1889_06_H1-S0] Saving 2218 triples.
-2015-07-10 15:53:55,922 integrat     INFO     [VT_1879_06_H1-S0] Calling RulesMaker
-2015-07-10 15:53:55,923 modules.rules.rulesmaker INFO     [VT_1879_06_H1-S0] Loading mappings
-2015-07-10 15:53:56,542 integrat     INFO     [VT_1889_07_H1-S0] Calling RulesMaker
-2015-07-10 15:53:56,543 modules.rules.rulesmaker INFO     [VT_1889_07_H1-S0] Loading mappings
-2015-07-10 15:53:56,820 modules.rules.rulesmaker INFO     [VT_1879_10_H1-S0] Loaded 4295 headers
-2015-07-10 15:53:57,270 integrat     INFO     [VT_1879_03_H1-S0] Calling RulesMaker
-2015-07-10 15:53:57,270 modules.rules.rulesmaker INFO     [VT_1879_03_H1-S0] Loading mappings
-2015-07-10 15:53:57,329 modules.rules.rulesmaker INFO     [VT_1879_06_H1-S0] Loaded 2516 headers
-2015-07-10 15:53:57,670 modules.rules.rulesmaker INFO     [VT_1889_07_H1-S0] Loaded 1289 headers
-2015-07-10 15:53:58,239 modules.rules.rulesmaker INFO     [VT_1889_07_H1-S0] Saving 4378 triples.
-2015-07-10 15:53:58,528 modules.rules.rulesmaker INFO     [VT_1879_03_H1-S0] Loaded 3769 headers
-2015-07-10 15:53:58,602 modules.rules.rulesmaker INFO     [VT_1879_10_H1-S0] Saving 19820 triples.
-2015-07-10 15:53:58,644 modules.rules.rulesmaker INFO     [VT_1879_06_H1-S0] Saving 12116 triples.
-2015-07-10 15:53:59,245 integrat     INFO     [VT_1889_08_H1-S0] Calling RulesMaker
-2015-07-10 15:53:59,246 modules.rules.rulesmaker INFO     [VT_1889_08_H1-S0] Loading mappings
-2015-07-10 15:53:59,979 modules.rules.rulesmaker INFO     [VT_1879_03_H1-S0] Saving 15684 triples.
-2015-07-10 15:54:00,418 modules.rules.rulesmaker INFO     [VT_1889_08_H1-S0] Loaded 1479 headers
-2015-07-10 15:54:00,880 modules.rules.rulesmaker INFO     [VT_1889_08_H1-S0] Saving 5002 triples.
-2015-07-10 15:54:01,606 integrat     INFO     [VT_1879_07_H1-S0] Calling RulesMaker
-2015-07-10 15:54:01,606 modules.rules.rulesmaker INFO     [VT_1879_07_H1-S0] Loading mappings
-2015-07-10 15:54:02,026 integrat     INFO     [VT_1889_09_H1-S0] Calling RulesMaker
-2015-07-10 15:54:02,027 modules.rules.rulesmaker INFO     [VT_1889_09_H1-S0] Loading mappings
-2015-07-10 15:54:02,751 modules.rules.rulesmaker INFO     [VT_1879_07_H1-S0] Loaded 1769 headers
-2015-07-10 15:54:03,232 modules.rules.rulesmaker INFO     [VT_1889_09_H1-S0] Loaded 2303 headers
-2015-07-10 15:54:03,259 integrat     INFO     [VT_1879_11_H1-S0] Calling RulesMaker
-2015-07-10 15:54:03,259 modules.rules.rulesmaker INFO     [VT_1879_11_H1-S0] Loading mappings
-2015-07-10 15:54:03,460 modules.rules.rulesmaker INFO     [VT_1879_07_H1-S0] Saving 7978 triples.
-2015-07-10 15:54:03,745 integrat     INFO     [VT_1879_04_H1-S0] Calling RulesMaker
-2015-07-10 15:54:03,746 modules.rules.rulesmaker INFO     [VT_1879_04_H1-S0] Loading mappings
-2015-07-10 15:54:03,894 modules.rules.rulesmaker INFO     [VT_1889_09_H1-S0] Saving 6726 triples.
-2015-07-10 15:54:04,590 modules.rules.rulesmaker INFO     [VT_1879_11_H1-S0] Loaded 4192 headers
-2015-07-10 15:54:04,877 modules.rules.rulesmaker INFO     [VT_1879_04_H1-S0] Loaded 1845 headers
-2015-07-10 15:54:05,417 integrat     INFO     [VT_1889_10_H1-S0] Calling RulesMaker
-2015-07-10 15:54:05,417 modules.rules.rulesmaker INFO     [VT_1889_10_H1-S0] Loading mappings
-2015-07-10 15:54:05,516 integrat     INFO     [VT_1879_08_H1-S0] Calling RulesMaker
-2015-07-10 15:54:05,517 modules.rules.rulesmaker INFO     [VT_1879_08_H1-S0] Loading mappings
-2015-07-10 15:54:06,296 modules.rules.rulesmaker INFO     [VT_1879_04_H1-S0] Saving 8108 triples.
-2015-07-10 15:54:06,651 modules.rules.rulesmaker INFO     [VT_1889_10_H1-S0] Loaded 1045 headers
-2015-07-10 15:54:06,764 modules.rules.rulesmaker INFO     [VT_1879_08_H1-S0] Loaded 5339 headers
-2015-07-10 15:54:07,043 modules.rules.rulesmaker INFO     [VT_1889_10_H1-S0] Saving 3880 triples.
-2015-07-10 15:54:07,656 modules.rules.rulesmaker INFO     [VT_1879_11_H1-S0] Saving 18158 triples.
-2015-07-10 15:54:07,918 integrat     INFO     [VT_1889_11_H1-S0] Calling RulesMaker
-2015-07-10 15:54:07,919 modules.rules.rulesmaker INFO     [VT_1889_11_H1-S0] Loading mappings
-2015-07-10 15:54:08,940 modules.rules.rulesmaker INFO     [VT_1889_11_H1-S0] Loaded 691 headers
-2015-07-10 15:54:08,946 modules.rules.rulesmaker INFO     [VT_1879_08_H1-S0] Saving 24606 triples.
-2015-07-10 15:54:09,171 modules.rules.rulesmaker INFO     [VT_1889_11_H1-S0] Saving 2562 triples.
-2015-07-10 15:54:09,752 integrat     INFO     [VT_1889_12_H1-S0] Calling RulesMaker
-2015-07-10 15:54:09,753 modules.rules.rulesmaker INFO     [VT_1889_12_H1-S0] Loading mappings
-2015-07-10 15:54:10,024 integrat     INFO     [VT_1899_03_H1-S0] Calling RulesMaker
-2015-07-10 15:54:10,026 modules.rules.rulesmaker INFO     [VT_1899_03_H1-S0] Loading mappings
-2015-07-10 15:54:10,843 modules.rules.rulesmaker INFO     [VT_1889_12_H1-S0] Loaded 1812 headers
-2015-07-10 15:54:11,410 modules.rules.rulesmaker INFO     [VT_1889_12_H1-S0] Saving 6059 triples.
-2015-07-10 15:54:11,921 modules.rules.rulesmaker INFO     [VT_1899_03_H1-S0] Loaded 8366 headers
-2015-07-10 15:54:12,805 integrat     INFO     [VT_1889_13_H1-S0] Calling RulesMaker
-2015-07-10 15:54:12,806 modules.rules.rulesmaker INFO     [VT_1889_13_H1-S0] Loading mappings
-2015-07-10 15:54:13,552 integrat     INFO     [VT_1889_03_H1-S0] Calling RulesMaker
-2015-07-10 15:54:13,552 modules.rules.rulesmaker INFO     [VT_1889_03_H1-S0] Loading mappings
-2015-07-10 15:54:13,908 modules.rules.rulesmaker INFO     [VT_1889_13_H1-S0] Loaded 1075 headers
-2015-07-10 15:54:14,619 modules.rules.rulesmaker INFO     [VT_1889_03_H1-S0] Loaded 1039 headers
-2015-07-10 15:54:14,639 modules.rules.rulesmaker INFO     [VT_1889_13_H1-S0] Saving 4290 triples.
-2015-07-10 15:54:14,741 modules.rules.rulesmaker INFO     [VT_1899_03_H1-S0] Saving 24064 triples.
-2015-07-10 15:54:14,807 integrat     INFO     [VT_1899_07_H1-S0] Calling RulesMaker
-2015-07-10 15:54:14,807 modules.rules.rulesmaker INFO     [VT_1899_07_H1-S0] Loading mappings
-2015-07-10 15:54:14,858 modules.rules.rulesmaker INFO     [VT_1889_03_H1-S0] Saving 2266 triples.
-2015-07-10 15:54:15,370 integrat     INFO     [VT_1899_11_H1-S0] Calling RulesMaker
-2015-07-10 15:54:15,371 modules.rules.rulesmaker INFO     [VT_1899_11_H1-S0] Loading mappings
-2015-07-10 15:54:16,071 modules.rules.rulesmaker INFO     [VT_1899_07_H1-S0] Loaded 5648 headers
-2015-07-10 15:54:16,538 integrat     INFO     [VT_1899_01_H1-S0] Calling RulesMaker
-2015-07-10 15:54:16,539 modules.rules.rulesmaker INFO     [VT_1899_01_H1-S0] Loading mappings
-2015-07-10 15:54:16,749 modules.rules.rulesmaker INFO     [VT_1899_11_H1-S0] Loaded 5822 headers
-2015-07-10 15:54:18,609 modules.rules.rulesmaker INFO     [VT_1899_07_H1-S0] Saving 15432 triples.
-2015-07-10 15:54:19,082 modules.rules.rulesmaker INFO     [VT_1899_01_H1-S0] Loaded 9634 headers
-2015-07-10 15:54:19,237 modules.rules.rulesmaker INFO     [VT_1899_11_H1-S0] Saving 16512 triples.
-2015-07-10 15:54:22,283 integrat     INFO     [VT_1899_04_H1-S0] Calling RulesMaker
-2015-07-10 15:54:22,284 modules.rules.rulesmaker INFO     [VT_1899_04_H1-S0] Loading mappings
-2015-07-10 15:54:22,990 integrat     INFO     [VT_1899_08_H1-S0] Calling RulesMaker
-2015-07-10 15:54:22,991 modules.rules.rulesmaker INFO     [VT_1899_08_H1-S0] Loading mappings
-2015-07-10 15:54:23,592 modules.rules.rulesmaker INFO     [VT_1899_01_H1-S0] Saving 23184 triples.
-2015-07-10 15:54:23,626 modules.rules.rulesmaker INFO     [VT_1899_04_H1-S0] Loaded 7083 headers
-2015-07-10 15:54:24,257 modules.rules.rulesmaker INFO     [VT_1899_08_H1-S0] Loaded 3469 headers
-2015-07-10 15:54:24,655 integrat     INFO     [VT_1899_12_H1-S0] Calling RulesMaker
-2015-07-10 15:54:24,656 modules.rules.rulesmaker INFO     [VT_1899_12_H1-S0] Loading mappings
-2015-07-10 15:54:25,196 modules.rules.rulesmaker INFO     [VT_1899_08_H1-S0] Saving 9440 triples.
-2015-07-10 15:54:25,593 modules.rules.rulesmaker INFO     [VT_1899_04_H1-S0] Saving 19920 triples.
-2015-07-10 15:54:25,691 modules.rules.rulesmaker INFO     [VT_1899_12_H1-S0] Loaded 222 headers
-2015-07-10 15:54:25,769 modules.rules.rulesmaker INFO     [VT_1899_12_H1-S0] Saving 329 triples.
-2015-07-10 15:54:25,930 integrat     INFO     [VT_1909_01_T-S0] Calling RulesMaker
-2015-07-10 15:54:25,931 modules.rules.rulesmaker INFO     [VT_1909_01_T-S0] Loading mappings
-2015-07-10 15:54:28,674 integrat     INFO     [VT_1899_09_H1-S0] Calling RulesMaker
-2015-07-10 15:54:28,675 modules.rules.rulesmaker INFO     [VT_1899_09_H1-S0] Loading mappings
-2015-07-10 15:54:28,855 modules.rules.rulesmaker INFO     [VT_1909_01_T-S0] Loaded 15323 headers
-2015-07-10 15:54:29,003 integrat     INFO     [VT_1899_02_H1-S0] Calling RulesMaker
-2015-07-10 15:54:29,003 modules.rules.rulesmaker INFO     [VT_1899_02_H1-S0] Loading mappings
-2015-07-10 15:54:30,147 modules.rules.rulesmaker INFO     [VT_1899_09_H1-S0] Loaded 5245 headers
-2015-07-10 15:54:30,217 integrat     INFO     [VT_1899_05_H1-S0] Calling RulesMaker
-2015-07-10 15:54:30,218 modules.rules.rulesmaker INFO     [VT_1899_05_H1-S0] Loading mappings
-2015-07-10 15:54:30,410 modules.rules.rulesmaker INFO     [VT_1899_02_H1-S0] Loaded 5921 headers
-2015-07-10 15:54:31,426 modules.rules.rulesmaker INFO     [VT_1899_05_H1-S0] Loaded 4080 headers
-2015-07-10 15:54:31,464 modules.rules.rulesmaker INFO     [VT_1909_01_T-S0] Saving 17632 triples.
-2015-07-10 15:54:31,637 modules.rules.rulesmaker INFO     [VT_1899_09_H1-S0] Saving 13368 triples.
-2015-07-10 15:54:32,132 modules.rules.rulesmaker INFO     [VT_1899_02_H1-S0] Saving 16672 triples.
-2015-07-10 15:54:32,602 modules.rules.rulesmaker INFO     [VT_1899_05_H1-S0] Saving 12088 triples.
-2015-07-10 15:54:34,779 integrat     INFO     [VT_1899_10_H1-S0] Calling RulesMaker
-2015-07-10 15:54:34,779 modules.rules.rulesmaker INFO     [VT_1899_10_H1-S0] Loading mappings
-2015-07-10 15:54:35,489 integrat     INFO     [VT_1899_06_H1-S0] Calling RulesMaker
-2015-07-10 15:54:35,489 modules.rules.rulesmaker INFO     [VT_1899_06_H1-S0] Loading mappings
-2015-07-10 15:54:35,634 integrat     INFO     [VT_1920_01_T-S0] Calling RulesMaker
-2015-07-10 15:54:35,635 modules.rules.rulesmaker INFO     [VT_1920_01_T-S0] Loading mappings
-2015-07-10 15:54:36,011 modules.rules.rulesmaker INFO     [VT_1899_10_H1-S0] Loaded 2913 headers
-2015-07-10 15:54:36,062 integrat     INFO     [VT_1920_01_T-S1] Calling RulesMaker
-2015-07-10 15:54:36,063 modules.rules.rulesmaker INFO     [VT_1920_01_T-S1] Loading mappings
-2015-07-10 15:54:37,020 modules.rules.rulesmaker INFO     [VT_1899_06_H1-S0] Loaded 2541 headers
-2015-07-10 15:54:37,077 modules.rules.rulesmaker INFO     [VT_1920_01_T-S1] Loaded 92 headers
-2015-07-10 15:54:37,089 modules.rules.rulesmaker INFO     [VT_1920_01_T-S1] Saving 67 triples.
-2015-07-10 15:54:37,115 integrat     INFO     [VT_1920_01_T-S2] Calling RulesMaker
-2015-07-10 15:54:37,116 modules.rules.rulesmaker INFO     [VT_1920_01_T-S2] Loading mappings
-2015-07-10 15:54:37,213 modules.rules.rulesmaker INFO     [VT_1899_10_H1-S0] Saving 7648 triples.
-2015-07-10 15:54:37,549 modules.rules.rulesmaker INFO     [VT_1920_01_T-S0] Loaded 19131 headers
-2015-07-10 15:54:38,136 modules.rules.rulesmaker INFO     [VT_1920_01_T-S2] Loaded 188 headers
-2015-07-10 15:54:38,311 modules.rules.rulesmaker INFO     [VT_1899_06_H1-S0] Saving 7784 triples.
-2015-07-10 15:54:38,363 modules.rules.rulesmaker INFO     [VT_1920_01_T-S2] Saving 1530 triples.
-2015-07-10 15:54:40,242 modules.rules.rulesmaker INFO     [VT_1920_01_T-S0] Saving 16648 triples.
-2015-07-10 15:54:44,000 integrat     INFO     [<urn:graph:cedar-mini:rules>] Cleaning the content of the graph 
-2015-07-10 15:54:48,694 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading files in rules/
-2015-07-10 15:54:48,695 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S0.ttl.bz2
-2015-07-10 15:54:50,010 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S1.ttl.bz2
-2015-07-10 15:54:51,025 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S10.ttl.bz2
-2015-07-10 15:54:51,905 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S11.ttl.bz2
-2015-07-10 15:54:52,123 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S2.ttl.bz2
-2015-07-10 15:54:53,144 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S3.ttl.bz2
-2015-07-10 15:54:54,027 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S4.ttl.bz2
-2015-07-10 15:54:55,171 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S5.ttl.bz2
-2015-07-10 15:54:55,959 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S6.ttl.bz2
-2015-07-10 15:54:56,862 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S7.ttl.bz2
-2015-07-10 15:54:57,410 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S8.ttl.bz2
-2015-07-10 15:54:58,537 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S9.ttl.bz2
-2015-07-10 15:54:59,000 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S0.ttl.bz2
-2015-07-10 15:54:59,442 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S1.ttl.bz2
-2015-07-10 15:54:59,775 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S10.ttl.bz2
-2015-07-10 15:55:00,115 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S11.ttl.bz2
-2015-07-10 15:55:00,237 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S2.ttl.bz2
-2015-07-10 15:55:00,680 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S3.ttl.bz2
-2015-07-10 15:55:01,015 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S4.ttl.bz2
-2015-07-10 15:55:01,450 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S5.ttl.bz2
-2015-07-10 15:55:01,787 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S6.ttl.bz2
-2015-07-10 15:55:02,230 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S7.ttl.bz2
-2015-07-10 15:55:02,572 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S8.ttl.bz2
-2015-07-10 15:55:02,909 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S9.ttl.bz2
-2015-07-10 15:55:03,240 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_01_H1-S0.ttl.bz2
-2015-07-10 15:55:04,366 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_02_H1-S0.ttl.bz2
-2015-07-10 15:55:05,033 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_03_H1-S0.ttl.bz2
-2015-07-10 15:55:06,174 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_04_H1-S0.ttl.bz2
-2015-07-10 15:55:06,834 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_05_H1-S0.ttl.bz2
-2015-07-10 15:55:07,938 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_06_H1-S0.ttl.bz2
-2015-07-10 15:55:08,950 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_07_H1-S0.ttl.bz2
-2015-07-10 15:55:09,633 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_08_H1-S0.ttl.bz2
-2015-07-10 15:55:11,322 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_09_H1-S0.ttl.bz2
-2015-07-10 15:55:12,632 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_10_H1-S0.ttl.bz2
-2015-07-10 15:55:14,063 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_11_H1-S0.ttl.bz2
-2015-07-10 15:55:15,384 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_03_H1-S0.ttl.bz2
-2015-07-10 15:55:15,724 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_04_H1-S0.ttl.bz2
-2015-07-10 15:55:16,059 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_05_H1-S0.ttl.bz2
-2015-07-10 15:55:16,396 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_06_H1-S0.ttl.bz2
-2015-07-10 15:55:16,729 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_07_H1-S0.ttl.bz2
-2015-07-10 15:55:17,199 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_08_H1-S0.ttl.bz2
-2015-07-10 15:55:17,759 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_09_H1-S0.ttl.bz2
-2015-07-10 15:55:18,347 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_10_H1-S0.ttl.bz2
-2015-07-10 15:55:18,800 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_11_H1-S0.ttl.bz2
-2015-07-10 15:55:19,139 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_12_H1-S0.ttl.bz2
-2015-07-10 15:55:19,717 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_13_H1-S0.ttl.bz2
-2015-07-10 15:55:20,284 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_01_H1-S0.ttl.bz2
-2015-07-10 15:55:21,830 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_02_H1-S0.ttl.bz2
-2015-07-10 15:55:23,034 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_03_H1-S0.ttl.bz2
-2015-07-10 15:55:24,726 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_04_H1-S0.ttl.bz2
-2015-07-10 15:55:26,148 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_05_H1-S0.ttl.bz2
-2015-07-10 15:55:27,135 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_06_H1-S0.ttl.bz2
-2015-07-10 15:55:27,717 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_07_H1-S0.ttl.bz2
-2015-07-10 15:55:28,822 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_08_H1-S0.ttl.bz2
-2015-07-10 15:55:29,615 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_09_H1-S0.ttl.bz2
-2015-07-10 15:55:30,627 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_10_H1-S0.ttl.bz2
-2015-07-10 15:55:31,209 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_11_H1-S0.ttl.bz2
-2015-07-10 15:55:32,413 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_12_H1-S0.ttl.bz2
-2015-07-10 15:55:32,540 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1909_01_T-S0.ttl.bz2
-2015-07-10 15:55:33,860 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1920_01_T-S0.ttl.bz2
-2015-07-10 15:55:35,025 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1920_01_T-S1.ttl.bz2
-2015-07-10 15:55:35,144 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1920_01_T-S2.ttl.bz2
-2015-07-10 15:55:35,485 integrat     INFO     [<urn:graph:cedar-mini:rules>] Done loading data
-2015-07-10 15:55:35,495 integrat     INFO     [VT_1879_05_H1.ods] Calling RulesInjector
-2015-07-10 15:55:35,495 integrat     INFO     [VT_1859_01_H1.ods] Calling RulesInjector
-2015-07-10 15:55:35,495 integrat     INFO     [VT_1879_02_H1.ods] Calling RulesInjector
-2015-07-10 15:55:35,495 integrat     INFO     [VT_1879_08_H1.ods] Calling RulesInjector
-2015-07-10 15:55:35,495 modules.rules.rulesinject INFO     [VT_1879_05_H1.ods] Loading source-data/VT_1879_05_H1.ods
-2015-07-10 15:55:35,495 modules.rules.rulesinject INFO     [VT_1879_08_H1.ods] Loading source-data/VT_1879_08_H1.ods
-2015-07-10 15:55:35,495 modules.rules.rulesinject INFO     [VT_1859_01_H1.ods] Loading source-data/VT_1859_01_H1.ods
-2015-07-10 15:55:35,495 modules.rules.rulesinject INFO     [VT_1879_02_H1.ods] Loading source-data/VT_1879_02_H1.ods
-2015-07-10 15:55:38,694 modules.rules.rulesinject INFO     [VT_1879_02_H1.ods] Found 1 sheets to process
-2015-07-10 15:55:43,110 modules.rules.rulesinject INFO     [VT_1879_05_H1.ods] Found 1 sheets to process
-2015-07-10 15:55:45,811 integrat     INFO     [VT_1879_03_H1.ods] Calling RulesInjector
-2015-07-10 15:55:45,811 modules.rules.rulesinject INFO     [VT_1879_03_H1.ods] Loading source-data/VT_1879_03_H1.ods
-2015-07-10 15:55:51,216 modules.rules.rulesinject INFO     [VT_1879_08_H1.ods] Found 1 sheets to process
-2015-07-10 15:55:52,396 modules.rules.rulesinject INFO     [VT_1879_03_H1.ods] Found 1 sheets to process
-2015-07-10 15:55:54,393 integrat     INFO     [VT_1879_06_H1.ods] Calling RulesInjector
-2015-07-10 15:55:54,393 modules.rules.rulesinject INFO     [VT_1879_06_H1.ods] Loading source-data/VT_1879_06_H1.ods
-2015-07-10 15:55:59,152 modules.rules.rulesinject INFO     [VT_1879_06_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:00,267 integrat     INFO     [VT_1879_04_H1.ods] Calling RulesInjector
-2015-07-10 15:56:00,268 modules.rules.rulesinject INFO     [VT_1879_04_H1.ods] Loading source-data/VT_1879_04_H1.ods
-2015-07-10 15:56:01,495 modules.rules.rulesinject INFO     [VT_1859_01_H1.ods] Found 12 sheets to process
-2015-07-10 15:56:02,353 integrat     INFO     [VT_1879_09_H1.ods] Calling RulesInjector
-2015-07-10 15:56:02,353 modules.rules.rulesinject INFO     [VT_1879_09_H1.ods] Loading source-data/VT_1879_09_H1.ods
-2015-07-10 15:56:03,884 modules.rules.rulesinject INFO     [VT_1879_04_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:05,651 integrat     INFO     [VT_1879_07_H1.ods] Calling RulesInjector
-2015-07-10 15:56:05,651 modules.rules.rulesinject INFO     [VT_1879_07_H1.ods] Loading source-data/VT_1879_07_H1.ods
-2015-07-10 15:56:08,311 integrat     INFO     [VT_1879_11_H1.ods] Calling RulesInjector
-2015-07-10 15:56:08,311 modules.rules.rulesinject INFO     [VT_1879_11_H1.ods] Loading source-data/VT_1879_11_H1.ods
-2015-07-10 15:56:08,900 modules.rules.rulesinject INFO     [VT_1879_07_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:11,238 modules.rules.rulesinject INFO     [VT_1879_09_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:15,709 modules.rules.rulesinject INFO     [VT_1879_11_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:16,178 integrat     INFO     [VT_1889_05_H1.ods] Calling RulesInjector
-2015-07-10 15:56:16,178 modules.rules.rulesinject INFO     [VT_1889_05_H1.ods] Loading source-data/VT_1889_05_H1.ods
-2015-07-10 15:56:22,075 modules.rules.rulesinject INFO     [VT_1889_05_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:24,290 integrat     INFO     [VT_1889_03_H1.ods] Calling RulesInjector
-2015-07-10 15:56:24,291 modules.rules.rulesinject INFO     [VT_1889_03_H1.ods] Loading source-data/VT_1889_03_H1.ods
-2015-07-10 15:56:25,709 integrat     INFO     [VT_1889_06_H1.ods] Calling RulesInjector
-2015-07-10 15:56:25,709 modules.rules.rulesinject INFO     [VT_1889_06_H1.ods] Loading source-data/VT_1889_06_H1.ods
-2015-07-10 15:56:25,955 integrat     INFO     [VT_1879_10_H1.ods] Calling RulesInjector
-2015-07-10 15:56:25,955 modules.rules.rulesinject INFO     [VT_1879_10_H1.ods] Loading source-data/VT_1879_10_H1.ods
-2015-07-10 15:56:29,201 modules.rules.rulesinject INFO     [VT_1889_06_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:30,747 modules.rules.rulesinject INFO     [VT_1889_03_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:33,174 integrat     INFO     [VT_1889_07_H1.ods] Calling RulesInjector
-2015-07-10 15:56:33,175 modules.rules.rulesinject INFO     [VT_1889_07_H1.ods] Loading source-data/VT_1889_07_H1.ods
-2015-07-10 15:56:33,819 modules.rules.rulesinject INFO     [VT_1879_10_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:37,734 integrat     INFO     [VT_1889_04_H1.ods] Calling RulesInjector
-2015-07-10 15:56:37,734 modules.rules.rulesinject INFO     [VT_1889_04_H1.ods] Loading source-data/VT_1889_04_H1.ods
-2015-07-10 15:56:40,158 modules.rules.rulesinject INFO     [VT_1889_07_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:42,882 integrat     INFO     [VT_1889_08_H1.ods] Calling RulesInjector
-2015-07-10 15:56:42,882 modules.rules.rulesinject INFO     [VT_1889_08_H1.ods] Loading source-data/VT_1889_08_H1.ods
-2015-07-10 15:56:50,476 modules.rules.rulesinject INFO     [VT_1889_04_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:50,739 modules.rules.rulesinject INFO     [VT_1889_08_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:51,961 integrat     INFO     [VT_1889_11_H1.ods] Calling RulesInjector
-2015-07-10 15:56:51,961 modules.rules.rulesinject INFO     [VT_1889_11_H1.ods] Loading source-data/VT_1889_11_H1.ods
-2015-07-10 15:56:55,058 modules.rules.rulesinject INFO     [VT_1889_11_H1.ods] Found 1 sheets to process
-2015-07-10 15:56:58,920 integrat     INFO     [VT_1889_12_H1.ods] Calling RulesInjector
-2015-07-10 15:56:58,921 modules.rules.rulesinject INFO     [VT_1889_12_H1.ods] Loading source-data/VT_1889_12_H1.ods
-2015-07-10 15:56:59,133 integrat     INFO     [VT_1889_09_H1.ods] Calling RulesInjector
-2015-07-10 15:56:59,133 modules.rules.rulesinject INFO     [VT_1889_09_H1.ods] Loading source-data/VT_1889_09_H1.ods
-2015-07-10 15:57:01,073 integrat     INFO     [VT_1899_01_H1.ods] Calling RulesInjector
-2015-07-10 15:57:01,073 modules.rules.rulesinject INFO     [VT_1899_01_H1.ods] Loading source-data/VT_1899_01_H1.ods
-2015-07-10 15:57:07,500 modules.rules.rulesinject INFO     [VT_1889_12_H1.ods] Found 1 sheets to process
-2015-07-10 15:57:09,742 modules.rules.rulesinject INFO     [VT_1889_09_H1.ods] Found 1 sheets to process
-2015-07-10 15:57:11,012 modules.rules.rulesinject INFO     [VT_1899_01_H1.ods] Found 1 sheets to process
-2015-07-10 15:57:11,508 integrat     INFO     [VT_1869_01_H1.ods] Calling RulesInjector
-2015-07-10 15:57:11,509 modules.rules.rulesinject INFO     [VT_1869_01_H1.ods] Loading source-data/VT_1869_01_H1.ods
-2015-07-10 15:57:20,800 integrat     INFO     [VT_1899_02_H1.ods] Calling RulesInjector
-2015-07-10 15:57:20,800 modules.rules.rulesinject INFO     [VT_1899_02_H1.ods] Loading source-data/VT_1899_02_H1.ods
-2015-07-10 15:57:24,287 integrat     INFO     [VT_1889_13_H1.ods] Calling RulesInjector
-2015-07-10 15:57:24,287 modules.rules.rulesinject INFO     [VT_1889_13_H1.ods] Loading source-data/VT_1889_13_H1.ods
-2015-07-10 15:57:26,956 modules.rules.rulesinject INFO     [VT_1899_02_H1.ods] Found 1 sheets to process
-2015-07-10 15:57:31,612 integrat     INFO     [VT_1889_10_H1.ods] Calling RulesInjector
-2015-07-10 15:57:31,612 modules.rules.rulesinject INFO     [VT_1889_10_H1.ods] Loading source-data/VT_1889_10_H1.ods
-2015-07-10 15:57:33,160 modules.rules.rulesinject INFO     [VT_1889_13_H1.ods] Found 1 sheets to process
-2015-07-10 15:57:33,632 integrat     INFO     [VT_1899_03_H1.ods] Calling RulesInjector
-2015-07-10 15:57:33,633 modules.rules.rulesinject INFO     [VT_1899_03_H1.ods] Loading source-data/VT_1899_03_H1.ods
-2015-07-10 15:57:37,167 modules.rules.rulesinject INFO     [VT_1889_10_H1.ods] Found 1 sheets to process
-2015-07-10 15:57:42,333 integrat     INFO     [VT_1899_04_H1.ods] Calling RulesInjector
-2015-07-10 15:57:42,333 modules.rules.rulesinject INFO     [VT_1899_04_H1.ods] Loading source-data/VT_1899_04_H1.ods
-2015-07-10 15:57:43,813 integrat     INFO     [VT_1899_07_H1.ods] Calling RulesInjector
-2015-07-10 15:57:43,813 modules.rules.rulesinject INFO     [VT_1899_07_H1.ods] Loading source-data/VT_1899_07_H1.ods
-2015-07-10 15:57:49,169 modules.rules.rulesinject INFO     [VT_1899_03_H1.ods] Found 1 sheets to process
-2015-07-10 15:57:49,603 modules.rules.rulesinject INFO     [VT_1899_04_H1.ods] Found 1 sheets to process
-2015-07-10 15:57:51,835 modules.rules.rulesinject INFO     [VT_1869_01_H1.ods] Found 12 sheets to process
-2015-07-10 15:57:54,538 modules.rules.rulesinject INFO     [VT_1899_07_H1.ods] Found 1 sheets to process
-2015-07-10 15:57:57,642 integrat     INFO     [VT_1899_05_H1.ods] Calling RulesInjector
-2015-07-10 15:57:57,642 modules.rules.rulesinject INFO     [VT_1899_05_H1.ods] Loading source-data/VT_1899_05_H1.ods
-2015-07-10 15:58:00,691 integrat     INFO     [VT_1899_10_H1.ods] Calling RulesInjector
-2015-07-10 15:58:00,691 modules.rules.rulesinject INFO     [VT_1899_10_H1.ods] Loading source-data/VT_1899_10_H1.ods
-2015-07-10 15:58:01,219 integrat     INFO     [VT_1899_08_H1.ods] Calling RulesInjector
-2015-07-10 15:58:01,219 modules.rules.rulesinject INFO     [VT_1899_08_H1.ods] Loading source-data/VT_1899_08_H1.ods
-2015-07-10 15:58:03,591 modules.rules.rulesinject INFO     [VT_1899_10_H1.ods] Found 1 sheets to process
-2015-07-10 15:58:03,725 modules.rules.rulesinject INFO     [VT_1899_05_H1.ods] Found 1 sheets to process
-2015-07-10 15:58:04,868 modules.rules.rulesinject INFO     [VT_1899_08_H1.ods] Found 1 sheets to process
-2015-07-10 15:58:07,940 integrat     INFO     [VT_1899_11_H1.ods] Calling RulesInjector
-2015-07-10 15:58:07,940 modules.rules.rulesinject INFO     [VT_1899_11_H1.ods] Loading source-data/VT_1899_11_H1.ods
-2015-07-10 15:58:08,627 integrat     INFO     [VT_1899_06_H1.ods] Calling RulesInjector
-2015-07-10 15:58:08,627 modules.rules.rulesinject INFO     [VT_1899_06_H1.ods] Loading source-data/VT_1899_06_H1.ods
-2015-07-10 15:58:09,008 integrat     INFO     [VT_1899_09_H1.ods] Calling RulesInjector
-2015-07-10 15:58:09,008 modules.rules.rulesinject INFO     [VT_1899_09_H1.ods] Loading source-data/VT_1899_09_H1.ods
-2015-07-10 15:58:11,292 modules.rules.rulesinject INFO     [VT_1899_06_H1.ods] Found 1 sheets to process
-2015-07-10 15:58:13,835 modules.rules.rulesinject INFO     [VT_1899_09_H1.ods] Found 1 sheets to process
-2015-07-10 15:58:14,408 integrat     INFO     [VT_1909_01_T.ods] Calling RulesInjector
-2015-07-10 15:58:14,408 modules.rules.rulesinject INFO     [VT_1909_01_T.ods] Loading source-data/VT_1909_01_T.ods
-2015-07-10 15:58:17,226 modules.rules.rulesinject INFO     [VT_1899_11_H1.ods] Found 1 sheets to process
-2015-07-10 15:58:24,329 integrat     INFO     [VT_1899_12_H1.ods] Calling RulesInjector
-2015-07-10 15:58:24,329 modules.rules.rulesinject INFO     [VT_1899_12_H1.ods] Loading source-data/VT_1899_12_H1.ods
-2015-07-10 15:58:24,970 modules.rules.rulesinject INFO     [VT_1899_12_H1.ods] Found 1 sheets to process
-2015-07-10 15:58:48,895 modules.rules.rulesinject INFO     [VT_1909_01_T.ods] Found 1 sheets to process
-2015-07-10 15:58:52,221 integrat     INFO     [VT_1879_01_H1.ods] Calling RulesInjector
-2015-07-10 15:58:52,221 modules.rules.rulesinject INFO     [VT_1879_01_H1.ods] Loading source-data/VT_1879_01_H1.ods
-2015-07-10 15:59:00,004 modules.rules.rulesinject INFO     [VT_1879_01_H1.ods] Found 1 sheets to process
-2015-07-10 15:59:23,763 integrat     INFO     [VT_1920_01_T.ods] Calling RulesInjector
-2015-07-10 15:59:23,763 modules.rules.rulesinject INFO     [VT_1920_01_T.ods] Loading source-data/VT_1920_01_T.ods
-2015-07-10 16:00:13,691 modules.rules.rulesinject INFO     [VT_1920_01_T.ods] Found 3 sheets to process
-2015-07-10 16:01:04,123 integrat     INFO     [VT_1859_01_H1-S0] Calling CubeMaker
-2015-07-10 16:01:04,123 integrat     INFO     [VT_1859_01_H1-S2] Calling CubeMaker
-2015-07-10 16:01:04,124 integrat     INFO     [VT_1869_01_H1-S0] Calling CubeMaker
-2015-07-10 16:01:04,124 integrat     INFO     [VT_1859_01_H1-S6] Calling CubeMaker
-2015-07-10 16:01:07,377 integrat     INFO     [VT_1859_01_H1-S3] Calling CubeMaker
-2015-07-10 16:01:08,342 integrat     INFO     [VT_1859_01_H1-S7] Calling CubeMaker
-2015-07-10 16:01:09,011 integrat     INFO     [VT_1859_01_H1-S4] Calling CubeMaker
-2015-07-10 16:01:09,579 integrat     INFO     [VT_1859_01_H1-S8] Calling CubeMaker
-2015-07-10 16:01:09,837 integrat     INFO     [VT_1859_01_H1-S1] Calling CubeMaker
-2015-07-10 16:01:10,279 integrat     INFO     [VT_1869_01_H1-S1] Calling CubeMaker
-2015-07-10 16:01:10,542 integrat     INFO     [VT_1859_01_H1-S5] Calling CubeMaker
-2015-07-10 16:01:11,150 integrat     INFO     [VT_1859_01_H1-S9] Calling CubeMaker
-2015-07-10 16:01:11,443 integrat     INFO     [VT_1869_01_H1-S2] Calling CubeMaker
-2015-07-10 16:01:11,971 integrat     INFO     [VT_1869_01_H1-S6] Calling CubeMaker
-2015-07-10 16:01:12,552 integrat     INFO     [VT_1859_01_H1-S10] Calling CubeMaker
-2015-07-10 16:01:14,513 integrat     INFO     [VT_1859_01_H1-S11] Calling CubeMaker
-2015-07-10 16:01:14,749 integrat     INFO     [VT_1879_01_H1-S0] Calling CubeMaker
-2015-07-10 16:01:14,824 integrat     INFO     [VT_1869_01_H1-S10] Calling CubeMaker
-2015-07-10 16:01:15,512 integrat     INFO     [VT_1869_01_H1-S7] Calling CubeMaker
-2015-07-10 16:01:15,899 integrat     INFO     [VT_1869_01_H1-S3] Calling CubeMaker
-2015-07-10 16:01:17,383 integrat     INFO     [VT_1869_01_H1-S8] Calling CubeMaker
-2015-07-10 16:01:18,892 integrat     INFO     [VT_1869_01_H1-S11] Calling CubeMaker
-2015-07-10 16:01:19,067 integrat     INFO     [VT_1879_05_H1-S0] Calling CubeMaker
-2015-07-10 16:01:20,093 integrat     INFO     [VT_1869_01_H1-S9] Calling CubeMaker
-2015-07-10 16:01:20,182 integrat     INFO     [VT_1879_02_H1-S0] Calling CubeMaker
-2015-07-10 16:01:20,688 integrat     INFO     [VT_1869_01_H1-S4] Calling CubeMaker
-2015-07-10 16:01:21,843 integrat     INFO     [VT_1879_09_H1-S0] Calling CubeMaker
-2015-07-10 16:01:22,841 integrat     INFO     [VT_1879_03_H1-S0] Calling CubeMaker
-2015-07-10 16:01:24,345 integrat     INFO     [VT_1869_01_H1-S5] Calling CubeMaker
-2015-07-10 16:01:24,619 integrat     INFO     [VT_1879_06_H1-S0] Calling CubeMaker
-2015-07-10 16:01:26,210 integrat     INFO     [VT_1889_04_H1-S0] Calling CubeMaker
-2015-07-10 16:01:27,874 integrat     INFO     [VT_1879_10_H1-S0] Calling CubeMaker
-2015-07-10 16:01:28,607 integrat     INFO     [VT_1879_04_H1-S0] Calling CubeMaker
-2015-07-10 16:01:29,931 integrat     INFO     [VT_1879_07_H1-S0] Calling CubeMaker
-2015-07-10 16:01:31,213 integrat     INFO     [VT_1889_08_H1-S0] Calling CubeMaker
-2015-07-10 16:01:31,729 integrat     INFO     [VT_1889_05_H1-S0] Calling CubeMaker
-2015-07-10 16:01:33,280 integrat     INFO     [VT_1879_08_H1-S0] Calling CubeMaker
-2015-07-10 16:01:34,751 integrat     INFO     [VT_1889_06_H1-S0] Calling CubeMaker
-2015-07-10 16:01:34,915 integrat     INFO     [VT_1879_11_H1-S0] Calling CubeMaker
-2015-07-10 16:01:37,279 integrat     INFO     [VT_1889_09_H1-S0] Calling CubeMaker
-2015-07-10 16:01:37,522 integrat     INFO     [VT_1889_07_H1-S0] Calling CubeMaker
-2015-07-10 16:01:40,792 integrat     INFO     [VT_1889_12_H1-S0] Calling CubeMaker
-2015-07-10 16:01:41,597 integrat     INFO     [VT_1889_03_H1-S0] Calling CubeMaker
-2015-07-10 16:01:43,420 integrat     INFO     [VT_1899_03_H1-S0] Calling CubeMaker
-2015-07-10 16:01:45,942 integrat     INFO     [VT_1899_07_H1-S0] Calling CubeMaker
-2015-07-10 16:01:47,498 integrat     INFO     [VT_1889_10_H1-S0] Calling CubeMaker
-2015-07-10 16:01:48,561 integrat     INFO     [VT_1889_13_H1-S0] Calling CubeMaker
-2015-07-10 16:01:49,602 integrat     INFO     [VT_1899_08_H1-S0] Calling CubeMaker
-2015-07-10 16:01:49,836 integrat     INFO     [VT_1899_04_H1-S0] Calling CubeMaker
-2015-07-10 16:01:51,463 integrat     INFO     [VT_1889_11_H1-S0] Calling CubeMaker
-2015-07-10 16:01:52,174 integrat     INFO     [VT_1899_09_H1-S0] Calling CubeMaker
-2015-07-10 16:01:53,567 integrat     INFO     [VT_1899_01_H1-S0] Calling CubeMaker
-2015-07-10 16:01:54,121 integrat     INFO     [VT_1899_11_H1-S0] Calling CubeMaker
-2015-07-10 16:01:54,780 integrat     INFO     [VT_1899_05_H1-S0] Calling CubeMaker
-2015-07-10 16:01:55,370 integrat     INFO     [VT_1899_10_H1-S0] Calling CubeMaker
-2015-07-10 16:01:57,206 integrat     INFO     [VT_1920_01_T-S1] Calling CubeMaker
-2015-07-10 16:01:57,286 integrat     INFO     [VT_1920_01_T-S2] Calling CubeMaker
-2015-07-10 16:01:57,556 integrat     INFO     [VT_1899_06_H1-S0] Calling CubeMaker
-2015-07-10 16:01:57,739 integrat     INFO     [VT_1899_12_H1-S0] Calling CubeMaker
-2015-07-10 16:01:58,077 integrat     INFO     [VT_1909_01_T-S0] Calling CubeMaker
-2015-07-10 16:01:59,191 integrat     INFO     [VT_1899_02_H1-S0] Calling CubeMaker
-2015-07-10 16:02:17,282 integrat     INFO     [VT_1920_01_T-S0] Calling CubeMaker
-2015-07-10 16:02:41,891 integrat     INFO     [<urn:graph:cedar-mini:release>] Cleaning the content of the graph 
-2015-07-10 16:03:32,488 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading files in release/
-2015-07-10 16:03:32,488 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S0.ttl.bz2
-2015-07-10 16:03:38,409 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S1.ttl.bz2
-2015-07-10 16:03:42,996 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S10.ttl.bz2
-2015-07-10 16:03:51,073 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S11.ttl.bz2
-2015-07-10 16:03:51,536 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S2.ttl.bz2
-2015-07-10 16:03:56,430 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S3.ttl.bz2
-2015-07-10 16:04:00,303 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S4.ttl.bz2
-2015-07-10 16:04:03,473 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S5.ttl.bz2
-2015-07-10 16:04:05,511 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S6.ttl.bz2
-2015-07-10 16:04:09,218 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S7.ttl.bz2
-2015-07-10 16:04:11,823 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S8.ttl.bz2
-2015-07-10 16:04:14,989 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S9.ttl.bz2
-2015-07-10 16:04:16,880 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S0.ttl.bz2
-2015-07-10 16:04:27,300 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S1.ttl.bz2
-2015-07-10 16:04:36,552 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S10.ttl.bz2
-2015-07-10 16:04:46,228 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S11.ttl.bz2
-2015-07-10 16:04:46,815 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S2.ttl.bz2
-2015-07-10 16:04:55,693 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S3.ttl.bz2
-2015-07-10 16:05:05,323 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S4.ttl.bz2
-2015-07-10 16:05:11,208 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S5.ttl.bz2
-2015-07-10 16:05:15,326 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S6.ttl.bz2
-2015-07-10 16:05:21,228 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S7.ttl.bz2
-2015-07-10 16:05:25,500 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S8.ttl.bz2
-2015-07-10 16:05:30,776 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S9.ttl.bz2
-2015-07-10 16:05:34,684 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_01_H1-S0.ttl.bz2
-2015-07-10 16:05:44,753 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_02_H1-S0.ttl.bz2
-2015-07-10 16:05:50,549 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_03_H1-S0.ttl.bz2
-2015-07-10 16:06:00,180 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_04_H1-S0.ttl.bz2
-2015-07-10 16:06:05,635 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_05_H1-S0.ttl.bz2
-2015-07-10 16:06:15,844 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_06_H1-S0.ttl.bz2
-2015-07-10 16:06:23,739 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_07_H1-S0.ttl.bz2
-2015-07-10 16:06:29,257 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_08_H1-S0.ttl.bz2
-2015-07-10 16:06:45,268 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_09_H1-S0.ttl.bz2
-2015-07-10 16:06:57,367 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_10_H1-S0.ttl.bz2
-2015-07-10 16:07:10,466 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_11_H1-S0.ttl.bz2
-2015-07-10 16:07:22,585 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_03_H1-S0.ttl.bz2
-2015-07-10 16:07:32,069 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_04_H1-S0.ttl.bz2
-2015-07-10 16:07:43,747 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_05_H1-S0.ttl.bz2
-2015-07-10 16:07:48,149 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_06_H1-S0.ttl.bz2
-2015-07-10 16:07:53,957 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_07_H1-S0.ttl.bz2
-2015-07-10 16:08:05,099 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_08_H1-S0.ttl.bz2
-2015-07-10 16:08:18,060 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_09_H1-S0.ttl.bz2
-2015-07-10 16:08:35,055 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_10_H1-S0.ttl.bz2
-2015-07-10 16:08:42,988 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_11_H1-S0.ttl.bz2
-2015-07-10 16:08:48,328 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_12_H1-S0.ttl.bz2
-2015-07-10 16:09:01,440 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_13_H1-S0.ttl.bz2
-2015-07-10 16:09:12,356 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_01_H1-S0.ttl.bz2
-2015-07-10 16:09:25,018 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_02_H1-S0.ttl.bz2
-2015-07-10 16:09:34,524 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_03_H1-S0.ttl.bz2
-2015-07-10 16:09:47,142 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_04_H1-S0.ttl.bz2
-2015-07-10 16:09:57,509 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_05_H1-S0.ttl.bz2
-2015-07-10 16:10:03,803 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_06_H1-S0.ttl.bz2
-2015-07-10 16:10:08,133 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_07_H1-S0.ttl.bz2
-2015-07-10 16:10:16,300 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_08_H1-S0.ttl.bz2
-2015-07-10 16:10:21,936 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_09_H1-S0.ttl.bz2
-2015-07-10 16:10:29,306 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_10_H1-S0.ttl.bz2
-2015-07-10 16:10:33,273 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_11_H1-S0.ttl.bz2
-2015-07-10 16:10:41,336 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_12_H1-S0.ttl.bz2
-2015-07-10 16:10:42,314 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1909_01_T-S0.ttl.bz2
-2015-07-10 16:11:33,066 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1920_01_T-S0.ttl.bz2
-2015-07-10 16:12:37,582 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1920_01_T-S1.ttl.bz2
-2015-07-10 16:12:37,725 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1920_01_T-S2.ttl.bz2
-2015-07-10 16:12:37,850 integrat     INFO     [<urn:graph:cedar-mini:release>] Done loading data
-2015-07-10 16:12:37,851 integrat     INFO     Asking CubeMaker to generate the DSD
-2015-07-10 16:14:24,722 modules.cube.cubemaker INFO     [release/dsd.ttl] Contains 1421174 triples
-2015-07-10 16:18:31,973 integrat     INFO     [<urn:graph:cedar-mini:release>] Adding the content of the DSD
+2015-07-14 10:07:27,375 integrat     INFO     [VT_1859_01_H1] Calling TabLinker
+2015-07-14 10:07:27,375 integrat     INFO     [VT_1879_01_H1] Calling TabLinker
+2015-07-14 10:07:27,375 integrat     INFO     [VT_1879_05_H1] Calling TabLinker
+2015-07-14 10:07:27,376 integrat     INFO     [VT_1889_04_H1] Calling TabLinker
+2015-07-14 10:07:27,376 integrat     INFO     [VT_1879_09_H1] Calling TabLinker
+2015-07-14 10:07:27,375 integrat     INFO     [VT_1879_07_H1] Calling TabLinker
+2015-07-14 10:07:27,377 modules.tablinker.tablinker INFO     [VT_1879_01_H1] Loading source-data/VT_1879_01_H1.ods
+2015-07-14 10:07:27,377 modules.tablinker.tablinker INFO     [VT_1859_01_H1] Loading source-data/VT_1859_01_H1.ods
+2015-07-14 10:07:27,377 modules.tablinker.tablinker INFO     [VT_1879_05_H1] Loading source-data/VT_1879_05_H1.ods
+2015-07-14 10:07:27,375 integrat     INFO     [VT_1879_03_H1] Calling TabLinker
+2015-07-14 10:07:27,378 modules.tablinker.tablinker INFO     [VT_1889_04_H1] Loading source-data/VT_1889_04_H1.ods
+2015-07-14 10:07:27,376 integrat     INFO     [VT_1879_11_H1] Calling TabLinker
+2015-07-14 10:07:27,380 modules.tablinker.tablinker INFO     [VT_1879_03_H1] Loading source-data/VT_1879_03_H1.ods
+2015-07-14 10:07:27,381 modules.tablinker.tablinker INFO     [VT_1879_11_H1] Loading source-data/VT_1879_11_H1.ods
+2015-07-14 10:07:27,382 modules.tablinker.tablinker INFO     [VT_1879_09_H1] Loading source-data/VT_1879_09_H1.ods
+2015-07-14 10:07:27,379 modules.tablinker.tablinker INFO     [VT_1879_07_H1] Loading source-data/VT_1879_07_H1.ods
+2015-07-14 10:07:34,056 modules.tablinker.tablinker INFO     [VT_1879_07_H1] Found 1 sheets to process
+2015-07-14 10:07:40,186 modules.tablinker.tablinker INFO     [VT_1879_03_H1] Found 1 sheets to process
+2015-07-14 10:07:40,294 modules.tablinker.tablinker INFO     [VT_1879_05_H1] Found 1 sheets to process
+2015-07-14 10:07:41,137 modules.tablinker.tablinker INFO     [VT_1879_01_H1] Found 1 sheets to process
+2015-07-14 10:07:41,746 modules.tablinker.tablinker INFO     [VT_1879_09_H1] Found 1 sheets to process
+2015-07-14 10:07:41,786 modules.tablinker.tablinker INFO     [VT_1879_11_H1] Found 1 sheets to process
+2015-07-14 10:07:44,480 modules.tablinker.tablinker INFO     [VT_1889_04_H1] Found 1 sheets to process
+2015-07-14 10:07:47,000 modules.tablinker.tablinker INFO     [VT_1879_07_H1] Saving 69813 data triples
+2015-07-14 10:08:06,077 modules.tablinker.tablinker INFO     [VT_1879_03_H1] Saving 129430 data triples
+2015-07-14 10:08:06,905 modules.tablinker.tablinker INFO     [VT_1879_05_H1] Saving 133727 data triples
+2015-07-14 10:08:10,230 modules.tablinker.tablinker INFO     [VT_1879_01_H1] Saving 150979 data triples
+2015-07-14 10:08:11,060 modules.tablinker.tablinker INFO     [VT_1859_01_H1] Found 12 sheets to process
+2015-07-14 10:08:13,303 integrat     INFO     [VT_1879_08_H1] Calling TabLinker
+2015-07-14 10:08:13,304 modules.tablinker.tablinker INFO     [VT_1879_08_H1] Loading source-data/VT_1879_08_H1.ods
+2015-07-14 10:08:17,826 modules.tablinker.tablinker INFO     [VT_1889_04_H1] Saving 144091 data triples
+2015-07-14 10:08:26,270 modules.tablinker.tablinker INFO     [VT_1879_11_H1] Saving 174852 data triples
+2015-07-14 10:08:31,635 modules.tablinker.tablinker INFO     [VT_1879_08_H1] Found 1 sheets to process
+2015-07-14 10:08:53,932 integrat     INFO     [VT_1879_04_H1] Calling TabLinker
+2015-07-14 10:08:53,933 modules.tablinker.tablinker INFO     [VT_1879_04_H1] Loading source-data/VT_1879_04_H1.ods
+2015-07-14 10:08:56,396 integrat     INFO     [VT_1879_06_H1] Calling TabLinker
+2015-07-14 10:08:56,397 modules.tablinker.tablinker INFO     [VT_1879_06_H1] Loading source-data/VT_1879_06_H1.ods
+2015-07-14 10:09:00,999 modules.tablinker.tablinker INFO     [VT_1879_04_H1] Found 1 sheets to process
+2015-07-14 10:09:05,705 modules.tablinker.tablinker INFO     [VT_1879_06_H1] Found 1 sheets to process
+2015-07-14 10:09:06,626 integrat     INFO     [VT_1879_02_H1] Calling TabLinker
+2015-07-14 10:09:06,627 modules.tablinker.tablinker INFO     [VT_1879_02_H1] Loading source-data/VT_1879_02_H1.ods
+2015-07-14 10:09:12,039 integrat     INFO     [VT_1889_05_H1] Calling TabLinker
+2015-07-14 10:09:12,040 modules.tablinker.tablinker INFO     [VT_1889_05_H1] Loading source-data/VT_1889_05_H1.ods
+2015-07-14 10:09:13,006 modules.tablinker.tablinker INFO     [VT_1879_08_H1] Saving 226004 data triples
+2015-07-14 10:09:13,333 modules.tablinker.tablinker INFO     [VT_1879_02_H1] Found 1 sheets to process
+2015-07-14 10:09:14,808 modules.tablinker.tablinker INFO     [VT_1879_04_H1] Saving 65608 data triples
+2015-07-14 10:09:18,596 modules.tablinker.tablinker INFO     [VT_1889_05_H1] Found 1 sheets to process
+2015-07-14 10:09:24,781 modules.tablinker.tablinker INFO     [VT_1879_06_H1] Saving 102539 data triples
+2015-07-14 10:09:26,837 modules.tablinker.tablinker INFO     [VT_1879_02_H1] Saving 73359 data triples
+2015-07-14 10:09:29,906 modules.tablinker.tablinker INFO     [VT_1889_05_H1] Saving 49277 data triples
+2015-07-14 10:09:30,660 integrat     INFO     [VT_1889_03_H1] Calling TabLinker
+2015-07-14 10:09:30,661 modules.tablinker.tablinker INFO     [VT_1889_03_H1] Loading source-data/VT_1889_03_H1.ods
+2015-07-14 10:09:39,454 integrat     INFO     [VT_1889_06_H1] Calling TabLinker
+2015-07-14 10:09:39,455 modules.tablinker.tablinker INFO     [VT_1889_06_H1] Loading source-data/VT_1889_06_H1.ods
+2015-07-14 10:09:42,938 modules.tablinker.tablinker INFO     [VT_1889_03_H1] Found 1 sheets to process
+2015-07-14 10:09:46,282 modules.tablinker.tablinker INFO     [VT_1889_06_H1] Found 1 sheets to process
+2015-07-14 10:09:48,531 integrat     INFO     [VT_1889_08_H1] Calling TabLinker
+2015-07-14 10:09:48,532 modules.tablinker.tablinker INFO     [VT_1889_08_H1] Loading source-data/VT_1889_08_H1.ods
+2015-07-14 10:09:51,231 modules.tablinker.tablinker INFO     [VT_1879_09_H1] Saving 173063 data triples
+2015-07-14 10:09:53,957 integrat     INFO     [VT_1889_10_H1] Calling TabLinker
+2015-07-14 10:09:53,958 modules.tablinker.tablinker INFO     [VT_1889_10_H1] Loading source-data/VT_1889_10_H1.ods
+2015-07-14 10:09:59,508 modules.tablinker.tablinker INFO     [VT_1889_06_H1] Saving 63494 data triples
+2015-07-14 10:09:59,933 modules.tablinker.tablinker INFO     [VT_1859_01_H1] Saving 607048 data triples
+2015-07-14 10:10:03,311 modules.tablinker.tablinker INFO     [VT_1889_10_H1] Found 1 sheets to process
+2015-07-14 10:10:03,493 integrat     INFO     [VT_1889_12_H1] Calling TabLinker
+2015-07-14 10:10:03,494 modules.tablinker.tablinker INFO     [VT_1889_12_H1] Loading source-data/VT_1889_12_H1.ods
+2015-07-14 10:10:03,683 modules.tablinker.tablinker INFO     [VT_1889_08_H1] Found 1 sheets to process
+2015-07-14 10:10:06,266 modules.tablinker.tablinker INFO     [VT_1889_03_H1] Saving 103814 data triples
+2015-07-14 10:10:20,182 modules.tablinker.tablinker INFO     [VT_1889_12_H1] Found 1 sheets to process
+2015-07-14 10:10:21,711 modules.tablinker.tablinker INFO     [VT_1889_10_H1] Saving 87508 data triples
+2015-07-14 10:10:23,327 integrat     INFO     [VT_1889_07_H1] Calling TabLinker
+2015-07-14 10:10:23,328 modules.tablinker.tablinker INFO     [VT_1889_07_H1] Loading source-data/VT_1889_07_H1.ods
+2015-07-14 10:10:34,414 modules.tablinker.tablinker INFO     [VT_1889_08_H1] Saving 144553 data triples
+2015-07-14 10:10:36,510 modules.tablinker.tablinker INFO     [VT_1889_07_H1] Found 1 sheets to process
+2015-07-14 10:10:37,398 integrat     INFO     [VT_1899_01_H1] Calling TabLinker
+2015-07-14 10:10:37,399 modules.tablinker.tablinker INFO     [VT_1899_01_H1] Loading source-data/VT_1899_01_H1.ods
+2015-07-14 10:10:45,359 integrat     INFO     [VT_1899_03_H1] Calling TabLinker
+2015-07-14 10:10:45,360 modules.tablinker.tablinker INFO     [VT_1899_03_H1] Loading source-data/VT_1899_03_H1.ods
+2015-07-14 10:10:53,010 modules.tablinker.tablinker INFO     [VT_1889_12_H1] Saving 150698 data triples
+2015-07-14 10:10:54,686 integrat     INFO     [VT_1889_11_H1] Calling TabLinker
+2015-07-14 10:10:54,686 modules.tablinker.tablinker INFO     [VT_1889_11_H1] Loading source-data/VT_1889_11_H1.ods
+2015-07-14 10:10:54,729 integrat     INFO     [VT_1879_10_H1] Calling TabLinker
+2015-07-14 10:10:54,729 modules.tablinker.tablinker INFO     [VT_1879_10_H1] Loading source-data/VT_1879_10_H1.ods
+2015-07-14 10:10:55,401 modules.tablinker.tablinker INFO     [VT_1899_01_H1] Found 1 sheets to process
+2015-07-14 10:11:00,559 modules.tablinker.tablinker INFO     [VT_1889_11_H1] Found 1 sheets to process
+2015-07-14 10:11:01,628 modules.tablinker.tablinker INFO     [VT_1899_03_H1] Found 1 sheets to process
+2015-07-14 10:11:03,222 modules.tablinker.tablinker INFO     [VT_1889_07_H1] Saving 127052 data triples
+2015-07-14 10:11:09,912 modules.tablinker.tablinker INFO     [VT_1879_10_H1] Found 1 sheets to process
+2015-07-14 10:11:12,237 modules.tablinker.tablinker INFO     [VT_1889_11_H1] Saving 57125 data triples
+2015-07-14 10:11:28,727 integrat     INFO     [VT_1889_09_H1] Calling TabLinker
+2015-07-14 10:11:28,728 modules.tablinker.tablinker INFO     [VT_1889_09_H1] Loading source-data/VT_1889_09_H1.ods
+2015-07-14 10:11:33,605 integrat     INFO     [VT_1899_05_H1] Calling TabLinker
+2015-07-14 10:11:33,606 modules.tablinker.tablinker INFO     [VT_1899_05_H1] Loading source-data/VT_1899_05_H1.ods
+2015-07-14 10:11:34,813 modules.tablinker.tablinker INFO     [VT_1899_01_H1] Saving 206597 data triples
+2015-07-14 10:11:38,139 modules.tablinker.tablinker INFO     [VT_1899_03_H1] Saving 194217 data triples
+2015-07-14 10:11:41,508 modules.tablinker.tablinker INFO     [VT_1899_05_H1] Found 1 sheets to process
+2015-07-14 10:11:42,909 modules.tablinker.tablinker INFO     [VT_1879_10_H1] Saving 181006 data triples
+2015-07-14 10:11:49,695 modules.tablinker.tablinker INFO     [VT_1889_09_H1] Found 1 sheets to process
+2015-07-14 10:11:50,141 integrat     INFO     [VT_1889_13_H1] Calling TabLinker
+2015-07-14 10:11:50,142 modules.tablinker.tablinker INFO     [VT_1889_13_H1] Loading source-data/VT_1889_13_H1.ods
+2015-07-14 10:11:51,699 integrat     INFO     [VT_1899_07_H1] Calling TabLinker
+2015-07-14 10:11:51,700 modules.tablinker.tablinker INFO     [VT_1899_07_H1] Loading source-data/VT_1899_07_H1.ods
+2015-07-14 10:11:59,379 modules.tablinker.tablinker INFO     [VT_1899_05_H1] Saving 94434 data triples
+2015-07-14 10:11:59,886 modules.tablinker.tablinker INFO     [VT_1889_13_H1] Found 1 sheets to process
+2015-07-14 10:12:03,355 modules.tablinker.tablinker INFO     [VT_1899_07_H1] Found 1 sheets to process
+2015-07-14 10:12:24,080 modules.tablinker.tablinker INFO     [VT_1889_13_H1] Saving 119540 data triples
+2015-07-14 10:12:27,876 modules.tablinker.tablinker INFO     [VT_1899_07_H1] Saving 124977 data triples
+2015-07-14 10:12:30,846 modules.tablinker.tablinker INFO     [VT_1889_09_H1] Saving 194323 data triples
+2015-07-14 10:12:35,277 integrat     INFO     [VT_1899_06_H1] Calling TabLinker
+2015-07-14 10:12:35,278 modules.tablinker.tablinker INFO     [VT_1899_06_H1] Loading source-data/VT_1899_06_H1.ods
+2015-07-14 10:12:40,509 modules.tablinker.tablinker INFO     [VT_1899_06_H1] Found 1 sheets to process
+2015-07-14 10:12:50,100 integrat     INFO     [VT_1899_04_H1] Calling TabLinker
+2015-07-14 10:12:50,101 modules.tablinker.tablinker INFO     [VT_1899_04_H1] Loading source-data/VT_1899_04_H1.ods
+2015-07-14 10:12:51,358 integrat     INFO     [VT_1899_09_H1] Calling TabLinker
+2015-07-14 10:12:51,358 modules.tablinker.tablinker INFO     [VT_1899_09_H1] Loading source-data/VT_1899_09_H1.ods
+2015-07-14 10:12:51,892 modules.tablinker.tablinker INFO     [VT_1899_06_H1] Saving 60891 data triples
+2015-07-14 10:12:52,439 integrat     INFO     [VT_1899_02_H1] Calling TabLinker
+2015-07-14 10:12:52,440 modules.tablinker.tablinker INFO     [VT_1899_02_H1] Loading source-data/VT_1899_02_H1.ods
+2015-07-14 10:13:01,304 modules.tablinker.tablinker INFO     [VT_1899_09_H1] Found 1 sheets to process
+2015-07-14 10:13:03,902 modules.tablinker.tablinker INFO     [VT_1899_04_H1] Found 1 sheets to process
+2015-07-14 10:13:04,432 modules.tablinker.tablinker INFO     [VT_1899_02_H1] Found 1 sheets to process
+2015-07-14 10:13:09,583 integrat     INFO     [VT_1899_11_H1] Calling TabLinker
+2015-07-14 10:13:09,584 modules.tablinker.tablinker INFO     [VT_1899_11_H1] Loading source-data/VT_1899_11_H1.ods
+2015-07-14 10:13:15,008 integrat     INFO     [VT_1899_08_H1] Calling TabLinker
+2015-07-14 10:13:15,009 modules.tablinker.tablinker INFO     [VT_1899_08_H1] Loading source-data/VT_1899_08_H1.ods
+2015-07-14 10:13:15,221 integrat     INFO     [VT_1909_01_T] Calling TabLinker
+2015-07-14 10:13:15,222 modules.tablinker.tablinker INFO     [VT_1909_01_T] Loading source-data/VT_1909_01_T.ods
+2015-07-14 10:13:20,943 modules.tablinker.tablinker INFO     [VT_1899_11_H1] Found 1 sheets to process
+2015-07-14 10:13:22,229 modules.tablinker.tablinker INFO     [VT_1899_08_H1] Found 1 sheets to process
+2015-07-14 10:13:22,852 modules.tablinker.tablinker INFO     [VT_1899_09_H1] Saving 109829 data triples
+2015-07-14 10:13:30,497 modules.tablinker.tablinker INFO     [VT_1899_02_H1] Saving 139569 data triples
+2015-07-14 10:13:34,346 modules.tablinker.tablinker INFO     [VT_1899_04_H1] Saving 162337 data triples
+2015-07-14 10:13:37,697 modules.tablinker.tablinker INFO     [VT_1899_08_H1] Saving 81161 data triples
+2015-07-14 10:13:46,032 modules.tablinker.tablinker INFO     [VT_1899_11_H1] Saving 125817 data triples
+2015-07-14 10:13:53,316 integrat     INFO     [VT_1869_01_H1] Calling TabLinker
+2015-07-14 10:13:53,317 modules.tablinker.tablinker INFO     [VT_1869_01_H1] Loading source-data/VT_1869_01_H1.ods
+2015-07-14 10:14:04,601 integrat     INFO     [VT_1899_10_H1] Calling TabLinker
+2015-07-14 10:14:04,602 modules.tablinker.tablinker INFO     [VT_1899_10_H1] Loading source-data/VT_1899_10_H1.ods
+2015-07-14 10:14:10,175 modules.tablinker.tablinker INFO     [VT_1899_10_H1] Found 1 sheets to process
+2015-07-14 10:14:19,839 modules.tablinker.tablinker INFO     [VT_1899_10_H1] Saving 59987 data triples
+2015-07-14 10:14:21,230 modules.tablinker.tablinker INFO     [VT_1909_01_T] Found 1 sheets to process
+2015-07-14 10:14:27,248 integrat     INFO     [VT_1899_12_H1] Calling TabLinker
+2015-07-14 10:14:27,249 modules.tablinker.tablinker INFO     [VT_1899_12_H1] Loading source-data/VT_1899_12_H1.ods
+2015-07-14 10:14:27,915 modules.tablinker.tablinker INFO     [VT_1899_12_H1] Found 1 sheets to process
+2015-07-14 10:14:29,018 modules.tablinker.tablinker INFO     [VT_1899_12_H1] Saving 9658 data triples
+2015-07-14 10:14:43,087 modules.tablinker.tablinker INFO     [VT_1869_01_H1] Found 12 sheets to process
+2015-07-14 10:15:31,307 modules.tablinker.tablinker INFO     [VT_1909_01_T] Saving 639687 data triples
+2015-07-14 10:16:02,942 modules.tablinker.tablinker INFO     [VT_1869_01_H1] Saving 895298 data triples
+2015-07-14 10:17:30,285 integrat     INFO     [VT_1920_01_T] Calling TabLinker
+2015-07-14 10:17:30,285 modules.tablinker.tablinker INFO     [VT_1920_01_T] Loading source-data/VT_1920_01_T.ods
+2015-07-14 10:18:21,598 modules.tablinker.tablinker INFO     [VT_1920_01_T] Found 3 sheets to process
+2015-07-14 10:20:06,295 modules.tablinker.tablinker INFO     [VT_1920_01_T] Saving 813792 data triples
+2015-07-14 10:22:34,409 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Cleaning the content of the graph 
+2015-07-14 10:23:00,609 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading files in raw-data/
+2015-07-14 10:23:00,609 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1859_01_H1.ttl.bz2
+2015-07-14 10:23:39,955 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1869_01_H1.ttl.bz2
+2015-07-14 10:24:35,668 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_01_H1.ttl.bz2
+2015-07-14 10:24:45,553 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_02_H1.ttl.bz2
+2015-07-14 10:24:50,455 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_03_H1.ttl.bz2
+2015-07-14 10:24:59,235 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_04_H1.ttl.bz2
+2015-07-14 10:25:03,536 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_05_H1.ttl.bz2
+2015-07-14 10:25:12,441 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_06_H1.ttl.bz2
+2015-07-14 10:25:19,383 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_07_H1.ttl.bz2
+2015-07-14 10:25:23,974 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_08_H1.ttl.bz2
+2015-07-14 10:25:38,803 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_09_H1.ttl.bz2
+2015-07-14 10:25:50,184 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_10_H1.ttl.bz2
+2015-07-14 10:26:01,922 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1879_11_H1.ttl.bz2
+2015-07-14 10:26:13,436 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_03_H1.ttl.bz2
+2015-07-14 10:26:20,444 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_04_H1.ttl.bz2
+2015-07-14 10:26:29,995 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_05_H1.ttl.bz2
+2015-07-14 10:26:33,387 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_06_H1.ttl.bz2
+2015-07-14 10:26:37,508 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_07_H1.ttl.bz2
+2015-07-14 10:26:45,747 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_08_H1.ttl.bz2
+2015-07-14 10:26:55,260 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_09_H1.ttl.bz2
+2015-07-14 10:27:08,262 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_10_H1.ttl.bz2
+2015-07-14 10:27:14,322 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_11_H1.ttl.bz2
+2015-07-14 10:27:18,237 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_12_H1.ttl.bz2
+2015-07-14 10:27:28,225 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1889_13_H1.ttl.bz2
+2015-07-14 10:27:36,167 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_01_H1.ttl.bz2
+2015-07-14 10:27:49,842 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_02_H1.ttl.bz2
+2015-07-14 10:27:59,018 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_03_H1.ttl.bz2
+2015-07-14 10:28:12,021 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_04_H1.ttl.bz2
+2015-07-14 10:28:23,122 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_05_H1.ttl.bz2
+2015-07-14 10:28:29,519 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_06_H1.ttl.bz2
+2015-07-14 10:28:33,749 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_07_H1.ttl.bz2
+2015-07-14 10:28:41,861 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_08_H1.ttl.bz2
+2015-07-14 10:28:47,540 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_09_H1.ttl.bz2
+2015-07-14 10:28:55,204 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_10_H1.ttl.bz2
+2015-07-14 10:28:59,336 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_11_H1.ttl.bz2
+2015-07-14 10:29:07,720 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1899_12_H1.ttl.bz2
+2015-07-14 10:29:08,629 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1909_01_T.ttl.bz2
+2015-07-14 10:29:48,960 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Loading raw-data/VT_1920_01_T.ttl.bz2
+2015-07-14 10:30:41,218 integrat     INFO     [<urn:graph:cedar-mini:raw-data>] Done loading data
+2015-07-14 10:30:42,950 integrat     INFO     [VT_1859_01_H1-S0] Calling RulesMaker
+2015-07-14 10:30:42,950 integrat     INFO     [VT_1859_01_H1-S2] Calling RulesMaker
+2015-07-14 10:30:42,950 integrat     INFO     [VT_1859_01_H1-S6] Calling RulesMaker
+2015-07-14 10:30:42,951 integrat     INFO     [VT_1869_01_H1-S0] Calling RulesMaker
+2015-07-14 10:30:42,952 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S0] Loading mappings
+2015-07-14 10:30:42,952 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S2] Loading mappings
+2015-07-14 10:30:42,953 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S6] Loading mappings
+2015-07-14 10:30:42,953 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S0] Loading mappings
+2015-07-14 10:30:45,919 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S2] Loaded 3977 headers
+2015-07-14 10:30:45,970 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S0] Loaded 4886 headers
+2015-07-14 10:30:46,465 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S0] Loaded 1514 headers
+2015-07-14 10:30:46,530 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S6] Loaded 3263 headers
+2015-07-14 10:30:46,922 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S0] Saving 4704 triples.
+2015-07-14 10:30:47,224 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S2] Saving 13692 triples.
+2015-07-14 10:30:47,500 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S6] Saving 9964 triples.
+2015-07-14 10:30:47,534 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S0] Saving 16292 triples.
+2015-07-14 10:30:48,006 integrat     INFO     [VT_1869_01_H1-S1] Calling RulesMaker
+2015-07-14 10:30:48,007 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S1] Loading mappings
+2015-07-14 10:30:49,582 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S1] Loaded 1356 headers
+2015-07-14 10:30:49,857 integrat     INFO     [VT_1859_01_H1-S7] Calling RulesMaker
+2015-07-14 10:30:49,857 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S7] Loading mappings
+2015-07-14 10:30:49,919 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S1] Saving 3272 triples.
+2015-07-14 10:30:50,460 integrat     INFO     [VT_1859_01_H1-S3] Calling RulesMaker
+2015-07-14 10:30:50,461 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S3] Loading mappings
+2015-07-14 10:30:50,677 integrat     INFO     [VT_1869_01_H1-S10] Calling RulesMaker
+2015-07-14 10:30:50,678 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S10] Loading mappings
+2015-07-14 10:30:51,434 integrat     INFO     [VT_1859_01_H1-S1] Calling RulesMaker
+2015-07-14 10:30:51,435 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S1] Loading mappings
+2015-07-14 10:30:51,539 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S7] Loaded 1970 headers
+2015-07-14 10:30:52,105 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S3] Loaded 3091 headers
+2015-07-14 10:30:52,157 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S7] Saving 6445 triples.
+2015-07-14 10:30:52,357 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S10] Loaded 1468 headers
+2015-07-14 10:30:53,031 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S10] Saving 3320 triples.
+2015-07-14 10:30:53,084 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S3] Saving 10468 triples.
+2015-07-14 10:30:53,084 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S1] Loaded 3815 headers
+2015-07-14 10:30:54,287 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S1] Saving 12478 triples.
+2015-07-14 10:30:54,539 integrat     INFO     [VT_1869_01_H1-S11] Calling RulesMaker
+2015-07-14 10:30:54,540 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S11] Loading mappings
+2015-07-14 10:30:54,985 integrat     INFO     [VT_1859_01_H1-S8] Calling RulesMaker
+2015-07-14 10:30:54,986 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S8] Loading mappings
+2015-07-14 10:30:55,554 integrat     INFO     [VT_1859_01_H1-S4] Calling RulesMaker
+2015-07-14 10:30:55,555 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S4] Loading mappings
+2015-07-14 10:30:57,111 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S4] Loaded 2303 headers
+2015-07-14 10:30:57,161 integrat     INFO     [VT_1859_01_H1-S10] Calling RulesMaker
+2015-07-14 10:30:57,161 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S10] Loading mappings
+2015-07-14 10:30:57,292 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S11] Loaded 83 headers
+2015-07-14 10:30:57,345 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S11] Saving 288 triples.
+2015-07-14 10:30:57,499 integrat     INFO     [VT_1869_01_H1-S2] Calling RulesMaker
+2015-07-14 10:30:57,500 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S2] Loading mappings
+2015-07-14 10:30:57,938 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S8] Loaded 2276 headers
+2015-07-14 10:30:58,332 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S4] Saving 14172 triples.
+2015-07-14 10:30:58,843 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S10] Loaded 3602 headers
+2015-07-14 10:30:59,149 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S8] Saving 13612 triples.
+2015-07-14 10:30:59,289 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S2] Loaded 1187 headers
+2015-07-14 10:30:59,678 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S2] Saving 4160 triples.
+2015-07-14 10:30:59,959 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S10] Saving 11692 triples.
+2015-07-14 10:31:00,643 integrat     INFO     [VT_1869_01_H1-S3] Calling RulesMaker
+2015-07-14 10:31:00,643 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S3] Loading mappings
+2015-07-14 10:31:01,673 integrat     INFO     [VT_1859_01_H1-S5] Calling RulesMaker
+2015-07-14 10:31:01,674 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S5] Loading mappings
+2015-07-14 10:31:02,203 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S3] Loaded 1375 headers
+2015-07-14 10:31:02,385 integrat     INFO     [VT_1859_01_H1-S9] Calling RulesMaker
+2015-07-14 10:31:02,386 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S9] Loading mappings
+2015-07-14 10:31:02,581 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S3] Saving 3752 triples.
+2015-07-14 10:31:02,720 integrat     INFO     [VT_1859_01_H1-S11] Calling RulesMaker
+2015-07-14 10:31:02,720 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S11] Loading mappings
+2015-07-14 10:31:03,292 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S5] Loaded 1376 headers
+2015-07-14 10:31:03,490 integrat     INFO     [VT_1869_01_H1-S4] Calling RulesMaker
+2015-07-14 10:31:03,491 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S4] Loading mappings
+2015-07-14 10:31:03,951 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S9] Loaded 1463 headers
+2015-07-14 10:31:04,002 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S5] Saving 8476 triples.
+2015-07-14 10:31:04,386 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S9] Saving 4668 triples.
+2015-07-14 10:31:04,522 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S11] Loaded 338 headers
+2015-07-14 10:31:04,592 modules.rules.rulesmaker INFO     [VT_1859_01_H1-S11] Saving 596 triples.
+2015-07-14 10:31:04,743 integrat     INFO     [VT_1869_01_H1-S6] Calling RulesMaker
+2015-07-14 10:31:04,743 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S6] Loading mappings
+2015-07-14 10:31:05,327 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S4] Loaded 644 headers
+2015-07-14 10:31:05,485 integrat     INFO     [VT_1879_01_H1-S0] Calling RulesMaker
+2015-07-14 10:31:05,486 modules.rules.rulesmaker INFO     [VT_1879_01_H1-S0] Loading mappings
+2015-07-14 10:31:05,581 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S4] Saving 2848 triples.
+2015-07-14 10:31:05,992 integrat     INFO     [VT_1879_05_H1-S0] Calling RulesMaker
+2015-07-14 10:31:05,993 modules.rules.rulesmaker INFO     [VT_1879_05_H1-S0] Loading mappings
+2015-07-14 10:31:06,240 integrat     INFO     [VT_1869_01_H1-S5] Calling RulesMaker
+2015-07-14 10:31:06,241 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S5] Loading mappings
+2015-07-14 10:31:06,274 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S6] Loaded 712 headers
+2015-07-14 10:31:06,479 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S6] Saving 1504 triples.
+2015-07-14 10:31:06,836 integrat     INFO     [VT_1869_01_H1-S7] Calling RulesMaker
+2015-07-14 10:31:06,837 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S7] Loading mappings
+2015-07-14 10:31:07,275 modules.rules.rulesmaker INFO     [VT_1879_01_H1-S0] Loaded 4130 headers
+2015-07-14 10:31:07,742 modules.rules.rulesmaker INFO     [VT_1879_05_H1-S0] Loaded 3545 headers
+2015-07-14 10:31:07,764 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S5] Loaded 403 headers
+2015-07-14 10:31:08,016 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S5] Saving 1824 triples.
+2015-07-14 10:31:08,557 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S7] Loaded 390 headers
+2015-07-14 10:31:08,700 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S7] Saving 1568 triples.
+2015-07-14 10:31:08,768 modules.rules.rulesmaker INFO     [VT_1879_01_H1-S0] Saving 15740 triples.
+2015-07-14 10:31:08,877 integrat     INFO     [VT_1879_09_H1-S0] Calling RulesMaker
+2015-07-14 10:31:08,878 modules.rules.rulesmaker INFO     [VT_1879_09_H1-S0] Loading mappings
+2015-07-14 10:31:09,062 integrat     INFO     [VT_1869_01_H1-S8] Calling RulesMaker
+2015-07-14 10:31:09,063 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S8] Loading mappings
+2015-07-14 10:31:10,483 modules.rules.rulesmaker INFO     [VT_1879_05_H1-S0] Saving 16254 triples.
+2015-07-14 10:31:10,571 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S8] Loaded 779 headers
+2015-07-14 10:31:10,752 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S8] Saving 1752 triples.
+2015-07-14 10:31:11,154 integrat     INFO     [VT_1869_01_H1-S9] Calling RulesMaker
+2015-07-14 10:31:11,154 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S9] Loading mappings
+2015-07-14 10:31:11,990 modules.rules.rulesmaker INFO     [VT_1879_09_H1-S0] Loaded 4058 headers
+2015-07-14 10:31:12,428 integrat     INFO     [VT_1879_02_H1-S0] Calling RulesMaker
+2015-07-14 10:31:12,428 modules.rules.rulesmaker INFO     [VT_1879_02_H1-S0] Loading mappings
+2015-07-14 10:31:13,454 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S9] Loaded 621 headers
+2015-07-14 10:31:13,703 modules.rules.rulesmaker INFO     [VT_1869_01_H1-S9] Saving 1088 triples.
+2015-07-14 10:31:14,003 modules.rules.rulesmaker INFO     [VT_1879_02_H1-S0] Loaded 1790 headers
+2015-07-14 10:31:14,215 integrat     INFO     [VT_1889_04_H1-S0] Calling RulesMaker
+2015-07-14 10:31:14,216 modules.rules.rulesmaker INFO     [VT_1889_04_H1-S0] Loading mappings
+2015-07-14 10:31:14,272 modules.rules.rulesmaker INFO     [VT_1879_09_H1-S0] Saving 17970 triples.
+2015-07-14 10:31:14,730 modules.rules.rulesmaker INFO     [VT_1879_02_H1-S0] Saving 8286 triples.
+2015-07-14 10:31:16,244 integrat     INFO     [VT_1879_06_H1-S0] Calling RulesMaker
+2015-07-14 10:31:16,245 modules.rules.rulesmaker INFO     [VT_1879_06_H1-S0] Loading mappings
+2015-07-14 10:31:16,630 integrat     INFO     [VT_1879_03_H1-S0] Calling RulesMaker
+2015-07-14 10:31:16,631 modules.rules.rulesmaker INFO     [VT_1879_03_H1-S0] Loading mappings
+2015-07-14 10:31:17,282 modules.rules.rulesmaker INFO     [VT_1889_04_H1-S0] Loaded 2324 headers
+2015-07-14 10:31:17,950 modules.rules.rulesmaker INFO     [VT_1889_04_H1-S0] Saving 1986 triples.
+2015-07-14 10:31:18,286 modules.rules.rulesmaker INFO     [VT_1879_03_H1-S0] Loaded 3769 headers
+2015-07-14 10:31:18,449 integrat     INFO     [VT_1879_10_H1-S0] Calling RulesMaker
+2015-07-14 10:31:18,450 modules.rules.rulesmaker INFO     [VT_1879_10_H1-S0] Loading mappings
+2015-07-14 10:31:18,879 integrat     INFO     [VT_1889_05_H1-S0] Calling RulesMaker
+2015-07-14 10:31:18,880 modules.rules.rulesmaker INFO     [VT_1889_05_H1-S0] Loading mappings
+2015-07-14 10:31:19,106 modules.rules.rulesmaker INFO     [VT_1879_06_H1-S0] Loaded 2516 headers
+2015-07-14 10:31:19,706 modules.rules.rulesmaker INFO     [VT_1879_03_H1-S0] Saving 15684 triples.
+2015-07-14 10:31:20,183 modules.rules.rulesmaker INFO     [VT_1879_06_H1-S0] Saving 12116 triples.
+2015-07-14 10:31:20,236 modules.rules.rulesmaker INFO     [VT_1879_10_H1-S0] Loaded 4295 headers
+2015-07-14 10:31:20,490 modules.rules.rulesmaker INFO     [VT_1889_05_H1-S0] Loaded 456 headers
+2015-07-14 10:31:20,755 modules.rules.rulesmaker INFO     [VT_1889_05_H1-S0] Saving 1410 triples.
+2015-07-14 10:31:21,186 integrat     INFO     [VT_1889_06_H1-S0] Calling RulesMaker
+2015-07-14 10:31:21,187 modules.rules.rulesmaker INFO     [VT_1889_06_H1-S0] Loading mappings
+2015-07-14 10:31:22,306 modules.rules.rulesmaker INFO     [VT_1879_10_H1-S0] Saving 19820 triples.
+2015-07-14 10:31:22,718 modules.rules.rulesmaker INFO     [VT_1889_06_H1-S0] Loaded 655 headers
+2015-07-14 10:31:22,930 modules.rules.rulesmaker INFO     [VT_1889_06_H1-S0] Saving 2218 triples.
+2015-07-14 10:31:23,037 integrat     INFO     [VT_1879_07_H1-S0] Calling RulesMaker
+2015-07-14 10:31:23,038 modules.rules.rulesmaker INFO     [VT_1879_07_H1-S0] Loading mappings
+2015-07-14 10:31:23,407 integrat     INFO     [VT_1879_04_H1-S0] Calling RulesMaker
+2015-07-14 10:31:23,408 modules.rules.rulesmaker INFO     [VT_1879_04_H1-S0] Loading mappings
+2015-07-14 10:31:23,450 integrat     INFO     [VT_1889_07_H1-S0] Calling RulesMaker
+2015-07-14 10:31:23,451 modules.rules.rulesmaker INFO     [VT_1889_07_H1-S0] Loading mappings
+2015-07-14 10:31:24,699 modules.rules.rulesmaker INFO     [VT_1879_07_H1-S0] Loaded 1769 headers
+2015-07-14 10:31:25,053 modules.rules.rulesmaker INFO     [VT_1879_04_H1-S0] Loaded 1845 headers
+2015-07-14 10:31:25,143 modules.rules.rulesmaker INFO     [VT_1889_07_H1-S0] Loaded 1289 headers
+2015-07-14 10:31:25,783 modules.rules.rulesmaker INFO     [VT_1889_07_H1-S0] Saving 4378 triples.
+2015-07-14 10:31:26,036 modules.rules.rulesmaker INFO     [VT_1879_07_H1-S0] Saving 7978 triples.
+2015-07-14 10:31:26,414 modules.rules.rulesmaker INFO     [VT_1879_04_H1-S0] Saving 8088 triples.
+2015-07-14 10:31:26,771 integrat     INFO     [VT_1889_08_H1-S0] Calling RulesMaker
+2015-07-14 10:31:26,772 modules.rules.rulesmaker INFO     [VT_1889_08_H1-S0] Loading mappings
+2015-07-14 10:31:27,379 integrat     INFO     [VT_1879_11_H1-S0] Calling RulesMaker
+2015-07-14 10:31:27,379 modules.rules.rulesmaker INFO     [VT_1879_11_H1-S0] Loading mappings
+2015-07-14 10:31:28,319 modules.rules.rulesmaker INFO     [VT_1889_08_H1-S0] Loaded 1479 headers
+2015-07-14 10:31:28,784 modules.rules.rulesmaker INFO     [VT_1889_08_H1-S0] Saving 5002 triples.
+2015-07-14 10:31:29,084 modules.rules.rulesmaker INFO     [VT_1879_11_H1-S0] Loaded 4192 headers
+2015-07-14 10:31:29,649 integrat     INFO     [VT_1879_08_H1-S0] Calling RulesMaker
+2015-07-14 10:31:29,650 modules.rules.rulesmaker INFO     [VT_1879_08_H1-S0] Loading mappings
+2015-07-14 10:31:29,919 integrat     INFO     [VT_1889_09_H1-S0] Calling RulesMaker
+2015-07-14 10:31:29,920 modules.rules.rulesmaker INFO     [VT_1889_09_H1-S0] Loading mappings
+2015-07-14 10:31:30,113 integrat     INFO     [VT_1889_12_H1-S0] Calling RulesMaker
+2015-07-14 10:31:30,114 modules.rules.rulesmaker INFO     [VT_1889_12_H1-S0] Loading mappings
+2015-07-14 10:31:30,700 modules.rules.rulesmaker INFO     [VT_1879_11_H1-S0] Saving 18158 triples.
+2015-07-14 10:31:31,540 modules.rules.rulesmaker INFO     [VT_1889_09_H1-S0] Loaded 2303 headers
+2015-07-14 10:31:32,348 modules.rules.rulesmaker INFO     [VT_1889_12_H1-S0] Loaded 1812 headers
+2015-07-14 10:31:32,688 modules.rules.rulesmaker INFO     [VT_1889_09_H1-S0] Saving 6726 triples.
+2015-07-14 10:31:32,761 modules.rules.rulesmaker INFO     [VT_1879_08_H1-S0] Loaded 5339 headers
+2015-07-14 10:31:33,446 modules.rules.rulesmaker INFO     [VT_1889_12_H1-S0] Saving 6058 triples.
+2015-07-14 10:31:34,345 integrat     INFO     [VT_1889_10_H1-S0] Calling RulesMaker
+2015-07-14 10:31:34,345 modules.rules.rulesmaker INFO     [VT_1889_10_H1-S0] Loading mappings
+2015-07-14 10:31:35,497 integrat     INFO     [VT_1889_03_H1-S0] Calling RulesMaker
+2015-07-14 10:31:35,497 modules.rules.rulesmaker INFO     [VT_1889_03_H1-S0] Loading mappings
+2015-07-14 10:31:35,911 modules.rules.rulesmaker INFO     [VT_1889_10_H1-S0] Loaded 1045 headers
+2015-07-14 10:31:36,203 integrat     INFO     [VT_1889_13_H1-S0] Calling RulesMaker
+2015-07-14 10:31:36,204 modules.rules.rulesmaker INFO     [VT_1889_13_H1-S0] Loading mappings
+2015-07-14 10:31:36,590 modules.rules.rulesmaker INFO     [VT_1889_10_H1-S0] Saving 3880 triples.
+2015-07-14 10:31:36,601 modules.rules.rulesmaker INFO     [VT_1879_08_H1-S0] Saving 24606 triples.
+2015-07-14 10:31:37,372 modules.rules.rulesmaker INFO     [VT_1889_03_H1-S0] Loaded 1039 headers
+2015-07-14 10:31:37,486 integrat     INFO     [VT_1889_11_H1-S0] Calling RulesMaker
+2015-07-14 10:31:37,487 modules.rules.rulesmaker INFO     [VT_1889_11_H1-S0] Loading mappings
+2015-07-14 10:31:37,615 modules.rules.rulesmaker INFO     [VT_1889_03_H1-S0] Saving 2266 triples.
+2015-07-14 10:31:38,131 integrat     INFO     [VT_1899_03_H1-S0] Calling RulesMaker
+2015-07-14 10:31:38,132 modules.rules.rulesmaker INFO     [VT_1899_03_H1-S0] Loading mappings
+2015-07-14 10:31:39,028 modules.rules.rulesmaker INFO     [VT_1889_11_H1-S0] Loaded 691 headers
+2015-07-14 10:31:39,107 modules.rules.rulesmaker INFO     [VT_1889_13_H1-S0] Loaded 1075 headers
+2015-07-14 10:31:39,266 modules.rules.rulesmaker INFO     [VT_1889_11_H1-S0] Saving 2562 triples.
+2015-07-14 10:31:39,850 modules.rules.rulesmaker INFO     [VT_1889_13_H1-S0] Saving 4290 triples.
+2015-07-14 10:31:39,857 integrat     INFO     [VT_1899_07_H1-S0] Calling RulesMaker
+2015-07-14 10:31:39,858 modules.rules.rulesmaker INFO     [VT_1899_07_H1-S0] Loading mappings
+2015-07-14 10:31:39,980 modules.rules.rulesmaker INFO     [VT_1899_03_H1-S0] Loaded 8366 headers
+2015-07-14 10:31:41,597 modules.rules.rulesmaker INFO     [VT_1899_07_H1-S0] Loaded 5648 headers
+2015-07-14 10:31:41,756 integrat     INFO     [VT_1899_01_H1-S0] Calling RulesMaker
+2015-07-14 10:31:41,757 modules.rules.rulesmaker INFO     [VT_1899_01_H1-S0] Loading mappings
+2015-07-14 10:31:42,366 modules.rules.rulesmaker INFO     [VT_1899_03_H1-S0] Saving 24064 triples.
+2015-07-14 10:31:43,115 modules.rules.rulesmaker INFO     [VT_1899_07_H1-S0] Saving 15432 triples.
+2015-07-14 10:31:45,236 modules.rules.rulesmaker INFO     [VT_1899_01_H1-S0] Loaded 9634 headers
+2015-07-14 10:31:46,364 integrat     INFO     [VT_1899_11_H1-S0] Calling RulesMaker
+2015-07-14 10:31:46,364 modules.rules.rulesmaker INFO     [VT_1899_11_H1-S0] Loading mappings
+2015-07-14 10:31:47,958 integrat     INFO     [VT_1899_04_H1-S0] Calling RulesMaker
+2015-07-14 10:31:47,958 modules.rules.rulesmaker INFO     [VT_1899_04_H1-S0] Loading mappings
+2015-07-14 10:31:48,099 modules.rules.rulesmaker INFO     [VT_1899_11_H1-S0] Loaded 5822 headers
+2015-07-14 10:31:48,479 integrat     INFO     [VT_1899_08_H1-S0] Calling RulesMaker
+2015-07-14 10:31:48,480 modules.rules.rulesmaker INFO     [VT_1899_08_H1-S0] Loading mappings
+2015-07-14 10:31:49,717 modules.rules.rulesmaker INFO     [VT_1899_11_H1-S0] Saving 16512 triples.
+2015-07-14 10:31:49,906 modules.rules.rulesmaker INFO     [VT_1899_04_H1-S0] Loaded 7083 headers
+2015-07-14 10:31:49,916 modules.rules.rulesmaker INFO     [VT_1899_01_H1-S0] Saving 23184 triples.
+2015-07-14 10:31:50,688 modules.rules.rulesmaker INFO     [VT_1899_08_H1-S0] Loaded 3469 headers
+2015-07-14 10:31:51,873 modules.rules.rulesmaker INFO     [VT_1899_04_H1-S0] Saving 19920 triples.
+2015-07-14 10:31:52,501 modules.rules.rulesmaker INFO     [VT_1899_08_H1-S0] Saving 9440 triples.
+2015-07-14 10:31:53,595 integrat     INFO     [VT_1899_12_H1-S0] Calling RulesMaker
+2015-07-14 10:31:53,596 modules.rules.rulesmaker INFO     [VT_1899_12_H1-S0] Loading mappings
+2015-07-14 10:31:55,050 modules.rules.rulesmaker INFO     [VT_1899_12_H1-S0] Loaded 222 headers
+2015-07-14 10:31:55,114 modules.rules.rulesmaker INFO     [VT_1899_12_H1-S0] Saving 329 triples.
+2015-07-14 10:31:55,280 integrat     INFO     [VT_1909_01_T-S0] Calling RulesMaker
+2015-07-14 10:31:55,281 modules.rules.rulesmaker INFO     [VT_1909_01_T-S0] Loading mappings
+2015-07-14 10:31:56,541 integrat     INFO     [VT_1899_05_H1-S0] Calling RulesMaker
+2015-07-14 10:31:56,542 modules.rules.rulesmaker INFO     [VT_1899_05_H1-S0] Loading mappings
+2015-07-14 10:31:56,819 integrat     INFO     [VT_1899_09_H1-S0] Calling RulesMaker
+2015-07-14 10:31:56,820 modules.rules.rulesmaker INFO     [VT_1899_09_H1-S0] Loading mappings
+2015-07-14 10:31:57,593 integrat     INFO     [VT_1899_02_H1-S0] Calling RulesMaker
+2015-07-14 10:31:57,593 modules.rules.rulesmaker INFO     [VT_1899_02_H1-S0] Loading mappings
+2015-07-14 10:31:58,252 modules.rules.rulesmaker INFO     [VT_1899_05_H1-S0] Loaded 4080 headers
+2015-07-14 10:31:59,052 modules.rules.rulesmaker INFO     [VT_1909_01_T-S0] Loaded 15323 headers
+2015-07-14 10:31:59,195 modules.rules.rulesmaker INFO     [VT_1899_09_H1-S0] Loaded 5245 headers
+2015-07-14 10:31:59,658 modules.rules.rulesmaker INFO     [VT_1899_05_H1-S0] Saving 12088 triples.
+2015-07-14 10:31:59,852 modules.rules.rulesmaker INFO     [VT_1899_02_H1-S0] Loaded 5921 headers
+2015-07-14 10:32:00,588 modules.rules.rulesmaker INFO     [VT_1899_09_H1-S0] Saving 13368 triples.
+2015-07-14 10:32:03,055 modules.rules.rulesmaker INFO     [VT_1899_02_H1-S0] Saving 16672 triples.
+2015-07-14 10:32:03,101 integrat     INFO     [VT_1899_06_H1-S0] Calling RulesMaker
+2015-07-14 10:32:03,101 modules.rules.rulesmaker INFO     [VT_1899_06_H1-S0] Loading mappings
+2015-07-14 10:32:03,689 integrat     INFO     [VT_1899_10_H1-S0] Calling RulesMaker
+2015-07-14 10:32:03,690 modules.rules.rulesmaker INFO     [VT_1899_10_H1-S0] Loading mappings
+2015-07-14 10:32:04,709 modules.rules.rulesmaker INFO     [VT_1899_06_H1-S0] Loaded 2541 headers
+2015-07-14 10:32:05,492 modules.rules.rulesmaker INFO     [VT_1899_10_H1-S0] Loaded 2913 headers
+2015-07-14 10:32:05,547 modules.rules.rulesmaker INFO     [VT_1899_06_H1-S0] Saving 7784 triples.
+2015-07-14 10:32:06,365 modules.rules.rulesmaker INFO     [VT_1899_10_H1-S0] Saving 7648 triples.
+2015-07-14 10:32:07,446 integrat     INFO     [VT_1920_01_T-S1] Calling RulesMaker
+2015-07-14 10:32:07,447 modules.rules.rulesmaker INFO     [VT_1920_01_T-S1] Loading mappings
+2015-07-14 10:32:08,924 modules.rules.rulesmaker INFO     [VT_1920_01_T-S1] Loaded 92 headers
+2015-07-14 10:32:08,948 modules.rules.rulesmaker INFO     [VT_1920_01_T-S1] Saving 67 triples.
+2015-07-14 10:32:08,995 integrat     INFO     [VT_1920_01_T-S2] Calling RulesMaker
+2015-07-14 10:32:08,996 modules.rules.rulesmaker INFO     [VT_1920_01_T-S2] Loading mappings
+2015-07-14 10:32:11,671 modules.rules.rulesmaker INFO     [VT_1920_01_T-S2] Loaded 188 headers
+2015-07-14 10:32:11,896 modules.rules.rulesmaker INFO     [VT_1920_01_T-S2] Saving 1530 triples.
+2015-07-14 10:32:12,790 modules.rules.rulesmaker INFO     [VT_1909_01_T-S0] Saving 109330 triples.
+2015-07-14 10:32:38,367 integrat     INFO     [VT_1920_01_T-S0] Calling RulesMaker
+2015-07-14 10:32:38,368 modules.rules.rulesmaker INFO     [VT_1920_01_T-S0] Loading mappings
+2015-07-14 10:32:40,888 modules.rules.rulesmaker INFO     [VT_1920_01_T-S0] Loaded 19131 headers
+2015-07-14 10:32:43,503 modules.rules.rulesmaker INFO     [VT_1920_01_T-S0] Saving 16648 triples.
+2015-07-14 10:32:47,248 integrat     INFO     [<urn:graph:cedar-mini:rules>] Cleaning the content of the graph 
+2015-07-14 10:32:51,087 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading files in rules/
+2015-07-14 10:32:51,088 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S0.ttl.bz2
+2015-07-14 10:32:52,368 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S1.ttl.bz2
+2015-07-14 10:32:53,478 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S10.ttl.bz2
+2015-07-14 10:32:54,398 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S11.ttl.bz2
+2015-07-14 10:32:54,616 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S2.ttl.bz2
+2015-07-14 10:32:55,735 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S3.ttl.bz2
+2015-07-14 10:32:56,610 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S4.ttl.bz2
+2015-07-14 10:32:57,702 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S5.ttl.bz2
+2015-07-14 10:32:58,393 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S6.ttl.bz2
+2015-07-14 10:32:59,361 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S7.ttl.bz2
+2015-07-14 10:32:59,952 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S8.ttl.bz2
+2015-07-14 10:33:00,941 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1859_01_H1-S9.ttl.bz2
+2015-07-14 10:33:01,379 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S0.ttl.bz2
+2015-07-14 10:33:01,817 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S1.ttl.bz2
+2015-07-14 10:33:02,251 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S10.ttl.bz2
+2015-07-14 10:33:02,688 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S11.ttl.bz2
+2015-07-14 10:33:02,807 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S2.ttl.bz2
+2015-07-14 10:33:03,147 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S3.ttl.bz2
+2015-07-14 10:33:03,582 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S4.ttl.bz2
+2015-07-14 10:33:03,928 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S5.ttl.bz2
+2015-07-14 10:33:04,272 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S6.ttl.bz2
+2015-07-14 10:33:04,605 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S7.ttl.bz2
+2015-07-14 10:33:04,941 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S8.ttl.bz2
+2015-07-14 10:33:05,269 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1869_01_H1-S9.ttl.bz2
+2015-07-14 10:33:05,599 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_01_H1-S0.ttl.bz2
+2015-07-14 10:33:06,742 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_02_H1-S0.ttl.bz2
+2015-07-14 10:33:07,422 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_03_H1-S0.ttl.bz2
+2015-07-14 10:33:08,557 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_04_H1-S0.ttl.bz2
+2015-07-14 10:33:09,223 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_05_H1-S0.ttl.bz2
+2015-07-14 10:33:10,363 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_06_H1-S0.ttl.bz2
+2015-07-14 10:33:11,241 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_07_H1-S0.ttl.bz2
+2015-07-14 10:33:11,900 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_08_H1-S0.ttl.bz2
+2015-07-14 10:33:13,496 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_09_H1-S0.ttl.bz2
+2015-07-14 10:33:14,806 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_10_H1-S0.ttl.bz2
+2015-07-14 10:33:16,268 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1879_11_H1-S0.ttl.bz2
+2015-07-14 10:33:17,611 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_03_H1-S0.ttl.bz2
+2015-07-14 10:33:17,949 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_04_H1-S0.ttl.bz2
+2015-07-14 10:33:18,288 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_05_H1-S0.ttl.bz2
+2015-07-14 10:33:18,617 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_06_H1-S0.ttl.bz2
+2015-07-14 10:33:18,960 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_07_H1-S0.ttl.bz2
+2015-07-14 10:33:19,529 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_08_H1-S0.ttl.bz2
+2015-07-14 10:33:20,095 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_09_H1-S0.ttl.bz2
+2015-07-14 10:33:20,683 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_10_H1-S0.ttl.bz2
+2015-07-14 10:33:21,234 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_11_H1-S0.ttl.bz2
+2015-07-14 10:33:21,581 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_12_H1-S0.ttl.bz2
+2015-07-14 10:33:22,148 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1889_13_H1-S0.ttl.bz2
+2015-07-14 10:33:22,604 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_01_H1-S0.ttl.bz2
+2015-07-14 10:33:24,143 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_02_H1-S0.ttl.bz2
+2015-07-14 10:33:25,391 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_03_H1-S0.ttl.bz2
+2015-07-14 10:33:26,941 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_04_H1-S0.ttl.bz2
+2015-07-14 10:33:28,300 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_05_H1-S0.ttl.bz2
+2015-07-14 10:33:29,281 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_06_H1-S0.ttl.bz2
+2015-07-14 10:33:29,870 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_07_H1-S0.ttl.bz2
+2015-07-14 10:33:30,973 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_08_H1-S0.ttl.bz2
+2015-07-14 10:33:31,771 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_09_H1-S0.ttl.bz2
+2015-07-14 10:33:32,798 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_10_H1-S0.ttl.bz2
+2015-07-14 10:33:33,352 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_11_H1-S0.ttl.bz2
+2015-07-14 10:33:34,454 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1899_12_H1-S0.ttl.bz2
+2015-07-14 10:33:34,578 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1909_01_T-S0.ttl.bz2
+2015-07-14 10:33:41,537 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1920_01_T-S0.ttl.bz2
+2015-07-14 10:33:42,796 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1920_01_T-S1.ttl.bz2
+2015-07-14 10:33:42,923 integrat     INFO     [<urn:graph:cedar-mini:rules>] Loading rules/VT_1920_01_T-S2.ttl.bz2
+2015-07-14 10:33:43,270 integrat     INFO     [<urn:graph:cedar-mini:rules>] Done loading data
+2015-07-14 10:33:43,281 integrat     INFO     [VT_1879_02_H1.ods] Calling RulesInjector
+2015-07-14 10:33:43,281 integrat     INFO     [VT_1859_01_H1.ods] Calling RulesInjector
+2015-07-14 10:33:43,281 integrat     INFO     [VT_1879_05_H1.ods] Calling RulesInjector
+2015-07-14 10:33:43,281 integrat     INFO     [VT_1879_08_H1.ods] Calling RulesInjector
+2015-07-14 10:33:43,281 modules.rules.rulesinject INFO     [VT_1879_02_H1.ods] Loading source-data/VT_1879_02_H1.ods
+2015-07-14 10:33:43,281 modules.rules.rulesinject INFO     [VT_1879_08_H1.ods] Loading source-data/VT_1879_08_H1.ods
+2015-07-14 10:33:43,281 modules.rules.rulesinject INFO     [VT_1859_01_H1.ods] Loading source-data/VT_1859_01_H1.ods
+2015-07-14 10:33:43,281 modules.rules.rulesinject INFO     [VT_1879_05_H1.ods] Loading source-data/VT_1879_05_H1.ods
+2015-07-14 10:33:46,464 modules.rules.rulesinject INFO     [VT_1879_02_H1.ods] Found 1 sheets to process
+2015-07-14 10:33:51,796 modules.rules.rulesinject INFO     [VT_1879_05_H1.ods] Found 1 sheets to process
+2015-07-14 10:33:54,162 integrat     INFO     [VT_1879_03_H1.ods] Calling RulesInjector
+2015-07-14 10:33:54,163 modules.rules.rulesinject INFO     [VT_1879_03_H1.ods] Loading source-data/VT_1879_03_H1.ods
+2015-07-14 10:33:54,788 modules.rules.rulesinject INFO     [VT_1879_08_H1.ods] Found 1 sheets to process
+2015-07-14 10:33:59,235 integrat     INFO     [VT_1879_06_H1.ods] Calling RulesInjector
+2015-07-14 10:33:59,235 modules.rules.rulesinject INFO     [VT_1879_06_H1.ods] Loading source-data/VT_1879_06_H1.ods
+2015-07-14 10:34:00,839 modules.rules.rulesinject INFO     [VT_1879_03_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:03,901 modules.rules.rulesinject INFO     [VT_1879_06_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:09,319 integrat     INFO     [VT_1879_07_H1.ods] Calling RulesInjector
+2015-07-14 10:34:09,320 modules.rules.rulesinject INFO     [VT_1879_07_H1.ods] Loading source-data/VT_1879_07_H1.ods
+2015-07-14 10:34:10,447 integrat     INFO     [VT_1879_09_H1.ods] Calling RulesInjector
+2015-07-14 10:34:10,448 modules.rules.rulesinject INFO     [VT_1879_09_H1.ods] Loading source-data/VT_1879_09_H1.ods
+2015-07-14 10:34:11,308 modules.rules.rulesinject INFO     [VT_1859_01_H1.ods] Found 12 sheets to process
+2015-07-14 10:34:12,483 modules.rules.rulesinject INFO     [VT_1879_07_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:15,728 integrat     INFO     [VT_1879_04_H1.ods] Calling RulesInjector
+2015-07-14 10:34:15,728 modules.rules.rulesinject INFO     [VT_1879_04_H1.ods] Loading source-data/VT_1879_04_H1.ods
+2015-07-14 10:34:16,982 integrat     INFO     [VT_1879_11_H1.ods] Calling RulesInjector
+2015-07-14 10:34:16,982 modules.rules.rulesinject INFO     [VT_1879_11_H1.ods] Loading source-data/VT_1879_11_H1.ods
+2015-07-14 10:34:22,390 modules.rules.rulesinject INFO     [VT_1879_04_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:23,339 modules.rules.rulesinject INFO     [VT_1879_09_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:24,868 modules.rules.rulesinject INFO     [VT_1879_11_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:28,390 integrat     INFO     [VT_1889_05_H1.ods] Calling RulesInjector
+2015-07-14 10:34:28,390 modules.rules.rulesinject INFO     [VT_1889_05_H1.ods] Loading source-data/VT_1889_05_H1.ods
+2015-07-14 10:34:31,630 modules.rules.rulesinject INFO     [VT_1889_05_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:34,173 integrat     INFO     [VT_1889_03_H1.ods] Calling RulesInjector
+2015-07-14 10:34:34,173 modules.rules.rulesinject INFO     [VT_1889_03_H1.ods] Loading source-data/VT_1889_03_H1.ods
+2015-07-14 10:34:35,281 integrat     INFO     [VT_1889_06_H1.ods] Calling RulesInjector
+2015-07-14 10:34:35,281 modules.rules.rulesinject INFO     [VT_1889_06_H1.ods] Loading source-data/VT_1889_06_H1.ods
+2015-07-14 10:34:36,470 integrat     INFO     [VT_1879_10_H1.ods] Calling RulesInjector
+2015-07-14 10:34:36,470 modules.rules.rulesinject INFO     [VT_1879_10_H1.ods] Loading source-data/VT_1879_10_H1.ods
+2015-07-14 10:34:39,305 modules.rules.rulesinject INFO     [VT_1889_06_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:40,696 modules.rules.rulesinject INFO     [VT_1889_03_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:43,565 integrat     INFO     [VT_1889_07_H1.ods] Calling RulesInjector
+2015-07-14 10:34:43,565 modules.rules.rulesinject INFO     [VT_1889_07_H1.ods] Loading source-data/VT_1889_07_H1.ods
+2015-07-14 10:34:45,368 modules.rules.rulesinject INFO     [VT_1879_10_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:47,479 integrat     INFO     [VT_1889_04_H1.ods] Calling RulesInjector
+2015-07-14 10:34:47,479 modules.rules.rulesinject INFO     [VT_1889_04_H1.ods] Loading source-data/VT_1889_04_H1.ods
+2015-07-14 10:34:51,359 modules.rules.rulesinject INFO     [VT_1889_07_H1.ods] Found 1 sheets to process
+2015-07-14 10:34:54,599 integrat     INFO     [VT_1889_08_H1.ods] Calling RulesInjector
+2015-07-14 10:34:54,599 modules.rules.rulesinject INFO     [VT_1889_08_H1.ods] Loading source-data/VT_1889_08_H1.ods
+2015-07-14 10:34:56,417 modules.rules.rulesinject INFO     [VT_1889_04_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:02,421 integrat     INFO     [VT_1889_11_H1.ods] Calling RulesInjector
+2015-07-14 10:35:02,421 modules.rules.rulesinject INFO     [VT_1889_11_H1.ods] Loading source-data/VT_1889_11_H1.ods
+2015-07-14 10:35:02,524 modules.rules.rulesinject INFO     [VT_1889_08_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:08,031 modules.rules.rulesinject INFO     [VT_1889_11_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:10,792 integrat     INFO     [VT_1889_09_H1.ods] Calling RulesInjector
+2015-07-14 10:35:10,792 modules.rules.rulesinject INFO     [VT_1889_09_H1.ods] Loading source-data/VT_1889_09_H1.ods
+2015-07-14 10:35:14,633 integrat     INFO     [VT_1889_12_H1.ods] Calling RulesInjector
+2015-07-14 10:35:14,634 modules.rules.rulesinject INFO     [VT_1889_12_H1.ods] Loading source-data/VT_1889_12_H1.ods
+2015-07-14 10:35:14,716 integrat     INFO     [VT_1899_01_H1.ods] Calling RulesInjector
+2015-07-14 10:35:14,716 modules.rules.rulesinject INFO     [VT_1899_01_H1.ods] Loading source-data/VT_1899_01_H1.ods
+2015-07-14 10:35:21,174 modules.rules.rulesinject INFO     [VT_1889_09_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:25,740 integrat     INFO     [VT_1869_01_H1.ods] Calling RulesInjector
+2015-07-14 10:35:25,740 modules.rules.rulesinject INFO     [VT_1869_01_H1.ods] Loading source-data/VT_1869_01_H1.ods
+2015-07-14 10:35:30,376 modules.rules.rulesinject INFO     [VT_1889_12_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:31,449 modules.rules.rulesinject INFO     [VT_1899_01_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:32,047 integrat     INFO     [VT_1889_10_H1.ods] Calling RulesInjector
+2015-07-14 10:35:32,047 modules.rules.rulesinject INFO     [VT_1889_10_H1.ods] Loading source-data/VT_1889_10_H1.ods
+2015-07-14 10:35:36,910 modules.rules.rulesinject INFO     [VT_1889_10_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:42,172 integrat     INFO     [VT_1899_04_H1.ods] Calling RulesInjector
+2015-07-14 10:35:42,172 modules.rules.rulesinject INFO     [VT_1899_04_H1.ods] Loading source-data/VT_1899_04_H1.ods
+2015-07-14 10:35:42,336 integrat     INFO     [VT_1889_13_H1.ods] Calling RulesInjector
+2015-07-14 10:35:42,336 modules.rules.rulesinject INFO     [VT_1889_13_H1.ods] Loading source-data/VT_1889_13_H1.ods
+2015-07-14 10:35:46,101 integrat     INFO     [VT_1899_02_H1.ods] Calling RulesInjector
+2015-07-14 10:35:46,101 modules.rules.rulesinject INFO     [VT_1899_02_H1.ods] Loading source-data/VT_1899_02_H1.ods
+2015-07-14 10:35:47,219 modules.rules.rulesinject INFO     [VT_1889_13_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:49,215 modules.rules.rulesinject INFO     [VT_1899_04_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:52,475 integrat     INFO     [VT_1899_07_H1.ods] Calling RulesInjector
+2015-07-14 10:35:52,475 modules.rules.rulesinject INFO     [VT_1899_07_H1.ods] Loading source-data/VT_1899_07_H1.ods
+2015-07-14 10:35:56,932 integrat     INFO     [VT_1899_05_H1.ods] Calling RulesInjector
+2015-07-14 10:35:56,932 modules.rules.rulesinject INFO     [VT_1899_05_H1.ods] Loading source-data/VT_1899_05_H1.ods
+2015-07-14 10:35:57,623 modules.rules.rulesinject INFO     [VT_1899_02_H1.ods] Found 1 sheets to process
+2015-07-14 10:35:58,606 modules.rules.rulesinject INFO     [VT_1899_07_H1.ods] Found 1 sheets to process
+2015-07-14 10:36:01,051 modules.rules.rulesinject INFO     [VT_1899_05_H1.ods] Found 1 sheets to process
+2015-07-14 10:36:05,698 integrat     INFO     [VT_1899_06_H1.ods] Calling RulesInjector
+2015-07-14 10:36:05,698 modules.rules.rulesinject INFO     [VT_1899_06_H1.ods] Loading source-data/VT_1899_06_H1.ods
+2015-07-14 10:36:07,727 integrat     INFO     [VT_1899_03_H1.ods] Calling RulesInjector
+2015-07-14 10:36:07,727 modules.rules.rulesinject INFO     [VT_1899_03_H1.ods] Loading source-data/VT_1899_03_H1.ods
+2015-07-14 10:36:08,165 integrat     INFO     [VT_1899_08_H1.ods] Calling RulesInjector
+2015-07-14 10:36:08,165 modules.rules.rulesinject INFO     [VT_1899_08_H1.ods] Loading source-data/VT_1899_08_H1.ods
+2015-07-14 10:36:08,414 modules.rules.rulesinject INFO     [VT_1899_06_H1.ods] Found 1 sheets to process
+2015-07-14 10:36:14,273 modules.rules.rulesinject INFO     [VT_1899_08_H1.ods] Found 1 sheets to process
+2015-07-14 10:36:14,432 integrat     INFO     [VT_1899_10_H1.ods] Calling RulesInjector
+2015-07-14 10:36:14,432 modules.rules.rulesinject INFO     [VT_1899_10_H1.ods] Loading source-data/VT_1899_10_H1.ods
+2015-07-14 10:36:16,343 modules.rules.rulesinject INFO     [VT_1899_03_H1.ods] Found 1 sheets to process
+2015-07-14 10:36:17,383 modules.rules.rulesinject INFO     [VT_1899_10_H1.ods] Found 1 sheets to process
+2015-07-14 10:36:17,661 modules.rules.rulesinject INFO     [VT_1869_01_H1.ods] Found 12 sheets to process
+2015-07-14 10:36:19,150 integrat     INFO     [VT_1899_09_H1.ods] Calling RulesInjector
+2015-07-14 10:36:19,150 modules.rules.rulesinject INFO     [VT_1899_09_H1.ods] Loading source-data/VT_1899_09_H1.ods
+2015-07-14 10:36:20,710 integrat     INFO     [VT_1899_11_H1.ods] Calling RulesInjector
+2015-07-14 10:36:20,710 modules.rules.rulesinject INFO     [VT_1899_11_H1.ods] Loading source-data/VT_1899_11_H1.ods
+2015-07-14 10:36:25,180 modules.rules.rulesinject INFO     [VT_1899_09_H1.ods] Found 1 sheets to process
+2015-07-14 10:36:26,343 integrat     INFO     [VT_1909_01_T.ods] Calling RulesInjector
+2015-07-14 10:36:26,344 modules.rules.rulesinject INFO     [VT_1909_01_T.ods] Loading source-data/VT_1909_01_T.ods
+2015-07-14 10:36:29,359 modules.rules.rulesinject INFO     [VT_1899_11_H1.ods] Found 1 sheets to process
+2015-07-14 10:36:36,533 integrat     INFO     [VT_1899_12_H1.ods] Calling RulesInjector
+2015-07-14 10:36:36,533 modules.rules.rulesinject INFO     [VT_1899_12_H1.ods] Loading source-data/VT_1899_12_H1.ods
+2015-07-14 10:36:37,183 modules.rules.rulesinject INFO     [VT_1899_12_H1.ods] Found 1 sheets to process
+2015-07-14 10:37:01,459 modules.rules.rulesinject INFO     [VT_1909_01_T.ods] Found 1 sheets to process
+2015-07-14 10:37:15,037 integrat     INFO     [VT_1879_01_H1.ods] Calling RulesInjector
+2015-07-14 10:37:15,037 modules.rules.rulesinject INFO     [VT_1879_01_H1.ods] Loading source-data/VT_1879_01_H1.ods
+2015-07-14 10:37:22,827 modules.rules.rulesinject INFO     [VT_1879_01_H1.ods] Found 1 sheets to process
+2015-07-14 10:37:40,174 integrat     INFO     [VT_1920_01_T.ods] Calling RulesInjector
+2015-07-14 10:37:40,174 modules.rules.rulesinject INFO     [VT_1920_01_T.ods] Loading source-data/VT_1920_01_T.ods
+2015-07-14 10:38:30,312 modules.rules.rulesinject INFO     [VT_1920_01_T.ods] Found 3 sheets to process
+2015-07-14 10:39:20,998 integrat     INFO     [VT_1859_01_H1-S0] Calling CubeMaker
+2015-07-14 10:39:20,998 integrat     INFO     [VT_1859_01_H1-S2] Calling CubeMaker
+2015-07-14 10:39:20,999 integrat     INFO     [VT_1859_01_H1-S6] Calling CubeMaker
+2015-07-14 10:39:20,999 integrat     INFO     [VT_1869_01_H1-S0] Calling CubeMaker
+2015-07-14 10:39:23,892 integrat     INFO     [VT_1859_01_H1-S7] Calling CubeMaker
+2015-07-14 10:39:24,343 integrat     INFO     [VT_1859_01_H1-S3] Calling CubeMaker
+2015-07-14 10:39:25,226 integrat     INFO     [VT_1859_01_H1-S8] Calling CubeMaker
+2015-07-14 10:39:25,284 integrat     INFO     [VT_1859_01_H1-S1] Calling CubeMaker
+2015-07-14 10:39:26,153 integrat     INFO     [VT_1859_01_H1-S4] Calling CubeMaker
+2015-07-14 10:39:27,029 integrat     INFO     [VT_1859_01_H1-S9] Calling CubeMaker
+2015-07-14 10:39:27,277 integrat     INFO     [VT_1859_01_H1-S10] Calling CubeMaker
+2015-07-14 10:39:27,440 integrat     INFO     [VT_1869_01_H1-S1] Calling CubeMaker
+2015-07-14 10:39:27,606 integrat     INFO     [VT_1859_01_H1-S5] Calling CubeMaker
+2015-07-14 10:39:27,822 integrat     INFO     [VT_1869_01_H1-S2] Calling CubeMaker
+2015-07-14 10:39:28,621 integrat     INFO     [VT_1869_01_H1-S6] Calling CubeMaker
+2015-07-14 10:39:29,725 integrat     INFO     [VT_1859_01_H1-S11] Calling CubeMaker
+2015-07-14 10:39:29,990 integrat     INFO     [VT_1879_01_H1-S0] Calling CubeMaker
+2015-07-14 10:39:31,380 integrat     INFO     [VT_1869_01_H1-S7] Calling CubeMaker
+2015-07-14 10:39:32,090 integrat     INFO     [VT_1869_01_H1-S3] Calling CubeMaker
+2015-07-14 10:39:32,827 integrat     INFO     [VT_1869_01_H1-S10] Calling CubeMaker
+2015-07-14 10:39:33,240 integrat     INFO     [VT_1869_01_H1-S8] Calling CubeMaker
+2015-07-14 10:39:35,595 integrat     INFO     [VT_1879_02_H1-S0] Calling CubeMaker
+2015-07-14 10:39:36,775 integrat     INFO     [VT_1869_01_H1-S9] Calling CubeMaker
+2015-07-14 10:39:37,070 integrat     INFO     [VT_1869_01_H1-S11] Calling CubeMaker
+2015-07-14 10:39:37,250 integrat     INFO     [VT_1879_05_H1-S0] Calling CubeMaker
+2015-07-14 10:39:37,667 integrat     INFO     [VT_1869_01_H1-S4] Calling CubeMaker
+2015-07-14 10:39:39,060 integrat     INFO     [VT_1879_09_H1-S0] Calling CubeMaker
+2015-07-14 10:39:39,395 integrat     INFO     [VT_1879_03_H1-S0] Calling CubeMaker
+2015-07-14 10:39:40,321 integrat     INFO     [VT_1869_01_H1-S5] Calling CubeMaker
+2015-07-14 10:39:42,088 integrat     INFO     [VT_1879_06_H1-S0] Calling CubeMaker
+2015-07-14 10:39:42,090 integrat     INFO     [VT_1889_04_H1-S0] Calling CubeMaker
+2015-07-14 10:39:44,220 integrat     INFO     [VT_1879_04_H1-S0] Calling CubeMaker
+2015-07-14 10:39:46,028 integrat     INFO     [VT_1879_07_H1-S0] Calling CubeMaker
+2015-07-14 10:39:47,066 integrat     INFO     [VT_1889_08_H1-S0] Calling CubeMaker
+2015-07-14 10:39:47,273 integrat     INFO     [VT_1879_10_H1-S0] Calling CubeMaker
+2015-07-14 10:39:48,507 integrat     INFO     [VT_1889_05_H1-S0] Calling CubeMaker
+2015-07-14 10:39:49,150 integrat     INFO     [VT_1879_08_H1-S0] Calling CubeMaker
+2015-07-14 10:39:50,704 integrat     INFO     [VT_1889_06_H1-S0] Calling CubeMaker
+2015-07-14 10:39:53,397 integrat     INFO     [VT_1879_11_H1-S0] Calling CubeMaker
+2015-07-14 10:39:53,735 integrat     INFO     [VT_1889_07_H1-S0] Calling CubeMaker
+2015-07-14 10:39:54,041 integrat     INFO     [VT_1889_09_H1-S0] Calling CubeMaker
+2015-07-14 10:39:59,104 integrat     INFO     [VT_1889_12_H1-S0] Calling CubeMaker
+2015-07-14 10:40:00,464 integrat     INFO     [VT_1899_03_H1-S0] Calling CubeMaker
+2015-07-14 10:40:01,017 integrat     INFO     [VT_1889_03_H1-S0] Calling CubeMaker
+2015-07-14 10:40:01,910 integrat     INFO     [VT_1889_10_H1-S0] Calling CubeMaker
+2015-07-14 10:40:05,220 integrat     INFO     [VT_1899_07_H1-S0] Calling CubeMaker
+2015-07-14 10:40:06,010 integrat     INFO     [VT_1889_11_H1-S0] Calling CubeMaker
+2015-07-14 10:40:06,833 integrat     INFO     [VT_1889_13_H1-S0] Calling CubeMaker
+2015-07-14 10:40:08,342 integrat     INFO     [VT_1899_04_H1-S0] Calling CubeMaker
+2015-07-14 10:40:08,545 integrat     INFO     [VT_1899_11_H1-S0] Calling CubeMaker
+2015-07-14 10:40:09,112 integrat     INFO     [VT_1899_08_H1-S0] Calling CubeMaker
+2015-07-14 10:40:11,625 integrat     INFO     [VT_1899_09_H1-S0] Calling CubeMaker
+2015-07-14 10:40:12,133 integrat     INFO     [VT_1899_01_H1-S0] Calling CubeMaker
+2015-07-14 10:40:12,273 integrat     INFO     [VT_1899_12_H1-S0] Calling CubeMaker
+2015-07-14 10:40:12,786 integrat     INFO     [VT_1909_01_T-S0] Calling CubeMaker
+2015-07-14 10:40:13,232 integrat     INFO     [VT_1899_05_H1-S0] Calling CubeMaker
+2015-07-14 10:40:14,813 integrat     INFO     [VT_1899_10_H1-S0] Calling CubeMaker
+2015-07-14 10:40:16,384 integrat     INFO     [VT_1899_06_H1-S0] Calling CubeMaker
+2015-07-14 10:40:17,006 integrat     INFO     [VT_1920_01_T-S1] Calling CubeMaker
+2015-07-14 10:40:17,032 integrat     INFO     [VT_1920_01_T-S2] Calling CubeMaker
+2015-07-14 10:40:17,764 integrat     INFO     [VT_1899_02_H1-S0] Calling CubeMaker
+2015-07-14 10:40:38,061 integrat     INFO     [VT_1920_01_T-S0] Calling CubeMaker
+2015-07-14 10:41:02,770 integrat     INFO     [<urn:graph:cedar-mini:release>] Cleaning the content of the graph 
+2015-07-14 10:41:53,829 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading files in release/
+2015-07-14 10:41:53,830 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S0.ttl.bz2
+2015-07-14 10:41:59,767 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S1.ttl.bz2
+2015-07-14 10:42:04,155 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S10.ttl.bz2
+2015-07-14 10:42:08,293 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S11.ttl.bz2
+2015-07-14 10:42:08,750 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S2.ttl.bz2
+2015-07-14 10:42:13,687 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S3.ttl.bz2
+2015-07-14 10:42:17,399 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S4.ttl.bz2
+2015-07-14 10:42:20,575 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S5.ttl.bz2
+2015-07-14 10:42:22,673 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S6.ttl.bz2
+2015-07-14 10:42:26,346 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S7.ttl.bz2
+2015-07-14 10:42:28,999 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S8.ttl.bz2
+2015-07-14 10:42:32,372 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1859_01_H1-S9.ttl.bz2
+2015-07-14 10:42:34,279 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S0.ttl.bz2
+2015-07-14 10:42:44,171 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S1.ttl.bz2
+2015-07-14 10:42:53,473 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S10.ttl.bz2
+2015-07-14 10:43:02,407 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S11.ttl.bz2
+2015-07-14 10:43:02,978 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S2.ttl.bz2
+2015-07-14 10:43:11,823 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S3.ttl.bz2
+2015-07-14 10:43:26,097 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S4.ttl.bz2
+2015-07-14 10:43:31,875 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S5.ttl.bz2
+2015-07-14 10:43:35,982 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S6.ttl.bz2
+2015-07-14 10:43:42,046 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S7.ttl.bz2
+2015-07-14 10:43:46,430 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S8.ttl.bz2
+2015-07-14 10:43:51,664 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1869_01_H1-S9.ttl.bz2
+2015-07-14 10:43:55,580 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_01_H1-S0.ttl.bz2
+2015-07-14 10:44:06,127 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_02_H1-S0.ttl.bz2
+2015-07-14 10:44:11,786 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_03_H1-S0.ttl.bz2
+2015-07-14 10:44:21,481 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_04_H1-S0.ttl.bz2
+2015-07-14 10:44:26,813 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_05_H1-S0.ttl.bz2
+2015-07-14 10:44:37,017 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_06_H1-S0.ttl.bz2
+2015-07-14 10:44:44,996 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_07_H1-S0.ttl.bz2
+2015-07-14 10:44:50,641 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_08_H1-S0.ttl.bz2
+2015-07-14 10:45:06,397 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_09_H1-S0.ttl.bz2
+2015-07-14 10:45:18,631 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_10_H1-S0.ttl.bz2
+2015-07-14 10:45:31,828 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1879_11_H1-S0.ttl.bz2
+2015-07-14 10:45:44,072 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_03_H1-S0.ttl.bz2
+2015-07-14 10:45:53,272 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_04_H1-S0.ttl.bz2
+2015-07-14 10:46:04,579 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_05_H1-S0.ttl.bz2
+2015-07-14 10:46:09,015 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_06_H1-S0.ttl.bz2
+2015-07-14 10:46:14,684 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_07_H1-S0.ttl.bz2
+2015-07-14 10:46:25,819 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_08_H1-S0.ttl.bz2
+2015-07-14 10:46:38,650 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_09_H1-S0.ttl.bz2
+2015-07-14 10:46:55,478 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_10_H1-S0.ttl.bz2
+2015-07-14 10:47:03,360 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_11_H1-S0.ttl.bz2
+2015-07-14 10:47:08,752 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_12_H1-S0.ttl.bz2
+2015-07-14 10:47:21,919 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1889_13_H1-S0.ttl.bz2
+2015-07-14 10:47:37,934 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_01_H1-S0.ttl.bz2
+2015-07-14 10:47:50,594 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_02_H1-S0.ttl.bz2
+2015-07-14 10:48:00,058 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_03_H1-S0.ttl.bz2
+2015-07-14 10:48:12,777 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_04_H1-S0.ttl.bz2
+2015-07-14 10:48:23,230 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_05_H1-S0.ttl.bz2
+2015-07-14 10:48:29,623 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_06_H1-S0.ttl.bz2
+2015-07-14 10:48:33,935 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_07_H1-S0.ttl.bz2
+2015-07-14 10:48:42,115 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_08_H1-S0.ttl.bz2
+2015-07-14 10:48:47,842 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_09_H1-S0.ttl.bz2
+2015-07-14 10:48:55,253 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_10_H1-S0.ttl.bz2
+2015-07-14 10:48:59,064 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_11_H1-S0.ttl.bz2
+2015-07-14 10:49:07,091 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1899_12_H1-S0.ttl.bz2
+2015-07-14 10:49:08,170 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1909_01_T-S0.ttl.bz2
+2015-07-14 10:50:10,651 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1920_01_T-S0.ttl.bz2
+2015-07-14 10:51:15,242 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1920_01_T-S1.ttl.bz2
+2015-07-14 10:51:15,372 integrat     INFO     [<urn:graph:cedar-mini:release>] Loading release/VT_1920_01_T-S2.ttl.bz2
+2015-07-14 10:51:15,497 integrat     INFO     [<urn:graph:cedar-mini:release>] Done loading data
+2015-07-14 10:51:15,498 integrat     INFO     Asking CubeMaker to generate the DSD
+2015-07-14 10:53:12,592 modules.cube.cubemaker INFO     [release/dsd.ttl] Contains 1421174 triples
+2015-07-14 10:57:22,401 integrat     INFO     [<urn:graph:cedar-mini:release>] Adding the content of the DSD
