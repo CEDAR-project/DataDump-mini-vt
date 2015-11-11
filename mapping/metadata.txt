@@ -29,29 +29,29 @@ mapping_type = uri
 [HousingTypeSituation]
 file = HousingTypeSituation.xls
 author = Ashkan
-predicate = http://bit.ly/cedar#houseType
-prefix = http://bit.ly/cedar#house-
+predicate = http://lod.cedar-project.nl/vocab/cedar#houseType
+prefix = http://lod.cedar-project.nl/vocab/cedar#house-
 mapping_type = uri
 
 [ResidenceStatus]
 file = ResidenceStatus.xls
 author = Ashkan
-predicate = http://bit.ly/cedar#residenceStatus
-prefix = http://bit.ly/cedar-residenceStatus#
+predicate = http://lod.cedar-project.nl/vocab/cedar#residenceStatus
+prefix = http://lod.cedar-project.nl/vocab/cedar-residenceStatus#
 mapping_type = uri
 
 [Kom]
 file = Kom.xls
 author = Ashkan
-predicate = http://bit.ly/cedar#Kom
-prefix = http://bit.ly/cedar-Kom#
+predicate = http://lod.cedar-project.nl/vocab/cedar#Kom
+prefix = http://lod.cedar-project.nl/vocab/cedar-Kom#
 mapping_type = uri
 
 ;; [Wijken]
 ;; file = Wijken.xls
 ;; author = Ashkan
-;; predicate = http://bit.ly/cedar#Wijken
-;; prefix = http://bit.ly/cedar-Wijken#
+;; predicate = http://lod.cedar-project.nl/vocab/cedar#Wijken
+;; prefix = http://lod.cedar-project.nl/vocab/cedar-Wijken#
 ;; mapping_type = uri
 
 [Sex]
@@ -64,6 +64,6 @@ mapping_type = uri
 [Total]
 file = Total.xls
 author = Ashkan
-predicate = http://bit.ly/cedar#isTotal
+predicate = http://lod.cedar-project.nl/vocab/cedar#isTotal
 mapping_type = boolean
 
