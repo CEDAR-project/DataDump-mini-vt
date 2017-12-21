@@ -40,6 +40,13 @@ predicate = http://lod.cedar-project.nl/vocab/cedar#residenceStatus
 prefix = http://lod.cedar-project.nl/vocab/cedar-residenceStatus#
 mapping_type = uri
 
+[MaritalStatus]
+file = MaritalStatus.xls
+author = Ashkan
+predicate = http://lod.cedar-project.nl/vocab/cedar#MaritalStatus
+prefix = http://lod.cedar-project.nl/vocab/cedar-MaritalStatus#
+mapping_type = uri
+
 [Kom]
 file = Kom.xls
 author = Ashkan
